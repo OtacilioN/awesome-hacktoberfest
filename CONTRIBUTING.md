@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-_Welcome hackers it is really **awesome** have you here! Before start contributing with this project make sure you read our [Code Of Conduct](../CODE_OF_CONDUCT.md), it is really important to make this inclusive and open to everyone, otherwise, it would not be awesone_
+_Welcome hackers it is really **awesome** have you here! Before start contributing with this project make sure you read our [Code Of Conduct](https://github.com/OtacilioN/awesome-hacktoberfest-2018/blob/master/CODE_OF_CONDUCT.md), it is really important to make this inclusive and open to everyone, otherwise, it would not be awesone_
 
 ## Have you find some awesome Hacktoberfest participant repository?
 
