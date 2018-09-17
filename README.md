@@ -9,6 +9,7 @@
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 
 ## Meetups and Events
+* **Hacktoberfest @ Sorbonne Université** in Paris (France), the 13th of October ([Eventbrite](https://www.eventbrite.ca/e/billets-hacktoberfest-sorbonne-universite-2018-50269271745))
 
 ## License
 
