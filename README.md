@@ -2,10 +2,13 @@
 > A curated list of awesome Hacktoberfest 2018 repositories
 
 - [First Time](#First-Time)
+- [Meetups and Events](#Meetups-and-Events)
 
 ## First Time
 - [Make A Pull Request](https://github.com/rishabh-bansal/Make-a-Pull-Request)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
+
+## Meetups and Events
 
 ## License
 
