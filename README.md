@@ -5,6 +5,7 @@
 - [Meetups and Events](#Meetups-and-Events)
 
 ## First Time
+- [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [Make A Pull Request](https://github.com/rishabh-bansal/Make-a-Pull-Request)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 
