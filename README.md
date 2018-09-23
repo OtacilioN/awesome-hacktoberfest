@@ -15,6 +15,7 @@
 
 ## Meetups and Events
 * **Hacktoberfest @ Sorbonne Université** in Paris (France), the 13th of October ([Eventbrite](https://www.eventbrite.ca/e/billets-hacktoberfest-sorbonne-universite-2018-50269271745))
+* **Hacktoberfest in Maputo!** in Maputo (Mozambique), the 06th of October ([Meetup](https://www.meetup.com/Mozdevz/events/254945848/))
 
 ## License
 
