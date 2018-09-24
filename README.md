@@ -13,6 +13,9 @@
 - [Make A Pull Request](https://github.com/rishabh-bansal/Make-a-Pull-Request)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 
+## Coding for Beginners
+-[Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
+
 ## Meetups and Events
 * **Hacktoberfest @ Sorbonne Université** in Paris (France), the 13th of October ([Eventbrite](https://www.eventbrite.ca/e/billets-hacktoberfest-sorbonne-universite-2018-50269271745))
 
