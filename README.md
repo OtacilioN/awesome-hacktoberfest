@@ -7,6 +7,7 @@
 
 - [First Time](#First-Time)
 - [Meetups and Events](#Meetups-and-Events)
+- [Coding for Beginners](#Coding-for-Beginners)
 
 ## First Time
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
