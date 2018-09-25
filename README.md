@@ -15,6 +15,7 @@
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
+- [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 
 ## Meetups and Events
 - **Hacktoberfest @ Sorbonne Université** in Paris (France), the 13th of October ([Eventbrite](https://www.eventbrite.ca/e/billets-hacktoberfest-sorbonne-universite-2018-50269271745))
