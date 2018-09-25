@@ -20,6 +20,7 @@
 - **Hacktoberfest @ Sorbonne Université** in Paris (France), the 13th of October ([Eventbrite](https://www.eventbrite.ca/e/billets-hacktoberfest-sorbonne-universite-2018-50269271745))
 - [Hacktoberfest em Recife! 🇧🇷](https://www.sympla.com.br/hacktoberfest-em-recife__367675), the 6th of October
 - [Hacktoberfest in São Luís 🇧🇷](https://hacktoberfest-in-slz.github.io/pagina/), the 6th of October
+- [Celebrate Hacktoberfest 2018 with Auth0!](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/), online event all October
 
 ## License
 
