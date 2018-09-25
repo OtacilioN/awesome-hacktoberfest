@@ -9,12 +9,12 @@
 - [Meetups and Events](#Meetups-and-Events)
 - [Coding for Beginners](#Coding-for-Beginners)
 
-## First Time
+## Repositories Supporting First Timers
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [Make A Pull Request](https://github.com/rishabh-bansal/Make-a-Pull-Request)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 
-## Coding for Beginners
+## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 
 ## Meetups and Events
