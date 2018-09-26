@@ -26,6 +26,7 @@
 - [Hacktoberfest em Recife! 🇧🇷](https://www.sympla.com.br/hacktoberfest-em-recife__367675), the 6th of October
 - [Hacktoberfest in São Luís 🇧🇷](https://hacktoberfest-in-slz.github.io/pagina/), the 6th of October
 - [Celebrate Hacktoberfest 2018 with Auth0!](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/), online event all October
+- **Hacktoberfest in Maputo!** in Maputo (Mozambique), the 03rd of October ([Meetup](https://www.meetup.com/Mozdevz/events/254945848/))
 
 ## License
 
