@@ -4,10 +4,10 @@
 > Dont forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2018/blob/master/CONTRIBUTING.md)
 
 ## Contents
-- [Repositories Supporting First Timers](#Repositories-Supporting-First-Timers)
-- [Repositories Coding for Beginners](#Repositories-Coding-for-Beginners)
-- [Guides and Resources](#Guides-and-Resources)
-- [Meetups and Events](#Meetups-and-Events)
+- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
+- [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+- [Guides and Resources](#guides-and-resources)
+- [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First Timers
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
