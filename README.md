@@ -7,6 +7,7 @@
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
 - [Guides and Resources](#guides-and-resources)
+- [Cli Tools](#cli-tools)
 - [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First Timers
@@ -20,6 +21,9 @@
 
 ## Guides and Resources
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
+
+## CLI Tools
+- [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
 
 ## Meetups and Events
 - **Hacktoberfest @ Sorbonne Université** in Paris (France), the 13th of October ([Eventbrite](https://www.eventbrite.ca/e/billets-hacktoberfest-sorbonne-universite-2018-50269271745))
