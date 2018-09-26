@@ -4,18 +4,31 @@
 > Dont forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2018/blob/master/CONTRIBUTING.md)
 
 ## Contents
+- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
+- [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+- [Guides and Resources](#guides-and-resources)
+- [Meetups and Events](#meetups-and-events)
 
-- [First Time](#First-Time)
-- [Meetups and Events](#Meetups-and-Events)
-
-## First Time
+## Repositories Supporting First Timers
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [Make A Pull Request](https://github.com/rishabh-bansal/Make-a-Pull-Request)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 
+## Repositories Coding for Beginners
+- [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
+- [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
+
+## Guides and Resources
+- [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
+
 ## Meetups and Events
+
 * **Hacktoberfest @ Sorbonne Université** in Paris (France), the 13th of October ([Eventbrite](https://www.eventbrite.ca/e/billets-hacktoberfest-sorbonne-universite-2018-50269271745))
-* **Hacktoberfest in Maputo!** in Maputo (Mozambique), the 06th of October ([Meetup](https://www.meetup.com/Mozdevz/events/254945848/))
+- **Hacktoberfest @ Sorbonne Université** in Paris (France), the 13th of October ([Eventbrite](https://www.eventbrite.ca/e/billets-hacktoberfest-sorbonne-universite-2018-50269271745))
+- [Hacktoberfest em Recife! 🇧🇷](https://www.sympla.com.br/hacktoberfest-em-recife__367675), the 6th of October
+- [Hacktoberfest in São Luís 🇧🇷](https://hacktoberfest-in-slz.github.io/pagina/), the 6th of October
+- [Celebrate Hacktoberfest 2018 with Auth0!](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/), online event all October
+- **Hacktoberfest in Maputo!** in Maputo (Mozambique), the 03rd of October ([Meetup](https://www.meetup.com/Mozdevz/events/254945848/))
 
 ## License
 
