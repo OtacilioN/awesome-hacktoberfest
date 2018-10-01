@@ -25,6 +25,7 @@
 
 ## Guides and Resources
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
+- [Github Pages](https://pages.github.com/)
 
 ## CLI Tools
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
