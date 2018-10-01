@@ -18,6 +18,7 @@
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
+- [Hello World! in different programming languages](https://github.com/frunkad/my-hello-world)
 
 ## Guides and Resources
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
