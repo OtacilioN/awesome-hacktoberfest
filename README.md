@@ -12,8 +12,8 @@
 
 ## Repositories Supporting First Timers
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
-- [Make A Pull Request](https://github.com/rishabh-bansal/Make-a-Pull-Request)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
+- [Hacktoberfest 2018](https://github.com/mcao/hacktoberfest-2018)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
