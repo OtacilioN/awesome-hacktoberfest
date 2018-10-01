@@ -4,11 +4,14 @@
 > Dont forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2018/blob/master/CONTRIBUTING.md)
 
 ## Contents
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
-- [Repositories Coding for Beginners](#repositories-coding-for-beginners)
-- [Guides and Resources](#guides-and-resources)
-- [Cli Tools](#cli-tools)
-- [Meetups and Events](#meetups-and-events)
+- [Awesome Hacktoberfest 2018 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hacktoberfest-2018-awesomehttpsgithubcomsindresorhusawesome)
+  - [Contents](#contents)
+  - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
+  - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+  - [Guides and Resources](#guides-and-resources)
+  - [CLI Tools](#cli-tools)
+  - [Meetups and Events](#meetups-and-events)
+  - [License](#license)
 
 ## Repositories Supporting First Timers
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
@@ -16,6 +19,8 @@
 - [Hacktoberfest 2018](https://github.com/mcao/hacktoberfest-2018)
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
+- [Spectre React Components](https://github.com/CodeDraken/spectre-react)
+- [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
