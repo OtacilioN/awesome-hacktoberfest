@@ -14,6 +14,7 @@
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [Hacktoberfest 2018](https://github.com/mcao/hacktoberfest-2018)
+- [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
