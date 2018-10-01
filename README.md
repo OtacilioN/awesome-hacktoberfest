@@ -14,11 +14,13 @@
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [Hacktoberfest 2018](https://github.com/mcao/hacktoberfest-2018)
+- [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Caipyra](https://github.com/jtemporal/caipyra)
+- [Hello World! in different programming languages](https://github.com/frunkad/my-hello-world)
 
 ## Guides and Resources
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
