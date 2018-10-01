@@ -19,6 +19,7 @@
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
+- [Caipyra](https://github.com/jtemporal/caipyra)
 - [Hello World! in different programming languages](https://github.com/frunkad/my-hello-world)
 
 ## Guides and Resources
