@@ -4,7 +4,6 @@
 > Dont forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2018/blob/master/CONTRIBUTING.md)
 
 ## Contents
-- [Awesome Hacktoberfest 2018 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hacktoberfest-2018-awesomehttpsgithubcomsindresorhusawesome)
   - [Contents](#contents)
   - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
   - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
