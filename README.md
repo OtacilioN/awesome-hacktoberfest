@@ -22,6 +22,8 @@
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Caipyra](https://github.com/jtemporal/caipyra)
 - [Hello World! in different programming languages](https://github.com/frunkad/my-hello-world)
+- [Spectre React Components](https://github.com/CodeDraken/spectre-react)
+- [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 
 ## Guides and Resources
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
