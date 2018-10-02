@@ -30,6 +30,9 @@
 ## CLI Tools
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
 
+## CLI Tools
+- [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
+
 ## Meetups and Events
 - **Hacktoberfest Tours 2018** in Tours (France), the 18th of October ([Meetup](https://www.meetup.com/fr-FR/afup-tours-php/events/254681777/))
 - **Hacktoberfest @ Sorbonne Université** in Paris (France), the 13th of October ([Eventbrite](https://www.eventbrite.ca/e/billets-hacktoberfest-sorbonne-universite-2018-50269271745))
