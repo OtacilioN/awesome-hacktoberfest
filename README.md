@@ -17,6 +17,7 @@
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Hello World](https://github.com/wsu-lug/hello-world)
+- [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
