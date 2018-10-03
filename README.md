@@ -16,7 +16,7 @@
 - [Hacktoberfest 2018](https://github.com/mcao/hacktoberfest-2018)
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
-- [Hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
+- [Hello World](https://github.com/wsu-lug/hello-world)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
