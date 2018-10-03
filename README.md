@@ -24,7 +24,7 @@
 - [Hello World! in different programming languages](https://github.com/frunkad/my-hello-world)
 - [Spectre React Components](https://github.com/CodeDraken/spectre-react)
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
-- [adlyloukil/Hacktoberfest-2018-Lets-Build-a-website-together](https://github.com/adlyloukil/Hacktoberfest-2018-Lets-Build-a-website-together)
+- [Hacktoberfest-2018-Lets-Build-a-website-together](https://github.com/adlyloukil/Hacktoberfest-2018-Lets-Build-a-website-together)
 
 ## Guides and Resources
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
