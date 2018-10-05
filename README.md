@@ -18,6 +18,7 @@
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Hello World](https://github.com/wsu-lug/hello-world)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
+- [Programming Quotes](https://github.com/Omkar-Ajnadkar/Programming-Quotes)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
