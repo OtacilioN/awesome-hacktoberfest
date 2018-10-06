@@ -30,6 +30,9 @@
 - [Hacktoberfest-2018-Lets-Build-a-website-together](https://github.com/adlyloukil/Hacktoberfest-2018-Lets-Build-a-website-together)
 - [Beetlesbot](https://github.com/bleeptrack/beetlesbot/)
 - [WhatTattooNext](https://github.com/binarykittenDE/whatTattooNext)
+- [Filosofunk](https://github.com/IgorRozani/filosofunk)
+- [Hacktoberfest-Mathematics](https://github.com/BaReinhard/Hacktoberfest-Mathematics)
+- [Hacktoberfest-Data-Structure-and-Algorithms](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 
 ## Guides and Resources
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
