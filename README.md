@@ -19,6 +19,7 @@
 - [Hello World](https://github.com/wsu-lug/hello-world)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Programming Quotes](https://github.com/Omkar-Ajnadkar/Programming-Quotes)
+- [Newbie Hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
