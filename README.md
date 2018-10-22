@@ -21,6 +21,7 @@
 - [Programming Quotes](https://github.com/Omkar-Ajnadkar/Programming-Quotes)
 - [Newbie Hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
+- [Hactoberfest2018](https://github.com/ambujraj/hacktoberfest2018)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
