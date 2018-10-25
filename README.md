@@ -22,6 +22,7 @@
 - [Newbie Hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
 - [Hactoberfest2018](https://github.com/ambujraj/hacktoberfest2018)
+- [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
