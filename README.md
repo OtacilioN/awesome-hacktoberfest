@@ -9,6 +9,7 @@
 - [Guides and Resources](#guides-and-resources)
 - [Cli Tools](#cli-tools)
 - [Meetups and Events](#meetups-and-events)
+- [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 
 ## Repositories Supporting First Timers
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
