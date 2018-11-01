@@ -1,4 +1,4 @@
-# Awesome Hacktoberfest 2018 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Hacktoberfest 2018 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome Hacktoberfest 2018 repositories. Have you enjoyed? Leave a star :star: to support this project :sparkles:
 
 > Dont forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2018/blob/master/CONTRIBUTING.md)
@@ -40,6 +40,9 @@
 - [Hacktoberfest-Data-Structure-and-Algorithms](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
+- [Django Gamification](https://github.com/mattjegan/django-gamification)
+
+
 
 ## Guides and Resources
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
