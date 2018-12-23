@@ -41,6 +41,7 @@
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
 - [Django Gamification](https://github.com/mattjegan/django-gamification)
+- [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 
 
 
