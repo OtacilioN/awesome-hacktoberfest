@@ -42,6 +42,7 @@
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
 - [Django Gamification](https://github.com/mattjegan/django-gamification)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
+- [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 
 
 
