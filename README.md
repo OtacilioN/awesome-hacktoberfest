@@ -27,6 +27,7 @@
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy/)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke/)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [Hacktoberfest2019](https://github.com/luanmbrito/NodeJS-Postgresql-Mongodb)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
