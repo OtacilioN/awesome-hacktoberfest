@@ -41,6 +41,7 @@
 - [Django Gamification](https://github.com/mattjegan/django-gamification)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
+- [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
 
 
 
