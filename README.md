@@ -14,12 +14,10 @@
 ## Repositories Supporting First Timers
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
-- [Hacktoberfest 2018](https://github.com/mcao/hacktoberfest-2018)
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Hello World](https://github.com/wsu-lug/hello-world)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
-- [Programming Quotes](https://github.com/Omkar-Ajnadkar/Programming-Quotes)
 - [Newbie Hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
 - [Hactoberfest2018](https://github.com/ambujraj/hacktoberfest2018)
