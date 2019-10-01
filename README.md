@@ -45,7 +45,7 @@
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
-
+- [Give feedback for a new CLI based project idea for creating webapps](https://github.com/buildtip/create-web-app/issues/60) 
 
 
 ## Guides and Resources
