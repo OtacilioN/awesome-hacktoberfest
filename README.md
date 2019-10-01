@@ -23,6 +23,7 @@
 - [Hactoberfest2018](https://github.com/ambujraj/hacktoberfest2018)
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
 - [Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
+- [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy/)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
