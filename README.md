@@ -15,6 +15,7 @@
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
+- [Build Travel Cards](https://github.com/s-Hale/BuildTravelCards)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Hello World](https://github.com/wsu-lug/hello-world)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
