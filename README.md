@@ -25,6 +25,7 @@
 - [Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy/)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke/)
+- [Open source drinks](https://github.com/alfg/opendrinks)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
