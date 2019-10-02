@@ -26,6 +26,7 @@
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy/)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke/)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [Awesome First-Timers](https://github.com/Anupam-dagar/awesome-first-timers)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
