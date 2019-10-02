@@ -26,6 +26,8 @@
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy/)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke/)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
+- [Hacktoberfest 2019 Angular Resources](https://github.com/timdeschryver/hacktoberfest-2019-angular)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
