@@ -1,10 +1,12 @@
 # Contribution Guidelines
 
 _Welcome hackers! It is really **awesome** to have you here! Before you start contributing with this project make sure you read our [Code Of Conduct](https://github.com/OtacilioN/awesome-hacktoberfest-2018/blob/master/CODE_OF_CONDUCT.md), it is really important to make this inclusive and open to everyone, otherwise, it would not be awesome_
+This repository was created to help deveopers get started with Open Source during [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 ## Have you found some awesome repositories participating in Hacktoberfest?
 
 Add them to this list so others can find it too and start contributing, however, make sure that these repositories are beginner-friendly!
+> NOTE: Check out `issues` labelled as `Hacktoberfest` and start contributing!
 
 ## Submitting a pull request
 
