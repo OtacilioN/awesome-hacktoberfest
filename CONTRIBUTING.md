@@ -19,3 +19,4 @@ Add them to this list so others can find it too and start contributing, however,
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
+- [Your first time with git and github](https://kbroman.org/github_tutorial/pages/first_time.html)
