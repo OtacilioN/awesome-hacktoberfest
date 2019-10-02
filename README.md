@@ -18,7 +18,9 @@
 - [Build Travel Cards](https://github.com/s-Hale/BuildTravelCards)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Hello World](https://github.com/wsu-lug/hello-world)
-- [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
+- [Hacktoberfest Animations](https://github.com/NiallEccles/
+- [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
+Hacktoberfest-animations)
 - [Newbie Hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
 - [Hactoberfest2018](https://github.com/ambujraj/hacktoberfest2018)
