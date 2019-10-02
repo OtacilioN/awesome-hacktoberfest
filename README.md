@@ -45,12 +45,14 @@
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
+- [Hacktoberfest 2019 for Beginners](https://github.com/LakshitF/HacktoberFest2019-beginners)
 
 
 
 ## Guides and Resources
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Github Pages](https://pages.github.com/)
+- [Guide to Contributing to Open Source Projects via Github](https://github.com/firstcontributions/first-contributions)
 
 ## CLI Tools
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
