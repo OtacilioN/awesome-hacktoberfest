@@ -1,5 +1,5 @@
 ﻿# Awesome Hacktoberfest 2019 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome Hacktoberfest 2019 repositories. Have you enjoyed? Leave a star :star: to support this project :sparkles:
+> We present a curated list of awesome Hacktoberfest 2019 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
@@ -58,6 +58,9 @@
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
 
 ## Meetups and Events
+- ["Git or Treat" Hacktoberfest Code Jam](https://www.meetup.com/Women-Who-Code-Atlanta/events/264879227/): 
+  - October 30, 2019: 5:30-8:30pm
+  - Ponce City Market, Atlanta, GA, USA. 
 
 ## License
 
