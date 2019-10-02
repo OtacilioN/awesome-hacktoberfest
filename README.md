@@ -29,6 +29,8 @@ Hacktoberfest-animations)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy/)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke/)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
+- [Hacktoberfest 2019 Angular Resources](https://github.com/timdeschryver/hacktoberfest-2019-angular)
 - [Hacktoberfest2019](https://github.com/luanmbrito/NodeJS-Postgresql-Mongodb)
 
 ## Repositories Coding for Beginners
