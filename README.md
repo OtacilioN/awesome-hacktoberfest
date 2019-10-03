@@ -33,6 +33,8 @@ Hacktoberfest-animations)
 - [Hacktoberfest 2019 Angular Resources](https://github.com/timdeschryver/hacktoberfest-2019-angular)
 - [Hacktoberfest2019](https://github.com/luanmbrito/NodeJS-Postgresql-Mongodb)
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
+- [Awesome-Hacking
+](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
