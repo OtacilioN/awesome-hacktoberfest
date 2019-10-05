@@ -38,6 +38,7 @@ Hacktoberfest-animations)
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
+- [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
