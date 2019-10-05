@@ -4,6 +4,7 @@
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
 ## Contents
+- [GitStart - Make Your First Pull Request](https://github.com/rishabh-bansal/GitStart)
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
 - [Guides and Resources](#guides-and-resources)
@@ -33,7 +34,10 @@ Hacktoberfest-animations)
 - [Hacktoberfest 2019 Angular Resources](https://github.com/timdeschryver/hacktoberfest-2019-angular)
 - [Hacktoberfest2019](https://github.com/luanmbrito/NodeJS-Postgresql-Mongodb)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
+- [Hasura](https://github.com/hasura/graphql-engine)
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
@@ -42,6 +46,7 @@ Hacktoberfest-animations)
 - [Spectre React Components](https://github.com/CodeDraken/spectre-react)
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [Hacktoberfest-2018-Lets-Build-a-website-together](https://github.com/adlyloukil/Hacktoberfest-2018-Lets-Build-a-website-together)
+- [C Programs](https://github.com/Akanksha1212/C_Programs)
 - [Beetlesbot](https://github.com/bleeptrack/beetlesbot/)
 - [WhatTattooNext](https://github.com/binarykittenDE/whatTattooNext)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
