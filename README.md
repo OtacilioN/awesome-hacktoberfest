@@ -1,7 +1,7 @@
 # Awesome Hacktoberfest 2019 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > We present a curated list of awesome Hacktoberfest 2019 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
-> Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
+> Dont forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
 ## Contents
 - [GitStart - Make Your First Pull Request](https://github.com/rishabh-bansal/GitStart)
