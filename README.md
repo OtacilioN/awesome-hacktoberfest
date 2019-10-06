@@ -32,6 +32,7 @@
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [Hacktoberfest 2019 Angular Resources](https://github.com/timdeschryver/hacktoberfest-2019-angular)
 - [Hacktoberfest2019](https://github.com/luanmbrito/NodeJS-Postgresql-Mongodb)
+- [Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
 - [Hasura](https://github.com/hasura/graphql-engine)
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
