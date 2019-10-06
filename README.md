@@ -17,15 +17,15 @@
 ## Repositories Supporting First Timers
 
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
+- [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 - [Build Travel Cards](https://github.com/s-Hale/BuildTravelCards)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Hello World](https://github.com/wsu-lug/hello-world)
-- [Hacktoberfest Animations](https://github.com/NiallEccles)
+- [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
-  Hacktoberfest-animations)
 - [Newbie Hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
 - [Hactoberfest2018](https://github.com/ambujraj/hacktoberfest2018)
@@ -37,11 +37,16 @@
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [Hacktoberfest 2019 Angular Resources](https://github.com/timdeschryver/hacktoberfest-2019-angular)
 - [Hacktoberfest2019](https://github.com/luanmbrito/NodeJS-Postgresql-Mongodb)
+- [Hacktoberfest 2019 Project Ideas](https://github.com/aletaschner/HacktoberFest2019-ProjectIdeas)
+- [Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
 - [Hasura](https://github.com/hasura/graphql-engine)
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking
+- [Innovative-Hacktober](https://github.com/InnovativeCoder/Innovative-Hacktober)
 - [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
+- [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
+- [HacktoberMap](https://github.com/abhijitparida/hacktobermap)
 
 ## Repositories Coding for Beginners
 
@@ -64,7 +69,9 @@
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
 - [Give feedback for a new CLI based project idea for creating webapps](https://github.com/buildtip/create-web-app/issues/60)
+- [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Pybites- solve problems](git@github.com:Anuj-Devrani/awesome-hacktoberfest-2019.git)
+- [Compiler example with C#](https://github.com/Tarcioc2/Static-Checker-Compiladores.git)
 
 ## Guides and Resources
 
@@ -77,10 +84,18 @@
 
 ## Meetups and Events
 
-- ["Git or Treat" Hacktoberfest Code Jam](https://www.meetup.com/Women-Who-Code-Atlanta/events/264879227/):
+- ["Git or Treat" Hacktoberfest Code Jam](https://www.meetup.com/Women-Who-Code-Atlanta/events/264879227/): 
   - October 30, 2019: 5:30-8:30pm
   - Ponce City Market, Atlanta, GA, USA.
 
+- [iFoodTech Hacktoberfest](https://www.meetup.com/pt-BR/iFood-Meetups/events/265318473/):
+  - October 8, 2019: 7:00-10:00pm
+  - Rua Jasmin, 660 , Campinas, SP, Brazil.
+
+- [Hacktoberfest na Wirecard BR](https://www.eventbrite.com.br/e/hacktoberfest-na-wirecard-br-tickets-75069251151):
+  - October 12, 2019: 10:00am-5:00pm
+  - Wirecard, São Paulo, SP, Brazil. 
+  
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
