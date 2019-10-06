@@ -15,6 +15,7 @@
 
 ## Repositories Supporting First Timers
 
+- [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
