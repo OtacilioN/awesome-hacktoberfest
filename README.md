@@ -82,7 +82,7 @@
 
 ## Meetups and Events
 
-- ["Git or Treat" Hacktoberfest Code Jam](https://www.meetup.com/Women-Who-Code-Atlanta/events/264879227/):
+- ["Git or Treat" Hacktoberfest Code Jam](https://www.meetup.com/Women-Who-Code-Atlanta/events/264879227/): 
   - October 30, 2019: 5:30-8:30pm
   - Ponce City Market, Atlanta, GA, USA.
 
