@@ -40,7 +40,8 @@
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
 - [Hasura](https://github.com/hasura/graphql-engine)
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking
+- [Innovative-Hacktober](https://github.com/InnovativeCoder/Innovative-Hacktober)
 - [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
 
 ## Repositories Coding for Beginners
