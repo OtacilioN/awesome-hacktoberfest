@@ -86,6 +86,13 @@
   - October 30, 2019: 5:30-8:30pm
   - Ponce City Market, Atlanta, GA, USA.
 
+- [iFoodTech Hacktoberfest](https://www.meetup.com/pt-BR/iFood-Meetups/events/265318473/):
+  - October 8, 2019: 7:00-10:00pm
+  - Rua Jasmin, 660 , Campinas, SP, Brazil.
+
+- [Hacktoberfest na Wirecard BR](https://www.eventbrite.com.br/e/hacktoberfest-na-wirecard-br-tickets-75069251151):
+  - October 12, 2019: 10:00am-5:00pm
+  - Wirecard, São Paulo, SP, Brazil. 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
