@@ -43,6 +43,7 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking
 - [Innovative-Hacktober](https://github.com/InnovativeCoder/Innovative-Hacktober)
 - [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
+- [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [HacktoberMap](https://github.com/abhijitparida/hacktobermap)
 
 ## Repositories Coding for Beginners
