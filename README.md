@@ -1,9 +1,11 @@
 # Awesome Hacktoberfest 2019 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 > We present a curated list of awesome Hacktoberfest 2019 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
 ## Contents
+
 - [GitStart - Make Your First Pull Request](https://github.com/rishabh-bansal/GitStart)
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
@@ -13,6 +15,7 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 
 ## Repositories Supporting First Timers
+
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
@@ -41,6 +44,7 @@
 - [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
 
 ## Repositories Coding for Beginners
+
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Caipyra](https://github.com/jtemporal/caipyra)
@@ -54,26 +58,29 @@
 - [Hacktoberfest-Mathematics](https://github.com/BaReinhard/Hacktoberfest-Mathematics)
 - [Hacktoberfest-Data-Structure-and-Algorithms](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Django Gamification](https://github.com/mattjegan/django-gamification)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
 - [Give feedback for a new CLI based project idea for creating webapps](https://github.com/buildtip/create-web-app/issues/60)
+- [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Pybites- solve problems](git@github.com:Anuj-Devrani/awesome-hacktoberfest-2019.git)
 
-
 ## Guides and Resources
+
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Github Pages](https://pages.github.com/)
 
 ## CLI Tools
+
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
 
 ## Meetups and Events
-- ["Git or Treat" Hacktoberfest Code Jam](https://www.meetup.com/Women-Who-Code-Atlanta/events/264879227/): 
+
+- ["Git or Treat" Hacktoberfest Code Jam](https://www.meetup.com/Women-Who-Code-Atlanta/events/264879227/):
   - October 30, 2019: 5:30-8:30pm
-  - Ponce City Market, Atlanta, GA, USA. 
+  - Ponce City Market, Atlanta, GA, USA.
 
 ## License
 
