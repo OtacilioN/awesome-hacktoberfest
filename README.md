@@ -1,9 +1,10 @@
-﻿# Awesome Hacktoberfest 2019 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hacktoberfest 2019 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > We present a curated list of awesome Hacktoberfest 2019 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
 ## Contents
+- [GitStart - Make Your First Pull Request](https://github.com/rishabh-bansal/GitStart)
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
 - [Guides and Resources](#guides-and-resources)
@@ -18,21 +19,26 @@
 - [Build Travel Cards](https://github.com/s-Hale/BuildTravelCards)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Hello World](https://github.com/wsu-lug/hello-world)
-- [Hacktoberfest Animations](https://github.com/NiallEccles/
+- [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
-Hacktoberfest-animations)
 - [Newbie Hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
 - [Hactoberfest2018](https://github.com/ambujraj/hacktoberfest2018)
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
 - [Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
-- [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy/)
-- [DevJoke](https://github.com/shrutikapoor08/devjoke/)
+- [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
+- [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [Hacktoberfest 2019 Angular Resources](https://github.com/timdeschryver/hacktoberfest-2019-angular)
 - [Hacktoberfest2019](https://github.com/luanmbrito/NodeJS-Postgresql-Mongodb)
 - [Hacktoberfest 2019 Project Ideas](https://github.com/aletaschner/HacktoberFest2019-ProjectIdeas)
+- [Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
+- [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
+- [Hasura](https://github.com/hasura/graphql-engine)
+- [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
 
 ## Repositories Coding for Beginners
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
@@ -41,6 +47,7 @@ Hacktoberfest-animations)
 - [Spectre React Components](https://github.com/CodeDraken/spectre-react)
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [Hacktoberfest-2018-Lets-Build-a-website-together](https://github.com/adlyloukil/Hacktoberfest-2018-Lets-Build-a-website-together)
+- [C Programs](https://github.com/Akanksha1212/C_Programs)
 - [Beetlesbot](https://github.com/bleeptrack/beetlesbot/)
 - [WhatTattooNext](https://github.com/binarykittenDE/whatTattooNext)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
@@ -52,7 +59,8 @@ Hacktoberfest-animations)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
-- [Give feedback for a new CLI based project idea for creating webapps](https://github.com/buildtip/create-web-app/issues/60) 
+- [Give feedback for a new CLI based project idea for creating webapps](https://github.com/buildtip/create-web-app/issues/60)
+- [Pybites- solve problems](git@github.com:Anuj-Devrani/awesome-hacktoberfest-2019.git)
 
 
 ## Guides and Resources
