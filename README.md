@@ -16,6 +16,7 @@
 
 ## Repositories Supporting First Timers
 
+- [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
@@ -94,6 +95,7 @@
 - [Hacktoberfest na Wirecard BR](https://www.eventbrite.com.br/e/hacktoberfest-na-wirecard-br-tickets-75069251151):
   - October 12, 2019: 10:00am-5:00pm
   - Wirecard, São Paulo, SP, Brazil. 
+  
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
