@@ -47,6 +47,7 @@
 - [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [HacktoberMap](https://github.com/abhijitparida/hacktobermap)
+- [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 
 ## Repositories Coding for Beginners
 
