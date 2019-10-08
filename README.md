@@ -97,7 +97,12 @@
 - [Hacktoberfest na Wirecard BR](https://www.eventbrite.com.br/e/hacktoberfest-na-wirecard-br-tickets-75069251151):
   - October 12, 2019: 10:00am-5:00pm
   - Wirecard, São Paulo, SP, Brazil. 
+
+- [ML HacktoberFest](https://www.meetup.com/de-DE/Hacking-Machine-Learning/events/265346430/)
+  - October, 12 2019: 10:00am-06:00pm
+  - Stylight HQ, Nymphenburger Str. 86, 80636 Munich, Germany.
   
+See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
