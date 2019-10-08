@@ -47,8 +47,8 @@
 - [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [HacktoberMap](https://github.com/abhijitparida/hacktobermap)
+- [Data_Structure_and_Algorithms](https://github.com/AshwinKushwah/Data_Structure_and_Algorithms)
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
-
 
 ## Repositories Coding for Beginners
 
