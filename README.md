@@ -18,7 +18,6 @@
 
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
-- [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 - [Build Travel Cards](https://github.com/s-Hale/BuildTravelCards)
@@ -28,7 +27,6 @@
 - [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
 - [Newbie Hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
-- [Hactoberfest2018](https://github.com/ambujraj/hacktoberfest2018)
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
 - [Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
@@ -58,7 +56,6 @@
 - [Caipyra](https://github.com/jtemporal/caipyra)
 - [Spectre React Components](https://github.com/CodeDraken/spectre-react)
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
-- [Hacktoberfest-2018-Lets-Build-a-website-together](https://github.com/adlyloukil/Hacktoberfest-2018-Lets-Build-a-website-together)
 - [C Programs](https://github.com/Akanksha1212/C_Programs)
 - [Beetlesbot](https://github.com/bleeptrack/beetlesbot/)
 - [WhatTattooNext](https://github.com/binarykittenDE/whatTattooNext)
