@@ -14,7 +14,7 @@ Add them to this list so others can find it too and start contributing, however,
 1. Create a new branch: `git checkout -b my-branch-name`.
 1. Add your item at the end of the appropriate section or create a new section, if you are not sure about the appropriate section you can open an issue to discuss with the community.
 1. Push to your fork and [submit a pull request](https://github.com/OtacilioN/awesome-hacktoberfest-2018/compare).
-1. Pat yourself on the back and wait for your pull request to be reviewed and merged.
+1. Make sure to pat yourself on the back because you deserve it and wait for your pull request to be reviewed and merged.
 
 ## Resources
 
