@@ -25,7 +25,6 @@
 - [Hello World](https://github.com/wsu-lug/hello-world)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
-- [Newbie Hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
 - [Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
