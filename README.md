@@ -48,6 +48,7 @@
 - [Notes-App](https://github.com/NullByte08/Notes-App)
 - [Data_Structure_and_Algorithms](https://github.com/AshwinKushwah/Data_Structure_and_Algorithms)
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
+- [first-contributions](https://github.com/devncode/first-contributions)
 
 ## Repositories Coding for Beginners
 
