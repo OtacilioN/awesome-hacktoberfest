@@ -101,6 +101,10 @@
   - October, 12 2019: 10:00am-06:00pm
   - Stylight HQ, Nymphenburger Str. 86, 80636 Munich, Germany.
   
+- [Hacktoberfest na Dextra](https://www.sympla.com.br/hacktoberfest-na-dextra__671233):
+  - October 19, 2019: 09:00am-2:00pm
+  - Dextra Digital, Campinas, SP, Brazil.
+  
 See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 ## License
 
