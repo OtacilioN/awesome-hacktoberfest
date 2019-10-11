@@ -49,6 +49,8 @@
 - [Data_Structure_and_Algorithms](https://github.com/AshwinKushwah/Data_Structure_and_Algorithms)
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
+- [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+- [HBD](https://github.com/vinitshahdeo/HBD)
 
 ## Repositories Coding for Beginners
 
