@@ -49,6 +49,8 @@
 - [Data_Structure_and_Algorithms](https://github.com/AshwinKushwah/Data_Structure_and_Algorithms)
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
+- [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+- [HBD](https://github.com/vinitshahdeo/HBD)
 
 ## Repositories Coding for Beginners
 
@@ -75,6 +77,7 @@
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [Compiler example with C#](https://github.com/Tarcioc2/Static-Checker-Compiladores.git)
 - [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
+- [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 
 ## Guides and Resources
 
