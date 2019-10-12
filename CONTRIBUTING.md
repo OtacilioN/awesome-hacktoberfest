@@ -20,6 +20,7 @@ Add them to this list so others can find it too and start contributing, however,
 
 ## Resources
 
+- [How to Start with Hacktoberfest](https://www.youtube.com/watch?v=4RvIFvmZA3o)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
