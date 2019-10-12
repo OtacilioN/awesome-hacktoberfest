@@ -15,6 +15,7 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 
 ## Repositories Supporting First Timers
+
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
@@ -52,7 +53,7 @@
 
 ## Repositories Coding for Beginners
 
-- [Android-Privacy-Viz] (https://github.com/rohitasnair/android-privacy-viz)
+- [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Caipyra](https://github.com/jtemporal/caipyra)
