@@ -55,7 +55,7 @@
 
 ## Repositories Coding for Beginners
 
-- [Android-Privacy-Viz] (https://github.com/rohitasnair/android-privacy-viz)
+- [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Caipyra](https://github.com/jtemporal/caipyra)
