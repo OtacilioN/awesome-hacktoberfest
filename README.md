@@ -15,6 +15,7 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 
 ## Repositories Supporting First Timers
+- [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
