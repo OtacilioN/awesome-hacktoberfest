@@ -22,7 +22,6 @@
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 - [Build Travel Cards](https://github.com/s-Hale/BuildTravelCards)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
-- [Hello World](https://github.com/wsu-lug/hello-world)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
