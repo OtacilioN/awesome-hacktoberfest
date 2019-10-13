@@ -15,10 +15,9 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 
 ## Repositories Supporting First Timers
-
+- [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
-- [My First PR](https://github.com/my-first-pr/hacktoberfest-2018)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 - [Build Travel Cards](https://github.com/s-Hale/BuildTravelCards)
@@ -26,9 +25,7 @@
 - [Hello World](https://github.com/wsu-lug/hello-world)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
-- [Newbie Hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
-- [Hactoberfest2018](https://github.com/ambujraj/hacktoberfest2018)
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
 - [Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
@@ -48,15 +45,22 @@
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [HacktoberMap](https://github.com/abhijitparida/hacktobermap)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
+- [HackToBerFest2019](https://github.com/HackToberFeststuff/HackToberFest2019)
+- [Notes-App](https://github.com/NullByte08/Notes-App)
+- [Data_Structure_and_Algorithms](https://github.com/AshwinKushwah/Data_Structure_and_Algorithms)
+- [hello-open-source](https://github.com/mazipan/hello-open-source)
+- [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
+- [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+- [HBD](https://github.com/vinitshahdeo/HBD)
 
 ## Repositories Coding for Beginners
 
+- [Android-Privacy-Viz] (https://github.com/rohitasnair/android-privacy-viz)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Caipyra](https://github.com/jtemporal/caipyra)
 - [Spectre React Components](https://github.com/CodeDraken/spectre-react)
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
-- [Hacktoberfest-2018-Lets-Build-a-website-together](https://github.com/adlyloukil/Hacktoberfest-2018-Lets-Build-a-website-together)
 - [C Programs](https://github.com/Akanksha1212/C_Programs)
 - [Beetlesbot](https://github.com/bleeptrack/beetlesbot/)
 - [WhatTattooNext](https://github.com/binarykittenDE/whatTattooNext)
@@ -71,8 +75,9 @@
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
 - [Give feedback for a new CLI based project idea for creating webapps](https://github.com/buildtip/create-web-app/issues/60)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
-- [Pybites- solve problems](git@github.com:Anuj-Devrani/awesome-hacktoberfest-2019.git)
+- [Pybites- solve problems](https://github.com/pybites/challenges)
 - [Compiler example with C#](https://github.com/Tarcioc2/Static-Checker-Compiladores.git)
+- [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 
 ## Guides and Resources
 
@@ -96,7 +101,16 @@
 - [Hacktoberfest na Wirecard BR](https://www.eventbrite.com.br/e/hacktoberfest-na-wirecard-br-tickets-75069251151):
   - October 12, 2019: 10:00am-5:00pm
   - Wirecard, São Paulo, SP, Brazil. 
+
+- [ML HacktoberFest](https://www.meetup.com/de-DE/Hacking-Machine-Learning/events/265346430/)
+  - October, 12 2019: 10:00am-06:00pm
+  - Stylight HQ, Nymphenburger Str. 86, 80636 Munich, Germany.
   
+- [Hacktoberfest na Dextra](https://www.sympla.com.br/hacktoberfest-na-dextra__671233):
+  - October 19, 2019: 09:00am-2:00pm
+  - Dextra Digital, Campinas, SP, Brazil.
+  
+See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
