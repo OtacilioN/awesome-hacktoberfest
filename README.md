@@ -52,6 +52,7 @@
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
 - [first-contributions](https://github.com/devncode/first-contributions)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
+- [HelloWorld-Hacktoberfest](https://github.com/ghost1372/HelloWorld-Hacktoberfest)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 
