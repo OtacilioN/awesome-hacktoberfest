@@ -34,6 +34,7 @@
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [Hacktoberfest 2019 Angular Resources](https://github.com/timdeschryver/hacktoberfest-2019-angular)
 - [Hacktoberfest2019](https://github.com/luanmbrito/NodeJS-Postgresql-Mongodb)
+- [ExpressMongooseNodeJSORM](https://github.com/DJilanov/Express-Mongoose-NodeJS-ORM)
 - [Hacktoberfest 2019 Project Ideas](https://github.com/aletaschner/HacktoberFest2019-ProjectIdeas)
 - [Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
@@ -44,16 +45,20 @@
 - [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [HacktoberMap](https://github.com/abhijitparida/hacktobermap)
+- [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [HackToBerFest2019](https://github.com/HackToberFeststuff/HackToberFest2019)
 - [Notes-App](https://github.com/NullByte08/Notes-App)
 - [Data_Structure_and_Algorithms](https://github.com/AshwinKushwah/Data_Structure_and_Algorithms)
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
+- [first-contributions](https://github.com/devncode/first-contributions)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
 - [HelloWorld-Hacktoberfest](https://github.com/ghost1372/HelloWorld-Hacktoberfest)
+- [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+- [HBD](https://github.com/vinitshahdeo/HBD)
 
 ## Repositories Coding for Beginners
 
-- [Android-Privacy-Viz] (https://github.com/rohitasnair/android-privacy-viz)
+- [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Caipyra](https://github.com/jtemporal/caipyra)
@@ -75,6 +80,8 @@
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [Compiler example with C#](https://github.com/Tarcioc2/Static-Checker-Compiladores.git)
+- [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
+- [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 
 ## Guides and Resources
 
