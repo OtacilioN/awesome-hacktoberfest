@@ -83,6 +83,7 @@
 - [Compiler example with C#](https://github.com/Tarcioc2/Static-Checker-Compiladores.git)
 - [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
+- [Beginner friendly repo for easily contributing algorithm implementations](https://github.com/AshishOhri/Yet_Another_Algorithms_Repository)
 
 ## Guides and Resources
 
