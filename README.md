@@ -5,6 +5,7 @@
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
 ## Contents
+- [Connecting to Github Using SSH] (https://help.github.com/en/articles/connecting-to-github-with-ssh)
 - [GitStart - Make Your First Pull Request](https://github.com/rishabh-bansal/GitStart)
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
