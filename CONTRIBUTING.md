@@ -25,3 +25,4 @@ Add them to this list so others can find it too and start contributing, however,
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
 - [Your first time with git and github](https://kbroman.org/github_tutorial/pages/first_time.html)
+- [Connect to Github with SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh)
