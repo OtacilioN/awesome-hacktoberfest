@@ -5,7 +5,6 @@
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
 ## Contents
-- [Connecting to Github Using SSH] (https://help.github.com/en/articles/connecting-to-github-with-ssh)
 - [GitStart - Make Your First Pull Request](https://github.com/rishabh-bansal/GitStart)
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
@@ -57,6 +56,7 @@
 - [HelloWorld-Hacktoberfest](https://github.com/ghost1372/HelloWorld-Hacktoberfest)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [HBD](https://github.com/vinitshahdeo/HBD)
+- [Simple Contribute] (https://github.com/KongkowITMedan/SimpleContribute)
 
 ## Repositories Coding for Beginners
 
