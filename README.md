@@ -55,6 +55,7 @@
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hacktoberfest2K19](https://github.com/vinitshahdeo/HacktoberFest2K19)
+- [beginners-only](https://github.com/pr4shan7/beginners-only)
 
 ## Repositories Coding for Beginners
 
