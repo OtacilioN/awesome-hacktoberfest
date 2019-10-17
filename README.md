@@ -84,6 +84,7 @@
 - [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 - [Beginner friendly repo for easily contributing algorithm implementations](https://github.com/AshishOhri/Yet_Another_Algorithms_Repository)
+- [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
 ## Guides and Resources
 
