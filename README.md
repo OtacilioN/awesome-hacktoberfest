@@ -5,7 +5,6 @@
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
 ## Contents
-- [GitStart - Make Your First Pull Request](https://github.com/rishabh-bansal/GitStart)
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
 - [Guides and Resources](#guides-and-resources)
