@@ -56,7 +56,7 @@
 - [HelloWorld-Hacktoberfest](https://github.com/ghost1372/HelloWorld-Hacktoberfest)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [HBD](https://github.com/vinitshahdeo/HBD)
-- [Simple Contribute] (https://github.com/KongkowITMedan/SimpleContribute)
+- [Simple Contribute](https://github.com/KongkowITMedan/SimpleContribute)
 
 ## Repositories Coding for Beginners
 
