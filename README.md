@@ -85,6 +85,7 @@
 - [Beginner friendly repo for easily contributing algorithm implementations](https://github.com/AshishOhri/Yet_Another_Algorithms_Repository)
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
+- [Is Your Waifu Legal?](https://github.com/yourWaifu/is-your-waifu-legal)
 
 
 ## Guides and Resources
