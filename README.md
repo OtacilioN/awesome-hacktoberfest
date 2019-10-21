@@ -5,16 +5,16 @@
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
 ## Contents
-
-- [GitStart - Make Your First Pull Request](https://github.com/rishabh-bansal/GitStart)
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
 - [Guides and Resources](#guides-and-resources)
 - [Cli Tools](#cli-tools)
 - [Meetups and Events](#meetups-and-events)
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
+- [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 
 ## Repositories Supporting First Timers
+
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
@@ -23,7 +23,6 @@
 - [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 - [Build Travel Cards](https://github.com/s-Hale/BuildTravelCards)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
-- [Hello World](https://github.com/wsu-lug/hello-world)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
@@ -45,7 +44,6 @@
 - [Innovative-Hacktober](https://github.com/InnovativeCoder/Innovative-Hacktober)
 - [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
-- [HacktoberMap](https://github.com/abhijitparida/hacktobermap)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [HackToBerFest2019](https://github.com/HackToberFeststuff/HackToberFest2019)
 - [Notes-App](https://github.com/NullByte08/Notes-App)
@@ -53,8 +51,11 @@
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
 - [first-contributions](https://github.com/devncode/first-contributions)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
+- [HelloWorld-Hacktoberfest](https://github.com/ghost1372/HelloWorld-Hacktoberfest)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [HBD](https://github.com/vinitshahdeo/HBD)
+- [Hacktoberfest2K19](https://github.com/vinitshahdeo/HacktoberFest2K19)
+- [beginners-only](https://github.com/pr4shan7/beginners-only)
 
 ## Repositories Coding for Beginners
 
@@ -82,6 +83,10 @@
 - [Compiler example with C#](https://github.com/Tarcioc2/Static-Checker-Compiladores.git)
 - [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
+- [Beginner friendly repo for easily contributing algorithm implementations](https://github.com/AshishOhri/Yet_Another_Algorithms_Repository)
+- [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+- [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
+
 
 ## Guides and Resources
 
