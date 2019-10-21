@@ -73,6 +73,7 @@
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Django Gamification](https://github.com/mattjegan/django-gamification)
+- [Jenkins](https://github.com/jenkinsci)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
