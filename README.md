@@ -89,6 +89,11 @@
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
 
+## Repositories for intermediate/Advanced Coders
+
+- [Home Automation](https://github.com/home-assistant)
+
+
 
 ## Guides and Resources
 
