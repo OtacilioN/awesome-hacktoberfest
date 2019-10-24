@@ -13,7 +13,7 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 
-## Repositories Supporting First Timers
+## Repositories Supporting First-Timers
 
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
@@ -92,7 +92,7 @@
 
 ## Guides and Resources
 
-- [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
+- [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Github Pages](https://pages.github.com/)
 
 ## CLI Tools
@@ -126,4 +126,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [Otacilio Maia](github.com/OtacilioN) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Otacilio Maia](github.com/OtacilioN) has waived all copyright and related or neighbouring rights to this work.
