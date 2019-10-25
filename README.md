@@ -5,6 +5,7 @@
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
 ## Contents
+
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
 - [Guides and Resources](#guides-and-resources)
@@ -57,6 +58,7 @@
 - [Hacktoberfest2K19](https://github.com/vinitshahdeo/HacktoberFest2K19)
 - [beginners-only](https://github.com/pr4shan7/beginners-only)
 - [hacktoberfest-2019](https://github.com/mcao/hacktoberfest-2019)
+- [Hacktoberfest2019](https://github.com/wajahatkarim3/Hacktoberfest2019)
 
 ## Repositories Coding for Beginners
 
@@ -89,7 +91,6 @@
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
 
-
 ## Guides and Resources
 
 - [A First Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
@@ -101,27 +102,33 @@
 
 ## Meetups and Events
 
-- ["Git or Treat" Hacktoberfest Code Jam](https://www.meetup.com/Women-Who-Code-Atlanta/events/264879227/): 
+- ["Git or Treat" Hacktoberfest Code Jam](https://www.meetup.com/Women-Who-Code-Atlanta/events/264879227/):
+
   - October 30, 2019: 5:30-8:30pm
   - Ponce City Market, Atlanta, GA, USA.
 
 - [iFoodTech Hacktoberfest](https://www.meetup.com/pt-BR/iFood-Meetups/events/265318473/):
+
   - October 8, 2019: 7:00-10:00pm
   - Rua Jasmin, 660 , Campinas, SP, Brazil.
 
 - [Hacktoberfest na Wirecard BR](https://www.eventbrite.com.br/e/hacktoberfest-na-wirecard-br-tickets-75069251151):
+
   - October 12, 2019: 10:00am-5:00pm
-  - Wirecard, São Paulo, SP, Brazil. 
+  - Wirecard, São Paulo, SP, Brazil.
 
 - [ML HacktoberFest](https://www.meetup.com/de-DE/Hacking-Machine-Learning/events/265346430/)
+
   - October, 12 2019: 10:00am-06:00pm
   - Stylight HQ, Nymphenburger Str. 86, 80636 Munich, Germany.
-  
+
 - [Hacktoberfest na Dextra](https://www.sympla.com.br/hacktoberfest-na-dextra__671233):
+
   - October 19, 2019: 09:00am-2:00pm
   - Dextra Digital, Campinas, SP, Brazil.
-  
+
 See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
