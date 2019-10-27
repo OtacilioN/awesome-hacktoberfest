@@ -93,6 +93,10 @@
 - [Beginner friendly repo for easily contributing algorithm implementations](https://github.com/AshishOhri/Yet_Another_Algorithms_Repository)
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
+
+## Repositories for intermediate/Advanced Coders
+
+- [Home Automation](https://github.com/home-assistant)
 - [Accord Project Template Studio (v2). js+t-shirt](https://github.com/accordproject/template-studio-v2)
 
 ## Guides and Resources
