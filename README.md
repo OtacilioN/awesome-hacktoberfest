@@ -98,6 +98,7 @@
 
 - [Home Automation](https://github.com/home-assistant)
 - [Accord Project Template Studio (v2). js+t-shirt](https://github.com/accordproject/template-studio-v2)
+- [Vue-Playground](https://github.com/runyasak/vue-playground)
 
 ## Guides and Resources
 
