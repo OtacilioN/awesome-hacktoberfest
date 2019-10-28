@@ -63,6 +63,7 @@
 - [Hello-World-1](https://github.com/blackbird71SR/Hello-World)
 - [Hacktoberfest2019](https://github.com/wajahatkarim3/Hacktoberfest2019)
 
+
 ## Repositories Coding for Beginners
 
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
@@ -93,6 +94,7 @@
 - [Beginner friendly repo for easily contributing algorithm implementations](https://github.com/AshishOhri/Yet_Another_Algorithms_Repository)
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
+- [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
 
 ## Repositories for intermediate/Advanced Coders
 
