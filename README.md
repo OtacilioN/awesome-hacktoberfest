@@ -88,6 +88,7 @@
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
 - [Give feedback for a new CLI based project idea for creating webapps](https://github.com/buildtip/create-web-app/issues/60)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
+- [Flask-Weather](https://github.com/M0nica/flask_weather)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [Compiler example with C#](https://github.com/Tarcioc2/Static-Checker-Compiladores.git)
 - [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
