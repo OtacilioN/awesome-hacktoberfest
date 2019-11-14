@@ -11,9 +11,6 @@
 - [Guides and Resources](#guides-and-resources)
 - [Cli Tools](#cli-tools)
 - [Meetups and Events](#meetups-and-events)
-- [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
-- [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
-- [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 
 ## Repositories Supporting First-Timers
 
@@ -110,6 +107,9 @@
 
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Github Pages](https://pages.github.com/)
+- [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
+- [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
+- [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 
 ## CLI Tools
 
