@@ -1,8 +1,8 @@
-# Awesome Hacktoberfest 2019 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> We present a curated list of awesome Hacktoberfest 2019 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
+> We present a curated list of awesome Hacktoberfest 2020 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
-> Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
+> Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
 
 ## Contents
 
@@ -26,15 +26,11 @@
 - [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
 - [IODevelopers](https://github.com/IODevelopers/hacktoberfest)
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
-- [Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
-- [Hacktoberfest 2019 Angular Resources](https://github.com/timdeschryver/hacktoberfest-2019-angular)
-- [Hacktoberfest2019](https://github.com/luanmbrito/NodeJS-Postgresql-Mongodb)
 - [ExpressMongooseNodeJSORM](https://github.com/DJilanov/Express-Mongoose-NodeJS-ORM)
-- [Hacktoberfest 2019 Project Ideas](https://github.com/aletaschner/HacktoberFest2019-ProjectIdeas)
 - [Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
 - [Hasura](https://github.com/hasura/graphql-engine)
@@ -44,7 +40,6 @@
 - [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
-- [HackToBerFest2019](https://github.com/HackToberFeststuff/HackToberFest2019)
 - [Notes-App](https://github.com/NullByte08/Notes-App)
 - [Data_Structure_and_Algorithms](https://github.com/AshwinKushwah/Data_Structure_and_Algorithms)
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
@@ -55,10 +50,8 @@
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hacktoberfest2K19](https://github.com/vinitshahdeo/HacktoberFest2K19)
 - [beginners-only](https://github.com/pr4shan7/beginners-only)
-- [hacktoberfest-2019](https://github.com/mcao/hacktoberfest-2019)
 - [AliceWonderland](https://github.com/AliceWonderland/hacktoberfest)
 - [Hello-World-1](https://github.com/blackbird71SR/Hello-World)
-- [Hacktoberfest2019](https://github.com/wajahatkarim3/Hacktoberfest2019)
 - [a11yfirst](https://github.com/tpage99/a11yfirst)
 
 
@@ -116,31 +109,6 @@
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
 
 ## Meetups and Events
-
-- ["Git or Treat" Hacktoberfest Code Jam](https://www.meetup.com/Women-Who-Code-Atlanta/events/264879227/):
-
-  - October 30, 2019: 5:30-8:30pm
-  - Ponce City Market, Atlanta, GA, USA.
-
-- [iFoodTech Hacktoberfest](https://www.meetup.com/pt-BR/iFood-Meetups/events/265318473/):
-
-  - October 8, 2019: 7:00-10:00pm
-  - Rua Jasmin, 660 , Campinas, SP, Brazil.
-
-- [Hacktoberfest na Wirecard BR](https://www.eventbrite.com.br/e/hacktoberfest-na-wirecard-br-tickets-75069251151):
-
-  - October 12, 2019: 10:00am-5:00pm
-  - Wirecard, São Paulo, SP, Brazil.
-
-- [ML HacktoberFest](https://www.meetup.com/de-DE/Hacking-Machine-Learning/events/265346430/)
-
-  - October, 12 2019: 10:00am-06:00pm
-  - Stylight HQ, Nymphenburger Str. 86, 80636 Munich, Germany.
-
-- [Hacktoberfest na Dextra](https://www.sympla.com.br/hacktoberfest-na-dextra__671233):
-
-  - October 19, 2019: 09:00am-2:00pm
-  - Dextra Digital, Campinas, SP, Brazil.
 
 See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
