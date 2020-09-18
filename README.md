@@ -60,7 +60,7 @@
 - [Hello-World-1](https://github.com/blackbird71SR/Hello-World)
 - [Hacktoberfest2019](https://github.com/wajahatkarim3/Hacktoberfest2019)
 - [a11yfirst](https://github.com/tpage99/a11yfirst)
-
+- [Good First issue Hacktoberfest-2020](https://github.com/Py-Contributors/Hacktoberfest-2020)
 
 ## Repositories Coding for Beginners
 
