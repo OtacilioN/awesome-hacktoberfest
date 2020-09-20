@@ -18,7 +18,6 @@
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
-- [JSON Movie Collection](https://github.com/jsonmc/jsonmc)
 - [Build Travel Cards](https://github.com/s-Hale/BuildTravelCards)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
@@ -36,7 +35,6 @@
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Innovative-Hacktober](https://github.com/InnovativeCoder/Innovative-Hacktober)
-- [Hacktober Profile](https://github.com/srinibasbiswal/HacktoberProfile)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [Notes-App](https://github.com/NullByte08/Notes-App)
@@ -50,7 +48,6 @@
 - [Hacktoberfest2K19](https://github.com/vinitshahdeo/HacktoberFest2K19)
 - [beginners-only](https://github.com/pr4shan7/beginners-only)
 - [AliceWonderland](https://github.com/AliceWonderland/hacktoberfest)
-- [Hello-World-1](https://github.com/blackbird71SR/Hello-World)
 - [a11yfirst](https://github.com/tpage99/a11yfirst)
 - [Good First issue Hacktoberfest-2020](https://github.com/Py-Contributors/Hacktoberfest-2020)
 
