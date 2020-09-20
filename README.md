@@ -56,6 +56,7 @@
 
 ## Repositories Coding for Beginners
 
+- [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
@@ -90,6 +91,8 @@
 
 ## Repositories for intermediate/Advanced Coders
 
+- [simC](https://github.com/cimplec/sim-c)
+- [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [Home Automation](https://github.com/home-assistant)
 - [Accord Project Template Studio (v2). js+t-shirt](https://github.com/accordproject/template-studio-v2)
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
