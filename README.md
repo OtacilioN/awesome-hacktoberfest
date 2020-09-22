@@ -2,9 +2,9 @@
 
 > We present a curated list of awesome Hacktoberfest 2020 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
-> Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
-
 > Will you choose the ✨ Hacktoberfest t-shirt ✨ but don't want to stop contributing to the environment and a sustainable future? [Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) so you can plant a tree! 🌱 
+
+> Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
 
 ## Contents
 
