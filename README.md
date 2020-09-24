@@ -62,7 +62,6 @@
 - [Hacktoberfest-Data-Structure-and-Algorithms](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-- [Django Gamification](https://github.com/mattjegan/django-gamification)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
