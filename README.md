@@ -16,6 +16,7 @@
 
 ## Repositories Supporting First-Timers
 
+- [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
