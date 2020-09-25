@@ -6,7 +6,7 @@
 
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
 
-## Contents
+## _Contents_
 
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
@@ -14,7 +14,7 @@
 - [Cli Tools](#cli-tools)
 - [Meetups and Events](#meetups-and-events)
 
-## Repositories Supporting First-Timers
+## _Repositories Supporting First-Timers_
 - [a11yfirst](https://github.com/tpage99/a11yfirst)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Appwrite](https://github.com/appwrite/appwrite)
@@ -49,7 +49,7 @@
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 
-## Repositories Coding for Beginners
+## _Repositories Coding for Beginners_
 
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
