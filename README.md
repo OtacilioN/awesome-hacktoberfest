@@ -45,6 +45,7 @@
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [Predator](https://github.com/Zooz/predator)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
