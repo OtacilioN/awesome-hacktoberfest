@@ -30,7 +30,7 @@
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
 - [Data_Structure_and_Algorithms](https://github.com/AshwinKushwah/Data_Structure_and_Algorithms)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
-- [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
+- [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [first-contributions](https://github.com/devncode/first-contributions)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
