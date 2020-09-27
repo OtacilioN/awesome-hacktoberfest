@@ -15,6 +15,7 @@
 - [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First-Timers
+
 - [a11yfirst](https://github.com/tpage99/a11yfirst)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Appwrite](https://github.com/appwrite/appwrite)
@@ -30,6 +31,7 @@
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
 - [Data_Structure_and_Algorithms](https://github.com/AshwinKushwah/Data_Structure_and_Algorithms)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
+- [DX Scanner](https://github.com/DXHeroes/dx-scanner)
 - [first-contributions](https://github.com/devncode/first-contributions)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
@@ -64,6 +66,7 @@
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
+- [DX Scanner](https://github.com/DXHeroes/dx-scanner)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
@@ -80,6 +83,7 @@
 
 ## Repositories for intermediate/Advanced Coders
 
+- [DX Scanner](https://github.com/DXHeroes/dx-scanner)
 - [GCommit](https://github.com/jooaodanieel/GCommit)
 - [Home Automation](https://github.com/home-assistant)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
