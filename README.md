@@ -68,6 +68,7 @@
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Hacktoberfest-Data-Structure-and-Algorithms](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
@@ -78,7 +79,6 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ## Repositories for intermediate/Advanced Coders
 
