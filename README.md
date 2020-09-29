@@ -35,6 +35,7 @@
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [first-contributions](https://github.com/devncode/first-contributions)
+- [First Contributions](https://github.com/firstcontributions/first-contributions)
 - [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [First PR](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
@@ -61,6 +62,7 @@
 ## Repositories Coding for Beginners
 
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
+- [AlgoBook - Various Python and ML Algorithms under one roof](https://github.com/geekquad/AlgoBook)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
@@ -73,6 +75,7 @@
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Hacktoberfest-Data-Structure-and-Algorithms](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
@@ -83,7 +86,6 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ## Repositories for intermediate/Advanced Coders
 
@@ -102,7 +104,6 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
-- [First Contributions Guide](https://github.com/firstcontributions/first-contributions)
 
 ## CLI Tools
 
