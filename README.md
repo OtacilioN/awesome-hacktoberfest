@@ -42,6 +42,7 @@
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
 - [Good First issue Hacktoberfest-2020](https://github.com/Py-Contributors/Hacktoberfest-2020)
 - [HBD](https://github.com/vinitshahdeo/HBD)
+- [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2K19](https://github.com/vinitshahdeo/HacktoberFest2K19)
 - [Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
