@@ -29,10 +29,15 @@
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
+- [CSS Showcase](https://github.com/5t3ph/stylestage)
+- [Curated up for grabs](https://github.com/up-for-grabs/up-for-grabs.net)
 - [Data_Structure_and_Algorithms](https://github.com/AshwinKushwah/Data_Structure_and_Algorithms)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
+- [first-contributions](https://github.com/devncode/first-contributions)
 - [First Contributions](https://github.com/firstcontributions/first-contributions)
+- [First Contributions](https://github.com/Roshanjossey/first-contributions)
+- [First PR](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
 - [Good First issue Hacktoberfest-2020](https://github.com/Py-Contributors/Hacktoberfest-2020)
@@ -46,11 +51,13 @@
 - [Innovative-Hacktober](https://github.com/InnovativeCoder/Innovative-Hacktober)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
+- [Killed by Google](https://github.com/codyogden/killedbygoogle)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Predator](https://github.com/Zooz/predator)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
+- [Welcome to Hacktoberfest2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
 
 ## Repositories Coding for Beginners
 
@@ -82,9 +89,11 @@
 
 ## Repositories for intermediate/Advanced Coders
 
+- [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [GCommit](https://github.com/jooaodanieel/GCommit)
 - [Home Automation](https://github.com/home-assistant)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
+- [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
 - [simC](https://github.com/cimplec/sim-c)
 
