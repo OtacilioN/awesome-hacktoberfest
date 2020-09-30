@@ -80,6 +80,7 @@
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Hacktoberfest-Data-Structure-and-Algorithms](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
+- [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [Network Programming with C](https://github.com/PacktPublishing/Hands-On-Network-Programming-with-C)
