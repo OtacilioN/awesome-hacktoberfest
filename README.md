@@ -89,6 +89,10 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
+- [Snake-game](https://github.com/sohan-k/Snake-game)
+- [CPP](https://github.com/akshitagit/CPP)
+- [Hacktoberfest](https://github.com/wir-coders/Hacktoberfest)
+- [JS-Concepts](https://github.com/MadaZZ/JS-Concepts)
 
 ## Repositories for intermediate/Advanced Coders
 
@@ -99,6 +103,15 @@
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
 - [simC](https://github.com/cimplec/sim-c)
+- [pyms](https://github.com/python-microservices/pyms)
+- [remixr](https://github.com/rtkg12/remixr)
+- [morph-server](https://github.com/tarunnsingh/morph-server)
+- [locust](https://github.com/locustio/locust)
+- [SunPy](https://github.com/sunpy/sunpy)
+- [Emojipedia](https://github.com/RishabhDevbanshi/Emojipedia)
+- [calamares](https://github.com/calamares/calamares)
+- [Ark](https://github.com/ArkScript-lang/Ark)
+- [frappe](https://github.com/frappe/frappe)
 
 ## Guides and Resources
 
