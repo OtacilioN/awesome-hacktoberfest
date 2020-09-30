@@ -49,6 +49,7 @@
 - [Hasura](https://github.com/hasura/graphql-engine)
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
 - [HelloWorld-Hacktoberfest](https://github.com/ghost1372/HelloWorld-Hacktoberfest)
+- [ImageKit.io SDKs](https://github.com/search?q=org%3Aimagekit-developer+label%3Ahacktoberfest+state%3Aopen&type=Issues&ref=advsearch&l=&l=)
 - [Innovative-Hacktober](https://github.com/InnovativeCoder/Innovative-Hacktober)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
