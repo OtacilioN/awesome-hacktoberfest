@@ -37,7 +37,6 @@
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [first-contributions](https://github.com/devncode/first-contributions)
 - [First Contributions](https://github.com/firstcontributions/first-contributions)
-- [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [First PR](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
