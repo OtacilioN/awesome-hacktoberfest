@@ -12,10 +12,12 @@
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
 - [Guides and Resources](#guides-and-resources)
 - [Cli Tools](#cli-tools)
+- [Cheat sheets](#cheat-sheets)
 - [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First-Timers
 
+- [4Noobs](https://github.com/he4rt/4noobs)
 - [a11yfirst](https://github.com/tpage99/a11yfirst)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Appwrite](https://github.com/appwrite/appwrite)
@@ -24,7 +26,6 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
-- [beginners-only](https://github.com/pr4shan7/beginners-only)
 - [Blitz.js](https://github.com/blitz-js/blitz)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
@@ -36,14 +37,12 @@
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [first-contributions](https://github.com/devncode/first-contributions)
 - [First Contributions](https://github.com/firstcontributions/first-contributions)
-- [First Contributions](https://github.com/Roshanjossey/first-contributions)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
-- [Good First issue Hacktoberfest-2020](https://github.com/Py-Contributors/Hacktoberfest-2020)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
-- [Hacktoberfest2K19](https://github.com/vinitshahdeo/HacktoberFest2K19)
+- [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
 - [Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
 - [Hasura](https://github.com/hasura/graphql-engine)
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
@@ -56,6 +55,7 @@
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Predator](https://github.com/Zooz/predator)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
+- [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Welcome to Hacktoberfest2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
@@ -69,6 +69,7 @@
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
 - [Beetlesbot](https://github.com/bleeptrack/beetlesbot/)
 - [C Programs](https://github.com/Akanksha1212/C_Programs)
+- [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
@@ -94,6 +95,7 @@
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [GCommit](https://github.com/jooaodanieel/GCommit)
 - [Home Automation](https://github.com/home-assistant)
+- [Project-Books](https://github.com/Project-Books/book-project)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
@@ -110,6 +112,10 @@
 ## CLI Tools
 
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
+
+## Cheat sheets
+
+- [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Meetups and Events
 
