@@ -16,6 +16,7 @@
 
 ## Repositories Supporting First-Timers
 
+- [4Noobs](https://github.com/he4rt/4noobs)
 - [a11yfirst](https://github.com/tpage99/a11yfirst)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Appwrite](https://github.com/appwrite/appwrite)
