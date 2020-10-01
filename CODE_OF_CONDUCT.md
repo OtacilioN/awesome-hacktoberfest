@@ -11,12 +11,11 @@ Examples of behaviour that contributes to creating a positive environment includ
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
-* Focusing on what is best for the community
 * Showing empathy towards other community members
 
 Examples of unacceptable behaviour by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
+* The use of sexualized language or imagery and unwelcome sexual attention or advances.
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
@@ -40,7 +39,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
