@@ -60,7 +60,9 @@
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Welcome to Hacktoberfest2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-
+- [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
+- [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue) _(label: good first issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
 ## Repositories Coding for Beginners
 
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
