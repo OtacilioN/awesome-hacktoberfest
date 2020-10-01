@@ -12,6 +12,7 @@
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
 - [Guides and Resources](#guides-and-resources)
 - [Cli Tools](#cli-tools)
+- [Cheat sheets](#cheat-sheets)
 - [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First-Timers
@@ -111,6 +112,10 @@
 ## CLI Tools
 
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
+
+## Cheat sheets
+
+- [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Meetups and Events
 
