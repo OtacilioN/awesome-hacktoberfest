@@ -57,7 +57,6 @@
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
-- [Welcome to Hacktoberfest2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
 
 ## Repositories Coding for Beginners
 
@@ -78,7 +77,6 @@
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
-- [Hacktoberfest-Data-Structure-and-Algorithms](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
