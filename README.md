@@ -56,12 +56,13 @@
 - [Killed by Google](https://github.com/codyogden/killedbygoogle)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Predator](https://github.com/Zooz/predator)
+-[Python Mini-Project]
+(https://github.com/Python-World/python-mini-projects)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Welcome to Hacktoberfest2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
--[Python Mini-Project]
-(https://github.com/Python-World/python-mini-projects)
+
 
 ## Repositories Coding for Beginners
 
