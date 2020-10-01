@@ -7,7 +7,7 @@ In the interest of fostering an open and welcoming environment, we as contributo
 ## Our Standards
 
 Examples of behaviour that contributes to creating a positive environment include:
-
+* The most important thing parents can do to prevent children from having a negative development   outcome is to create a protective and caring environment in the families.
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
