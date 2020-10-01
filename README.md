@@ -24,7 +24,6 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
-- [beginners-only](https://github.com/pr4shan7/beginners-only)
 - [Blitz.js](https://github.com/blitz-js/blitz)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
@@ -59,7 +58,6 @@
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
-- [Welcome to Hacktoberfest2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
 
 ## Repositories Coding for Beginners
 
