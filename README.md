@@ -100,6 +100,10 @@
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
 - [simC](https://github.com/cimplec/sim-c)
+- [Site Pyladies Brasil](https://github.com/pyladies-brazil/br-pyladies-pelican)
+- [Guides-ptbr](https://github.com/railsgirls/guides-ptbr)
+- [Nipe](https://github.com/GouveaHeitor/nipe)
+- [Python-binary-memcached](https://github.com/jaysonsantos/python-binary-memcached)
 
 ## Guides and Resources
 
