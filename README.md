@@ -70,6 +70,7 @@
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
 - [Beetlesbot](https://github.com/bleeptrack/beetlesbot/)
 - [C Programs](https://github.com/Akanksha1212/C_Programs)
+- [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
