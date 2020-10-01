@@ -43,7 +43,6 @@
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
-- [Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
 - [Hasura](https://github.com/hasura/graphql-engine)
 - [hello-open-source](https://github.com/mazipan/hello-open-source)
 - [HelloWorld-Hacktoberfest](https://github.com/ghost1372/HelloWorld-Hacktoberfest)
