@@ -25,7 +25,6 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
-- [beginners-only](https://github.com/pr4shan7/beginners-only)
 - [Blitz.js](https://github.com/blitz-js/blitz)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
