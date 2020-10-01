@@ -60,6 +60,8 @@
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Welcome to Hacktoberfest2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
+-[Python Mini-Project]
+(https://github.com/Python-World/python-mini-projects)
 
 ## Repositories Coding for Beginners
 
