@@ -39,7 +39,6 @@
 - [First PR](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
 - [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
-- [Good First issue Hacktoberfest-2020](https://github.com/Py-Contributors/Hacktoberfest-2020)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
