@@ -44,7 +44,6 @@
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
 - [Hasura](https://github.com/hasura/graphql-engine)
-- [ImageKit.io SDKs](https://github.com/search?q=org%3Aimagekit-developer+label%3Ahacktoberfest+state%3Aopen&type=Issues&ref=advsearch&l=&l=)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
 - [Killed by Google](https://github.com/codyogden/killedbygoogle)
@@ -57,7 +56,6 @@
 
 ## Repositories Coding for Beginners
 
-- [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
 - [AlgoBook - Various Python and ML Algorithms under one roof](https://github.com/geekquad/AlgoBook)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
@@ -90,7 +88,7 @@
 
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [GCommit](https://github.com/jooaodanieel/GCommit)
-- [Home Automation](https://github.com/home-assistant)
+- [Home Automation](https://github.com/home-assistant/core)
 - [ngx-admin](https://github.com/akveo/ngx-admin)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
