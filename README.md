@@ -54,6 +54,14 @@
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
+- [Open Source Enthusiats](https://github.com/ashiishme/open-source-enthusiasts)
+- [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
+- [JavaScript Jokes](https://github.com/mohitrakhade20/javascript-jokes)
+- [HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+- [Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest)
+- [Hacktober Fest 2020](https://github.com/nileshteji/HacktoberFest2020)
+- [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
+- [HacktoberfestPR2020](https://github.com/aryasoni98/HacktoberfestPR2020)
 
 ## Repositories Coding for Beginners
 
