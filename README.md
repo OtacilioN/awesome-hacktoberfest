@@ -37,6 +37,7 @@
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [First Contributions](https://github.com/firstcontributions/first-contributions)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
+- [GitHub Writes Code](https://github.com/JohnPhamous/GitHub-Writes-Code)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
