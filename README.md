@@ -76,6 +76,7 @@
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
+- [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [Network Programming with C](https://github.com/PacktPublishing/Hands-On-Network-Programming-with-C)
