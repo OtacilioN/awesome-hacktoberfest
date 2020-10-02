@@ -1,4 +1,4 @@
-# Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > We present a curated list of awesome Hacktoberfest 2020 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
@@ -98,6 +98,7 @@
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
 - [simC](https://github.com/cimplec/sim-c)
+- [Review Scraper MongoDB] (https://github.com/manan-bedi2908/awesome-hacktoberfest-2020.git)
 
 ## Guides and Resources
 
