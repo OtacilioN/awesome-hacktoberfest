@@ -51,6 +51,7 @@
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Predator](https://github.com/Zooz/predator)
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
+- [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
