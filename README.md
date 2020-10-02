@@ -93,14 +93,12 @@
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [GCommit](https://github.com/jooaodanieel/GCommit)
 - [Home Automation](https://github.com/home-assistant)
+- [ngx-admin](https://github.com/akveo/ngx-admin)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
 - [simC](https://github.com/cimplec/sim-c)
-- [ngx-admin](https://github.com/akveo/ngx-admin)
-- [nebular](https://github.com/akveo/nebular)
-- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
 
 ## Guides and Resources
 
