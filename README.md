@@ -98,6 +98,9 @@
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
 - [simC](https://github.com/cimplec/sim-c)
+- [ngx-admin](https://github.com/akveo/ngx-admin)
+- [nebular](https://github.com/akveo/nebular)
+- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
 
 ## Guides and Resources
 
