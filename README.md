@@ -25,7 +25,7 @@
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
-- [Awesome Members](https://github.com/kushanshamika/awesome-members.git)
+- [Awesome Members](https://github.com/kushanshamika/awesome-members)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
 - [Blitz.js](https://github.com/blitz-js/blitz)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
