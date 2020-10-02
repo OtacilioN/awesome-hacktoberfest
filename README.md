@@ -43,25 +43,26 @@
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
+- [Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest)
+- [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
+- [HacktoberfestPR2020](https://github.com/aryasoni98/HacktoberfestPR2020)
 - [Hasura](https://github.com/hasura/graphql-engine)
+- [HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
 - [ImageKit.io SDKs](https://github.com/search?q=org%3Aimagekit-developer+label%3Ahacktoberfest+state%3Aopen&type=Issues&ref=advsearch&l=&l=)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+- [JavaScript Jokes](https://github.com/mohitrakhade20/javascript-jokes)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
 - [Killed by Google](https://github.com/codyogden/killedbygoogle)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
-- [Open Source Enthusiats](https://github.com/ashiishme/open-source-enthusiasts)
-- [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
-- [JavaScript Jokes](https://github.com/mohitrakhade20/javascript-jokes)
-- [HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-- [Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest)
-- [Hacktober Fest 2020](https://github.com/nileshteji/HacktoberFest2020)
-- [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
-- [HacktoberfestPR2020](https://github.com/aryasoni98/HacktoberfestPR2020)
+
+
+
 
 ## Repositories Coding for Beginners
 
