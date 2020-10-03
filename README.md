@@ -96,7 +96,6 @@
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
-- [Vue-Playground](https://github.com/runyasak/vue-playground)
 - [simC](https://github.com/cimplec/sim-c)
 
 ## Guides and Resources
