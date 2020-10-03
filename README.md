@@ -53,6 +53,7 @@
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
+- [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 
 ## Repositories Coding for Beginners
