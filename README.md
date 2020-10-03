@@ -6,6 +6,8 @@
 
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
 
+> Please read the [updated guidlines](https://hacktoberfest.digitalocean.com/hacktoberfest-update) of Hacktoberfest 2020 if you don't to want to get spammed or marked invalid.
+
 ## Contents
 
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
