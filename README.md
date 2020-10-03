@@ -85,6 +85,7 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
+- [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 
 ## Repositories for intermediate/Advanced Coders
 
