@@ -98,6 +98,7 @@
 - [react-figma](https://github.com/react-figma/react-figma)
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
 - [simC](https://github.com/cimplec/sim-c)
+- [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
 
 ## Guides and Resources
 
