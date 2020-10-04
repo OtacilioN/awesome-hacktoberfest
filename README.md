@@ -87,7 +87,6 @@
   [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
-- [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 
 ## Repositories for intermediate/Advanced Coders
