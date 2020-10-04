@@ -18,7 +18,7 @@
 ## Repositories Supporting First-Timers
 
 - [4Noobs](https://github.com/he4rt/4noobs)
-- [a11yfirst](https://github.com/tpage99/a11yfirst)
+- [A11yfirst](https://github.com/tpage99/a11yfirst)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
@@ -50,6 +50,7 @@
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Predator](https://github.com/Zooz/predator)
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
+- [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
@@ -71,9 +72,10 @@
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
+- [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [Network Programming with C](https://github.com/PacktPublishing/Hands-On-Network-Programming-with-C)
@@ -94,8 +96,8 @@
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+- [simC](https://github.com/cimplec/sim-c)	
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
-- [simC](https://github.com/cimplec/sim-c)
 
 ## Guides and Resources
 
