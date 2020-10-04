@@ -18,7 +18,7 @@
 ## Repositories Supporting First-Timers
 
 - [4Noobs](https://github.com/he4rt/4noobs)
-- [a11yfirst](https://github.com/tpage99/a11yfirst)
+- [A11yfirst](https://github.com/tpage99/a11yfirst)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
@@ -73,7 +73,7 @@
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
@@ -90,14 +90,15 @@
 
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [GCommit](https://github.com/jooaodanieel/GCommit)
+- [Guides-ptbr](https://github.com/railsgirls/guides-ptbr)
 - [Home Automation](https://github.com/home-assistant)
 - [ngx-admin](https://github.com/akveo/ngx-admin)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+- [simC](https://github.com/cimplec/sim-c)	
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
-- [simC](https://github.com/cimplec/sim-c)
 
 ## Guides and Resources
 
