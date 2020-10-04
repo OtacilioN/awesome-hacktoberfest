@@ -56,6 +56,7 @@
 - [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
+- [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 
 ## Repositories Coding for Beginners
