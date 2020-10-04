@@ -88,6 +88,7 @@
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
+- [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 
 ## Repositories for intermediate/Advanced Coders
 
