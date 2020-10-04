@@ -19,14 +19,10 @@
 
 ## Repositories Supporting First-Timers
 
-- [4Noobs](https://github.com/he4rt/4noobs)
 - [A11yfirst](https://github.com/tpage99/a11yfirst)
-- [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Appwrite](https://github.com/appwrite/appwrite)
-- [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [Awesome Members](https://github.com/kushanshamika/awesome-members)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
 - [Blitz.js](https://github.com/blitz-js/blitz)
