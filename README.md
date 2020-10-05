@@ -65,11 +65,13 @@
 - [Anime line-art auto colorization](https://github.com/sanjay235/Sketch2Color-anime-translation)
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
 - [Beetlesbot](https://github.com/bleeptrack/beetlesbot/)
+- [bhaveshlohana](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
 - [C Programs](https://github.com/Akanksha1212/C_Programs)
 - [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+- [Cullyege](https://github.com/Cullyege/Hacktoberfest2020)
 - [Coursify-Hacktoberfest](https://github.com/ishandeveloper/Coursify-hacktoberfest)
 - [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
@@ -91,6 +93,7 @@
 
 ## Repositories for intermediate/Advanced Coders
 
+- [argonautica](https://github.com/argonautica/sorting-algorithms)
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [GCommit](https://github.com/jooaodanieel/GCommit)
 - [Home Automation](https://github.com/home-assistant/core)
@@ -101,6 +104,7 @@
 - [react-figma](https://github.com/react-figma/react-figma)
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
 - [simC](https://github.com/cimplec/sim-c)
+- [SpooderManEXE](https://github.com/SpooderManEXE/Hacktoberfest2020-Expert)
 
 ## Guides and Resources
 
