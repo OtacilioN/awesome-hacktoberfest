@@ -2,7 +2,7 @@
 
 If you want to add a project to this list, please make sure that:
 
-- [ ] You read the [contributing guide](#CONTRIBUTING.md)
+- [ ] You read the [contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
 - [ ] The project can't be just an "add your name" or simply + 1 contribution to hacktoberfest
 - [ ] Place them in alphabetical order
 - [ ] One repository per PR/contribution - _avoid conflicts and simplify review_

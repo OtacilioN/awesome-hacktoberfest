@@ -6,6 +6,8 @@
 
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
 
+![Logo](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
+
 ## Contents
 
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
@@ -17,18 +19,16 @@
 
 ## Repositories Supporting First-Timers
 
-- [4Noobs](https://github.com/he4rt/4noobs)
-- [a11yfirst](https://github.com/tpage99/a11yfirst)
-- [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
+- [A11yfirst](https://github.com/tpage99/a11yfirst)
 - [Appwrite](https://github.com/appwrite/appwrite)
-- [Awesome First PR](https://github.com/mungell/awesome-for-beginners)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [Awesome Members](https://github.com/kushanshamika/awesome-members)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
+- [belejar-git](https://github.com/petanikode/belajar-git)
 - [Blitz.js](https://github.com/blitz-js/blitz)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
+- [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
 - [CSS Showcase](https://github.com/5t3ph/stylestage)
@@ -44,23 +44,25 @@
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
 - [Hasura](https://github.com/hasura/graphql-engine)
-- [ImageKit.io SDKs](https://github.com/search?q=org%3Aimagekit-developer+label%3Ahacktoberfest+state%3Aopen&type=Issues&ref=advsearch&l=&l=)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
 - [Killed by Google](https://github.com/codyogden/killedbygoogle)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Predator](https://github.com/Zooz/predator)
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
+- [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
+- [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
+- [The Code-Bending Dictionary](https://github.com/sylwiavargas/The-Code-Bending-Dictionary)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 
 ## Repositories Coding for Beginners
 
-- [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
 - [AlgoBook - Various Python and ML Algorithms under one roof](https://github.com/geekquad/AlgoBook)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
+- [Anime line-art auto colorization](https://github.com/sanjay235/Sketch2Color-anime-translation)
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
 - [Beetlesbot](https://github.com/bleeptrack/beetlesbot/)
 - [C Programs](https://github.com/Akanksha1212/C_Programs)
@@ -73,9 +75,10 @@
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
+- [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [Network Programming with C](https://github.com/PacktPublishing/Hands-On-Network-Programming-with-C)
@@ -83,20 +86,20 @@
   [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
-- [Simple Contribute](https://github.com/Henry6612700/SimpleContribute)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
+- [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 
 ## Repositories for intermediate/Advanced Coders
 
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [GCommit](https://github.com/jooaodanieel/GCommit)
-- [Home Automation](https://github.com/home-assistant)
+- [Home Automation](https://github.com/home-assistant/core)
 - [ngx-admin](https://github.com/akveo/ngx-admin)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
+- [react-figma](https://github.com/react-figma/react-figma)
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
-- [Vue-Playground](https://github.com/runyasak/vue-playground)
 - [simC](https://github.com/cimplec/sim-c)
 
 ## Guides and Resources
@@ -106,6 +109,7 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
+- [Open Source Guide](https://opensource.guide/)
 
 ## CLI Tools
 
