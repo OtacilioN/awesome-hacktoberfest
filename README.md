@@ -54,6 +54,7 @@
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
+- [belejar-git](https://github.com/petanikode/belajar-git)
 
 ## Repositories Coding for Beginners
 
