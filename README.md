@@ -25,6 +25,7 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Members](https://github.com/kushanshamika/awesome-members)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
+- [belejar-git](https://github.com/petanikode/belajar-git)
 - [Blitz.js](https://github.com/blitz-js/blitz)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
@@ -54,7 +55,6 @@
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
-- [belejar-git](https://github.com/petanikode/belajar-git)
 
 ## Repositories Coding for Beginners
 
