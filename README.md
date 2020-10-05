@@ -54,6 +54,7 @@
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
+- [The Code-Bending Dictionary](https://github.com/sylwiavargas/The-Code-Bending-Dictionary)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 
 ## Repositories Coding for Beginners
