@@ -25,6 +25,7 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Members](https://github.com/kushanshamika/awesome-members)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
+- [Basic-Python-programs](https://github.com/Aayush-hub/Basic-Python-programs)
 - [belejar-git](https://github.com/petanikode/belajar-git)
 - [Blitz.js](https://github.com/blitz-js/blitz)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
