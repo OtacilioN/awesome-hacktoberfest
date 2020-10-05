@@ -60,6 +60,7 @@
 - [AlgoBook - Various Python and ML Algorithms under one roof](https://github.com/geekquad/AlgoBook)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
+- [Anime line-art auto colorization](https://github.com/sanjay235/Sketch2Color-anime-translation)
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
 - [Beetlesbot](https://github.com/bleeptrack/beetlesbot/)
 - [C Programs](https://github.com/Akanksha1212/C_Programs)
