@@ -26,6 +26,7 @@
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
+- [Grid-Garden] (https://github.com/thomaspark/gridgarden/)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
