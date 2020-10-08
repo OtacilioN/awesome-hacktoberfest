@@ -66,7 +66,6 @@
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
-- [Hackerrank-30-days-code](https://github.com/dheeraj-2000/30-Days-Of-Code)
 - [Hackerrank-codes](https://github.com/swapnanildutta/Hackerrank-Codes)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
