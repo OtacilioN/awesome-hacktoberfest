@@ -60,6 +60,7 @@
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [Cullyege](https://github.com/Cullyege/Hacktoberfest2020)
 - [Coursify-Hacktoberfest](https://github.com/ishandeveloper/Coursify-hacktoberfest)
+- [DS Algo (C/C++/Python/Java)](https://github.com/dheeraj-2000/dsalgo)
 - [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
