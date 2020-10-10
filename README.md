@@ -22,6 +22,7 @@
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
+- [Boilerplate Collection](https://github.com/oskarfigura/boilerplate-collection)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [codeWith-hacktoberfest](https://github.com/zahinekbal/codeWith-hacktoberfest)
