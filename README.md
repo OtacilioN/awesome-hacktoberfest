@@ -69,8 +69,10 @@
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Hackerrank-codes](https://github.com/swapnanildutta/Hackerrank-Codes)
+- [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/
 - [Hacktoberfest2020_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
-- [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
+- [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
+HacktoberFest2020-Contributions)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Javascript](https://github.com/akshitagit/JavaScript)
@@ -83,7 +85,6 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
-- [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
 
 ## Repositories for intermediate/Advanced Coders
 
