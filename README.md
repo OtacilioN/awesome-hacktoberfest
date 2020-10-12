@@ -36,7 +36,6 @@
 - [Hasura](https://github.com/hasura/graphql-engine)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
-- [Open Source Code](https://github.com/OpenSouceCode/Hacktoberfest2020)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Predator](https://github.com/Zooz/predator)
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
