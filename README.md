@@ -83,6 +83,8 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
+- [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
+- [c++ Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming)
 
 ## Repositories for intermediate/Advanced Coders
 
@@ -106,6 +108,7 @@
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [Open Source Guide](https://opensource.guide/)
+- [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
 
 ## CLI Tools
 
