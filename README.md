@@ -72,7 +72,6 @@
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/
 - [Hacktoberfest2020_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
 - [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
-HacktoberFest2020-Contributions)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Javascript](https://github.com/akshitagit/JavaScript)
