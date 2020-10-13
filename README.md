@@ -33,7 +33,7 @@
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
-- [Hasura](https://github.com/hasura/graphql-engine)
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [Open source drinks](https://github.com/alfg/opendrinks)
