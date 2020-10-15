@@ -95,8 +95,6 @@
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
-- [react-figma](https://github.com/react-figma/react-figma)
-- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
 - [simC](https://github.com/cimplec/sim-c)
 - [SpooderManEXE](https://github.com/SpooderManEXE/Hacktoberfest2020-Expert)
 
