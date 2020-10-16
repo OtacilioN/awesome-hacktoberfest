@@ -35,6 +35,7 @@
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+- [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Predator](https://github.com/Zooz/predator)
