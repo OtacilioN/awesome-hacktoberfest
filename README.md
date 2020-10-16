@@ -41,6 +41,7 @@
 - [Public Ledger Android app](https://github.com/tutushubham/Android-Publicledger)
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
 - [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
+- [PythonAlgorithms](https://github.com/vJechsmayr/PythonAlgorithms)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [The Code-Bending Dictionary](https://github.com/sylwiavargas/The-Code-Bending-Dictionary)
