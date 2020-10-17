@@ -13,7 +13,7 @@ Examples of behaviour that contributes to creating a positive environment includ
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members
-* Listen to everyone’s ideas
+* Listening is the key to sucess. The more you listen the more will you understand.
 
 Examples of unacceptable behaviour by participants include:
 
@@ -42,6 +42,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+********************************************************************************thankyou*****************************************************************************************
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
