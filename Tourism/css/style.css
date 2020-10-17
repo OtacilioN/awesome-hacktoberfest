@@ -1,0 +1,217 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 8000px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.header{
+    padding-top: 10px;
+}
+.slogan{
+    font-size: 18px;
+    padding-top: 55px;
+}
+.headr{
+    padding-right: 0;
+    margin-right: 0;
+}
+.easy-contact{
+    padding-top: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+.contact-us{
+    font-size: 12px; 
+    padding-left: 65px; 
+}
+.easy-buttons{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 14px;
+}
+.easy-buttons i{
+    color: orange;
+    padding-right: 8px;
+}
+.easy-buttons i:nth-child(2){
+    padding-left: 65px;
+}
+.easy-buttons i:last-child{
+    padding-left: 65px;
+}
+.bg-blue{
+    background: #1d508d;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    padding-right: 26px;
+}
+.navbar-light .nav-item.active .nav-link
+{
+    color: #ff0000;   
+}
+.navbar-light .nav-item:hover .nav-link{
+    color: #ff0000;;
+}
+.nav-item .dropdown .nav-link .dropdown-toggle{    
+    padding-right: 15px;
+}
+.dropdown-item:hover{
+    color: #ff0000;
+    background: #1d508d;
+}
+.navbar-nav:first-child{
+    padding: 0;
+    margin: 0;
+}
+.site-search .form-control {
+    font-size: 13px;
+    color: #b6c9e1;
+    background-color: #1d508d;
+    text-transform: uppercase;
+    width: 175px;
+    border: 1px solid #1d508d;
+    box-shadow: none;
+    position: relative;
+    height: 35px;
+    padding: 8px 30px 8px 15px;
+    border-radius: 2px;
+    margin-top: -15px;
+}
+.sbutton{
+    padding-right: 0px;
+}
+.carousel-caption h3{
+    font-size: 55px;
+}
+.black-bar{
+    background: #000;
+    padding: 10px 0px;
+}
+.black-bar p{
+    color: rgb(255, 255, 255);
+    margin-bottom: 0;
+}
+.black-bar p:first-child{
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 0;
+}
+.black-bar p:nth-child(2){
+    font-weight: 500;
+    padding-left: 18px;
+    margin-top: 0;
+}
+.black-bar-content{
+    padding: 10px 0px;
+}
+.duration, .activity, .destination, .btn, .btn-primary{
+    margin-top: 5px;
+}
+.btn, .btn-primary,.btn, .btn-primary:hover{
+    background: orange;
+    border-radius: none;
+}
+.top-destination h1{
+    font-size: 45px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.top-two h3{
+    font-size: 55px;
+    margin-left: 110px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.top-two h5{
+    font-size: 23px;
+    margin-left: 104px;
+    font-family: 'Raleway', sans-serif;
+}
+.top-two h5 i{
+    padding: 0;
+    margin: 0;
+}
+.top-two h2 {
+    font-size: 55px;
+    margin-left: 60px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.destination-packages img{
+    padding-bottom: 25px;
+}
+.info{
+    margin-top: 50px;
+}
+.info img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.d-one{
+    text-align: center;
+    font-size: 18px;
+    margin: 20px 0px 0px 0px;
+    color: #1d508d;
+}
+.d-two{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #1d508d;
+}
+
+@media screen and (max-width: 600px) {
+    .black-bar{
+        display: none;
+    }
+  }
+
+@media screen and (max-width: 900px) {
+    .lheader{
+        display: none;
+    }
+}
+@media screen and (max-width: 992px) {
+    .contact-us{
+        margin-left: 220px;
+    }
+}
+@media screen and (max-width: 900px) {
+    .carousel-caption h3{
+        font-size: 25px;
+    }
+}
+@media screen and (max-width: 600px)
+{
+    .top-two h3 {
+        font-size: 55px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .navbar-light .navbar-nav .nav-link {
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: 600;
+        padding-right: 15px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .navbar-light .navbar-nav .nav-link{
+        padding-right: 15px;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .slogan{
+        padding-top: 5px;
+    }
+}
