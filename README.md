@@ -72,7 +72,7 @@
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Hackerrank-codes](https://github.com/swapnanildutta/Hackerrank-Codes)
-- [Hacktoberfest2020\_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
+- [Hacktoberfest2020_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
