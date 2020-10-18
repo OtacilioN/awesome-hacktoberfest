@@ -28,6 +28,7 @@
 - [codeWith-hacktoberfest](https://github.com/zahinekbal/codeWith-hacktoberfest)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
+- [Free AI Resources](https://github.com/mrsaeeddev/free-ai-resources)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
