@@ -26,6 +26,7 @@
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [codeWith-hacktoberfest](https://github.com/zahinekbal/codeWith-hacktoberfest)
+- [css-puns](https://github.com/cmcodes1/css-puns)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
