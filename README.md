@@ -108,6 +108,7 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
+- [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
 - [Open Source Guide](https://opensource.guide/)
 
 ## CLI Tools
