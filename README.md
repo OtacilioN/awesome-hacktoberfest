@@ -86,6 +86,7 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
+- [Git Tutorial for Indonesian People](https://github.com/petanikode/belajar-git)
 
 ## Repositories for intermediate/Advanced Coders
 
