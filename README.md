@@ -39,6 +39,7 @@
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
 - [Public Ledger Android app](https://github.com/tutushubham/Android-Publicledger)
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
