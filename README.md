@@ -28,7 +28,7 @@
 - [codeWith-hacktoberfest](https://github.com/zahinekbal/codeWith-hacktoberfest)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
-- [developer-community-stats](https://github.com/subeshb1/developer-community-stats)
+- [easy-to-git](https://github.com/DavidMatthewFraser/easy-to-git)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
