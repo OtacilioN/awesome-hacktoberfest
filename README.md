@@ -31,6 +31,7 @@
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
+- [Hacktober20-unit-converter](https://github.com/norabalogh/Hacktober20-unit-converter)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
@@ -49,6 +50,7 @@
 - [The Code-Bending Dictionary](https://github.com/sylwiavargas/The-Code-Bending-Dictionary)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
+
 
 ## Repositories Coding for Beginners
 
