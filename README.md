@@ -37,6 +37,7 @@
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Predator](https://github.com/Zooz/predator)
 - [Public Ledger Android app](https://github.com/tutushubham/Android-Publicledger)
