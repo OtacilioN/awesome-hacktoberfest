@@ -107,7 +107,7 @@
 - [SpooderManEXE](https://github.com/SpooderManEXE/Hacktoberfest2020-Expert)
 
 ## Guides and Resources
-
+-[Material Design] (https://material.io/design)
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Github Pages](https://pages.github.com/)
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
