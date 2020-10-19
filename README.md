@@ -10,12 +10,16 @@
 
 ## Contents
 
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
-- [Repositories Coding for Beginners](#repositories-coding-for-beginners)
-- [Guides and Resources](#guides-and-resources)
-- [Cli Tools](#cli-tools)
-- [Cheat sheets](#cheat-sheets)
-- [Meetups and Events](#meetups-and-events)
+- [Awesome Hacktoberfest 2020 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hacktoberfest-2020-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
+  - [Contents](#contents)
+  - [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
+  - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+  - [Repositories for intermediate/Advanced Coders](#repositories-for-intermediateadvanced-coders)
+  - [Guides and Resources](#guides-and-resources)
+  - [CLI Tools](#cli-tools)
+  - [Cheat sheets](#cheat-sheets)
+  - [Meetups and Events](#meetups-and-events)
+  - [License](#license)
 
 ## Repositories Supporting First-Timers
 
@@ -86,6 +90,7 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
+- [phongnawat](https://github.com/phongnawat)
 
 ## Repositories for intermediate/Advanced Coders
 
