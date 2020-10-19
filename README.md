@@ -51,7 +51,6 @@
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 
 
-
 ## Repositories Coding for Beginners
 
 - [AlgoBook - Various Python and ML Algorithms under one roof](https://github.com/geekquad/AlgoBook)
