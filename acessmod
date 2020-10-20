@@ -1,0 +1,41 @@
+
+class myemployee{
+     private int id;
+     private String name;
+
+     public String getname(){
+         return name;
+     }
+     public void setname(String n){
+          this.name = n;
+          // or
+          name = n;
+     }
+
+     public int getid(){
+          return id;
+     }
+     public void setid(int i){
+          this.id = i;
+          //or
+          id = i;
+     }
+
+}
+public class code_40_access_modifier  {
+
+	public static void main(String[] args){
+          myemployee harry = new myemployee(); 
+
+          //harry.id = 45;
+          //harry.name = "CodeWithHarry"; --> give error due to private access modifier
+
+          harry.setname("CodeWithHarry");
+          harry.setid(459);
+          
+          System.out.println(harry.getname());
+          System.out.println(harry.getid());
+          
+
+     }
+}
