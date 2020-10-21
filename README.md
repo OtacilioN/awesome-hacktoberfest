@@ -91,6 +91,7 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
+- [zero-to-mastery](https://github.com/zero-to-mastery)
 
 ## Repositories for intermediate/Advanced Coders
 
