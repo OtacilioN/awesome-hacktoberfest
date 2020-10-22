@@ -52,6 +52,7 @@
 - [The Code-Bending Dictionary](https://github.com/sylwiavargas/The-Code-Bending-Dictionary)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
+- [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 
 
 ## Repositories Coding for Beginners
