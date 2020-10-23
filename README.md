@@ -96,6 +96,7 @@
 
 - [argonautica](https://github.com/argonautica/sorting-algorithms)
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
+- [gatsby](https://github.com/gatsbyjs/gatsby)
 - [GCommit](https://github.com/jooaodanieel/GCommit)
 - [Home Automation](https://github.com/home-assistant/core)
 - [Letra Extension - Passively learn a new language every time you open a new tab.](https://github.com/jayehernandez/letra-extension)
