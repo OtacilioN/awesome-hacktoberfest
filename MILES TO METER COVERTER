@@ -1,0 +1,6 @@
+mile=float(input("enter the distance in mile ="))
+meter=(mile/1.6)*1000
+print("LENGTH",meter,"M")
+
+
+
