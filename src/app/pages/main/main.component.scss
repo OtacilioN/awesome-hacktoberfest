@@ -1,0 +1,72 @@
+$textColor: #d7dee6;
+$secondaryTextColor: #9c9c9c;
+
+
+.container {
+    margin-top: 100px;
+}
+
+@keyframes inputSelected {
+    from {border: 2px solid #3498db;}
+    to {border: 2px solid #1124d4;}
+}
+
+@keyframes inputUnSelected {
+    from {border: 2px solid #1124d4;}
+    to {border: 2px solid #3498db;}
+}
+
+
+.form-input {
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 10px;
+    width: 400px;
+    outline: none;
+    color: $textColor;
+}
+
+.form-input:focus {
+    animation-name: inputSelected;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+.form-input:not(:focus) {
+
+    animation-name: inputUnSelected;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    
+}
+
+.alert {
+    background-color: #f34f4f;
+    border: 0;
+    border-radius: 0px;
+    display: block;
+    width: 400px;
+    margin: 20px auto;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+
+}
+
+.btns {
+    text-align: center;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+::placeholder {
+    color: $secondaryTextColor;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}

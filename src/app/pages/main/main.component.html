@@ -1,0 +1,19 @@
+<div class="container">
+    <h1 class="text title text-center">Discord Webhook Sender</h1>
+    <h1 class="text subtitle text-center">Send a Discord Webhook with your URL</h1>
+</div>
+
+<form class="form" #webhookForm="ngForm" (submit)="onSend(webhookForm, webhookForm.value)">
+    <input required type="text" name="url" id="url" #url="ngModel" ngModel placeholder="Webhook URL" class="form-input">
+    <input required type="text" name="username" id="username" #username="ngModel" ngModel placeholder="Webhook Benutzername" class="form-input">
+    <textarea required type="text" name="content" id="content" #content="ngModel" ngModel placeholder="Webhook Text" class="form-input"></textarea>
+    <div class="btns">
+        <button class="btn btn-info" type="submit">Absenden</button>
+    </div>
+    <div class="alert alert-danger" *ngIf="!filledCorrect" role="alert">
+        Bitte fülle alle Felder aus!
+    </div>
+    <div class="alert alert-danger" *ngIf="error" role="alert">
+        {{error}}
+    </div>
+</form>
