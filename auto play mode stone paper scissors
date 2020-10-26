@@ -1,0 +1,45 @@
+
+def replay():
+    import random
+    a=random.randint(1,3)
+    if a==1:
+        print("player 1   =  ",a," rock ")
+    elif a==2:
+        print("player 1   =  ",a," paper ")
+    elif a==3:
+        print("player 1   =  ",a," scissors")
+    b=random.randint(1,3)
+    if b==1:
+        print("player 2   =  ",b," rock ")
+    elif b==2:
+        print("player 2   =  ",b," paper ")
+    elif b==3:
+        print("player 2   =  ",b," scissors")        
+
+    if a==1 and b==2:
+        print("player B win")
+    elif a==1 and b==3: 
+        print("player A win") 
+    elif a==1 and b==1:
+        print("draw match ")
+            
+    elif a==2 and b==1:
+        print("PLAYER A WIN")
+    elif a==2 and b==2:
+        print("draw match")        
+    elif a==2 and b==3:
+        print("player B wins")
+    elif a==3 and b==1:
+        print("player B win")
+    elif a==3 and b==2:
+        print("player A win")
+    elif a==3 and b==3:
+        print("draw match")
+    r=str(input("wanna c the play again    (y/n) = "))
+    if r=='y':
+        replay()
+    else:
+        print("thank you for joining with us")
+replay()
+
+
