@@ -105,6 +105,7 @@
 - [react-figma](https://github.com/react-figma/react-figma)
 - [simC](https://github.com/cimplec/sim-c)
 - [SpooderManEXE](https://github.com/SpooderManEXE/Hacktoberfest2020-Expert)
+- [30SecondsOfCode](https://github.com/30-seconds/30-seconds-of-code)
 
 ## Guides and Resources
 
