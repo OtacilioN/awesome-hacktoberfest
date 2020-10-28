@@ -123,6 +123,7 @@
 ## Cheat sheets
 
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [VS-Code-cheat-sheet](https://github.com/Satyam-Bhalla/Cheatsheets/blob/master/VS_Code_Cheat_Sheet.pdf)
 
 ## Meetups and Events
 
