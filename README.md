@@ -22,10 +22,12 @@
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
+- [BaReinhard](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 - [Boilerplate Collection](https://github.com/oskarfigura/boilerplate-collection)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [codeWith-hacktoberfest](https://github.com/zahinekbal/codeWith-hacktoberfest)
+- [css-puns](https://github.com/cmcodes1/css-puns)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Free AI Resources](https://github.com/mrsaeeddev/free-ai-resources)
@@ -76,8 +78,9 @@
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Hackerrank-codes](https://github.com/swapnanildutta/Hackerrank-Codes)
+- [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/
 - [Hacktoberfest2020_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
-- [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
+- [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Javascript](https://github.com/akshitagit/JavaScript)
@@ -91,7 +94,11 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
+
 - [Clean code using javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+- [c++ Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming)
+
 
 ## Repositories for intermediate/Advanced Coders
 
@@ -114,7 +121,10 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
+- [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
 - [Open Source Guide](https://opensource.guide/)
+- [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
+- [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 
 ## CLI Tools
 
