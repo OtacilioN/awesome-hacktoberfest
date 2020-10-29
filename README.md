@@ -63,6 +63,7 @@
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Anime line-art auto colorization](https://github.com/sanjay235/Sketch2Color-anime-translation)
 - [Arduino-Buzzer-Code-Generator](https://github.com/ThiagoAugustoSM/arduino-buzzer-code-generator)
+- [Binary Tree Algorithms](https://github.com/shreyanshchordia/Binary-Trees)
 - [C Programs](https://github.com/Akanksha1212/C_Programs)
 - [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
@@ -77,6 +78,7 @@
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
+- [Graph Algorithms](https://github.com/shreyanshchordia/Graph_Algorithms)
 - [Hackerrank-codes](https://github.com/swapnanildutta/Hackerrank-Codes)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/
 - [Hacktoberfest2020_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
