@@ -1,4 +1,4 @@
-# Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > We present a curated list of awesome Hacktoberfest 2020 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
@@ -49,6 +49,7 @@
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
 - [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
 - [PythonAlgorithms](https://github.com/vJechsmayr/PythonAlgorithms)
+- [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [The Code-Bending Dictionary](https://github.com/sylwiavargas/The-Code-Bending-Dictionary)
