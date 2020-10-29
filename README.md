@@ -108,6 +108,7 @@
 - [Letra Extension - Passively learn a new language every time you open a new tab.](https://github.com/jayehernandez/letra-extension)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [PyGeneses](https://github.com/Project-DC/pygeneses)
+- [Python Algorithms](https://github.com/TheAlgorithms/Python)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [react-figma](https://github.com/react-figma/react-figma)
 - [simC](https://github.com/cimplec/sim-c)
