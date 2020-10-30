@@ -94,9 +94,7 @@
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
-
 - [Clean code using javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-
 - [c++ Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming)
 
 
