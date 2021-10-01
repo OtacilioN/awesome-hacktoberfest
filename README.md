@@ -41,6 +41,7 @@
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
+- [Make pull requests](https://github.com/twowaits/make-pull-request)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
