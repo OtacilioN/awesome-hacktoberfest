@@ -135,6 +135,7 @@
 ## Cheat sheets
 
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [markdown-cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Meetups and Events
 
