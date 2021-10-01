@@ -58,7 +58,6 @@
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
 
-
 ## Repositories Coding for Beginners
 
 - [AlgoBook - Various Python and ML Algorithms under one roof](https://github.com/geekquad/AlgoBook)
@@ -71,6 +70,7 @@
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+- [Computer Science](https://github.com/richoandika/computer-science)
 - [CPP Codes for beginners](https://github.com/codergeekzz/cppcodes)
 - [Cullyege](https://github.com/Cullyege/Hacktoberfest2020)
 - [Coursify-Hacktoberfest](https://github.com/ishandeveloper/Coursify-hacktoberfest)
@@ -81,10 +81,10 @@
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
-- [Free programing eBook](https://github.com/bayuputra18/perpus-gratis) 
+- [Free programing eBook](https://github.com/bayuputra18/perpus-gratis)
 - [Hackerrank-codes](https://github.com/swapnanildutta/Hackerrank-Codes)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/
-- [Hacktoberfest2020_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
+- [Hacktoberfest2020\_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
 - [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
