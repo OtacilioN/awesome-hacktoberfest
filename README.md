@@ -80,6 +80,7 @@
 - [Flask-Weather](https://github.com/M0nica/flask_weather)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
+- [Free programing eBook](https://github.com/bayuputra18/perpus-gratis) 
 - [Hackerrank-codes](https://github.com/swapnanildutta/Hackerrank-Codes)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/
 - [Hacktoberfest2020_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
