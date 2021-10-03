@@ -51,6 +51,7 @@
 - [PythonAlgorithms](https://github.com/vJechsmayr/PythonAlgorithms)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
+- [SDE Interview Questions](https://github.com/twowaits/SDE-Interview-Questions)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [The Code-Bending Dictionary](https://github.com/sylwiavargas/The-Code-Bending-Dictionary)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
