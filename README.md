@@ -91,6 +91,7 @@
 - [Javascript](https://github.com/akshitagit/JavaScript)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [Learning-roadmaps](https://github.com/koompi/learning-roadmaps)
+- [ML-Usecases](https://github.com/Virtual-Diagnostic-Lab/ML-Usecases)
 - [Network Programming with C](https://github.com/PacktPublishing/Hands-On-Network-Programming-with-C)
 - [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
