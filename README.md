@@ -25,6 +25,7 @@
 - [BaReinhard](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 - [Boilerplate Collection](https://github.com/oskarfigura/boilerplate-collection)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
+- [CiEnLI](https://github.com/zolagonano/cienli)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [codeWith-hacktoberfest](https://github.com/zahinekbal/codeWith-hacktoberfest)
 - [css-puns](https://github.com/cmcodes1/css-puns)
@@ -49,15 +50,18 @@
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
 - [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
 - [PythonAlgorithms](https://github.com/vJechsmayr/PythonAlgorithms)
+- [QrRu](https://github.com/zolagonano/qrru)
+- [Qr-Api](https://github.com/zolagonano/qr-api)
+- [rasswd](https://github.com/zolagonano/rasswd)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
+- [STOG](https://github.com/zolagonano/stog)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [The Code-Bending Dictionary](https://github.com/sylwiavargas/The-Code-Bending-Dictionary)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
-
 
 ## Repositories Coding for Beginners
 
