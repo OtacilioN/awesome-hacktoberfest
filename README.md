@@ -37,6 +37,7 @@
 - [Hacktober20-unit-converter](https://github.com/norabalogh/Hacktober20-unit-converter)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
+- [Hacktoberfest2021](https://github.com/shubham9672/Hacktoberfest2021)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
