@@ -132,6 +132,7 @@
 ## CLI Tools
 
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
+- [gomerge](https://github.com/Cian911/gomerge)
 
 ## Cheat sheets
 
