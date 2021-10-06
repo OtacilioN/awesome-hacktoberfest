@@ -141,6 +141,9 @@
 
 See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
+## Event Information
+
+This event is awesome because this event gave a some cool swag 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
