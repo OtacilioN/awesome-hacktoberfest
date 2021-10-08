@@ -45,6 +45,7 @@
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
+- [Public Apis](https://github.com/public-apis/public-apis)
 - [Public Ledger Android app](https://github.com/tutushubham/Android-Publicledger)
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
 - [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
