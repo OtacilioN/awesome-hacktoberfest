@@ -60,7 +60,7 @@
 
 
 ## Repositories Coding for Beginners
-
+- [Codes in all languages for beginners](https://github.com/sonumahajan/All_Program_helper)
 - [AlgoBook - Various Python and ML Algorithms under one roof](https://github.com/geekquad/AlgoBook)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
