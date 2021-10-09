@@ -72,7 +72,6 @@
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [CPP Codes for beginners](https://github.com/codergeekzz/cppcodes)
-- [Cullyege](https://github.com/Cullyege/Hacktoberfest2020)
 - [Coursify-Hacktoberfest](https://github.com/ishandeveloper/Coursify-hacktoberfest)
 - [DS Algo (C/C++/Python/Java)](https://github.com/dheeraj-2000/dsalgo)
 - [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
