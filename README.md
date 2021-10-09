@@ -60,7 +60,7 @@
 
 
 ## Repositories Coding for Beginners
-- [Codes in all languages for beginners](https://github.com/sonumahajan/All_Program_helper)
+
 - [AlgoBook - Various Python and ML Algorithms under one roof](https://github.com/geekquad/AlgoBook)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
@@ -70,6 +70,7 @@
 - [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python)
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
+- [Codes in all languages for beginners](https://github.com/sonumahajan/All_Program_helper)
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [CPP Codes for beginners](https://github.com/codergeekzz/cppcodes)
 - [Cullyege](https://github.com/Cullyege/Hacktoberfest2020)
