@@ -57,6 +57,7 @@
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
+- [Hacktoberfest](https://github.com/msaaddev/Hacktoberfest)
 
 
 ## Repositories Coding for Beginners
