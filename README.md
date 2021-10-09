@@ -25,6 +25,7 @@
 - [BaReinhard](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 - [Boilerplate Collection](https://github.com/oskarfigura/boilerplate-collection)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
+- [Caucus](https://github.com/Rishabh-malhotraa/caucus)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [codeWith-hacktoberfest](https://github.com/zahinekbal/codeWith-hacktoberfest)
 - [css-puns](https://github.com/cmcodes1/css-puns)
