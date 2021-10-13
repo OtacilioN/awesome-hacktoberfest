@@ -98,6 +98,7 @@
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
+- [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [c++ Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming)
 
