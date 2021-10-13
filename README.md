@@ -52,6 +52,7 @@
 - [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [HBD](https://github.com/vinitshahdeo/HBD)
+- [ToolJet](https://github.com/ToolJet/ToolJet)
 
 ## Repositories Coding for Beginners
 
