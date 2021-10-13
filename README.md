@@ -28,6 +28,7 @@
 - [Caucus](https://github.com/Rishabh-malhotraa/caucus)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [codeWith-hacktoberfest](https://github.com/zahinekbal/codeWith-hacktoberfest)
+- [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
