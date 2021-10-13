@@ -53,6 +53,7 @@
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [The Code-Bending Dictionary](https://github.com/sylwiavargas/The-Code-Bending-Dictionary)
+- [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
