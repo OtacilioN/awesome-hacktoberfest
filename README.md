@@ -24,6 +24,8 @@
 - [awesome-openminds-team](https://github.com/open-minds/awesome-openminds-team)
 - [BaReinhard](https://github.com/BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms)
 - [Boilerplate Collection](https://github.com/oskarfigura/boilerplate-collection)
+- [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
+- [Caucus](https://github.com/Rishabh-malhotraa/caucus)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [codeWith-hacktoberfest](https://github.com/zahinekbal/codeWith-hacktoberfest)
 - [css-puns](https://github.com/cmcodes1/css-puns)
@@ -31,11 +33,9 @@
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Free AI Resources](https://github.com/mrsaeeddev/free-ai-resources)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
-- [HBD](https://github.com/vinitshahdeo/HBD)
-- [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
-- [Hacktober20-unit-converter](https://github.com/norabalogh/Hacktober20-unit-converter)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
+- [Hacktoberfest2021](https://github.com/shubham9672/Hacktoberfest2021)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
@@ -48,6 +48,7 @@
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
 - [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
 - [PythonAlgorithms](https://github.com/vJechsmayr/PythonAlgorithms)
+- [Quotes](https://github.com/nyancodeid/quotes)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
@@ -72,7 +73,6 @@
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 - [Collection of C++ STL features](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [CPP Codes for beginners](https://github.com/codergeekzz/cppcodes)
-- [Cullyege](https://github.com/Cullyege/Hacktoberfest2020)
 - [Coursify-Hacktoberfest](https://github.com/ishandeveloper/Coursify-hacktoberfest)
 - [DS Algo (C/C++/Python/Java)](https://github.com/dheeraj-2000/dsalgo)
 - [Data Structure and Algorithm - Different programming language](https://github.com/Vatsalparsaniya/Data-Structure)
@@ -84,7 +84,7 @@
 - [Free programing eBook](https://github.com/bayuputra18/perpus-gratis) 
 - [Hackerrank-codes](https://github.com/swapnanildutta/Hackerrank-Codes)
 - [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/)
-- [Hacktoberfest2020_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
+- [Hacktoberfest2020\_](https://github.com/kaustubhgupta/Hacktoberfest2020_)
 - [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
@@ -99,6 +99,7 @@
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [React Ipsum](https://github.com/CodeDraken/react-ipsum)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
+- [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [c++ Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming)
 
@@ -116,6 +117,7 @@
 - [react-figma](https://github.com/react-figma/react-figma)
 - [simC](https://github.com/cimplec/sim-c)
 - [SpooderManEXE](https://github.com/SpooderManEXE/Hacktoberfest2020-Expert)
+- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 
 ## Guides and Resources
 
@@ -131,6 +133,7 @@
 
 ## CLI Tools
 
+- [gomerge](https://github.com/Cian911/gomerge)
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
 
 ## Cheat sheets
