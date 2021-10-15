@@ -87,6 +87,7 @@
 
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [Home Automation](https://github.com/home-assistant/core)
+- [K8gb: A cloud native Kubernetes Global Balancer](https://github.com/k8gb-io/k8gb)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [Python Algorithms](https://github.com/TheAlgorithms/Python)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
