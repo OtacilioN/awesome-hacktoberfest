@@ -44,6 +44,7 @@
 - [layer5io](https://github.com/layer5io/layer5)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [MindsDB](https://github.com/mindsdb/mindsdb)
+- [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
@@ -62,6 +63,7 @@
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
+
 
 
 ## Repositories Coding for Beginners
