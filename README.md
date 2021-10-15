@@ -54,6 +54,7 @@
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
+- [FreeWareLovers](https://github.com/freewarelovers/MyProfiles)
 
 
 
