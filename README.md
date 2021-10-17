@@ -34,7 +34,7 @@
 - [Hacktoberfest2021](https://github.com/shubham9672/Hacktoberfest2021)
 - [Hacktoberfest_2021](https://github.com/AkshayNachappa/Hacktoberfest_2021)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
-- [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [layer5io](https://github.com/layer5io/layer5)
