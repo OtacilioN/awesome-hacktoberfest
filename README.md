@@ -30,6 +30,7 @@
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
+- [HacktoberFest](https://github.com/shivaylamba/Hacktoberfest)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2021](https://github.com/shubham9672/Hacktoberfest2021)
 - [Hacktoberfest_2021](https://github.com/AkshayNachappa/Hacktoberfest_2021)
@@ -42,6 +43,7 @@
 - [MindsDB](https://github.com/mindsdb/mindsdb)
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [PO4A](https://github.com/mquinson/po4a)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
 - [Public Apis](https://github.com/public-apis/public-apis)
@@ -52,9 +54,11 @@
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
+- [Validator.js](https://github.com/validatorjs/validator.js)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
+- [Windows 95 UI Kit](https://github.com/themesberg/windows-95-ui-kit)
 
 
 
@@ -94,6 +98,7 @@
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [react-figma](https://github.com/react-figma/react-figma)
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 
 ## Guides and Resources
 
