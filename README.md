@@ -22,7 +22,6 @@
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
-- [Caucus](https://github.com/Rishabh-malhotraa/caucus)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
