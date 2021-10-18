@@ -55,8 +55,7 @@
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
-
-
+- [Scrollodex](https://github.com/wwcodecolorado/scrollodex)
 
 ## Repositories Coding for Beginners
 
@@ -70,7 +69,7 @@
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
-- [Free programing eBook](https://github.com/bayuputra18/perpus-gratis) 
+- [Free programing eBook](https://github.com/bayuputra18/perpus-gratis)
 - [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
@@ -82,7 +81,6 @@
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
-
 
 ## Repositories for intermediate/Advanced Coders
 
