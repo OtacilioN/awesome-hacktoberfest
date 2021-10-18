@@ -49,13 +49,13 @@
 - [Quotes](https://github.com/nyancodeid/quotes)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
+- [Scrollodex](https://github.com/wwcodecolorado/scrollodex)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
-- [Scrollodex](https://github.com/wwcodecolorado/scrollodex)
 
 ## Repositories Coding for Beginners
 
