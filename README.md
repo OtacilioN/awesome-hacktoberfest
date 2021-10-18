@@ -81,13 +81,13 @@
 - [Javascript](https://github.com/akshitagit/JavaScript)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [ML-Usecases](https://github.com/Virtual-Diagnostic-Lab/ML-Usecases)
+- [Nodejs-Beginners](https://www.tutorialspoint.com/nodejs)
 - [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
-
 
 ## Repositories for intermediate/Advanced Coders
 
