@@ -24,7 +24,6 @@
 - [Awesome Resources](https://github.com/shahednasser/awesome-resources)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [Caucus](https://github.com/Rishabh-malhotraa/caucus)
-- [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
