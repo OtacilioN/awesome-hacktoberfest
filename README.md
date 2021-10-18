@@ -21,6 +21,7 @@
 
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
+- [Awesome Resources](https://github.com/shahednasser/awesome-resources)
 - [Banco de dados](https://github.com/WoMakersCode/banco-de-dados)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [Caucus](https://github.com/Rishabh-malhotraa/caucus)
