@@ -49,7 +49,6 @@
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
 - [Public Apis](https://github.com/public-apis/public-apis)
-- [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
 - [Quotes](https://github.com/nyancodeid/quotes)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
