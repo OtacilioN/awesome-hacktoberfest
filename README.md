@@ -21,8 +21,12 @@
 
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
+- [Banco de dados](https://github.com/WoMakersCode/banco-de-dados)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [Caucus](https://github.com/Rishabh-malhotraa/caucus)
+- [Challenges backend](https://github.com/WoMakersCode/challenges-back-end)
+- [Challenges frontend](https://github.com/WoMakersCode/challenges-front-end)
+- [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
