@@ -21,6 +21,7 @@
 
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
+- [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Banco de dados](https://github.com/WoMakersCode/banco-de-dados)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [Caucus](https://github.com/Rishabh-malhotraa/caucus)
@@ -38,8 +39,8 @@
 - [Hacktoberfest2021](https://github.com/shubham9672/Hacktoberfest2021)
 - [Hacktoberfest_2021](https://github.com/AkshayNachappa/Hacktoberfest_2021)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
-
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
+- [IUCN Red List](https://github.com/devilcrucifier/iucn-red-list)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [layer5io](https://github.com/layer5io/layer5)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
@@ -55,12 +56,8 @@
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
-- [Awesomo](https://github.com/lk-geimfari/awesomo)
-- [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
-- [IUCN Red List](https://github.com/devilcrucifier/iucn-red-list)
-
-
+- [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 
 ## Repositories Coding for Beginners
 
@@ -87,30 +84,30 @@
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
-- [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
+- [Useful C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
 
 ## Repositories for intermediate/Advanced Coders
 
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [Home Automation](https://github.com/home-assistant/core)
+- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 - [K8gb: A cloud native Kubernetes Global Balancer](https://github.com/k8gb-io/k8gb)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [Python Algorithms](https://github.com/TheAlgorithms/Python)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [react-figma](https://github.com/react-figma/react-figma)
-- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 
 ## Guides and Resources
 
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Github Pages](https://pages.github.com/)
+- [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
+- [Indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
 - [Open Source Guide](https://opensource.guide/)
-- [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
-- [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 
 ## CLI Tools
 
