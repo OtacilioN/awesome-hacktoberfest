@@ -35,7 +35,6 @@
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
-- [Hacktoberfest2021](https://github.com/shubham9672/Hacktoberfest2021)
 - [Hacktoberfest_2021](https://github.com/AkshayNachappa/Hacktoberfest_2021)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 
