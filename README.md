@@ -27,10 +27,8 @@
 - [Challenges backend](https://github.com/WoMakersCode/challenges-back-end)
 - [Challenges frontend](https://github.com/WoMakersCode/challenges-front-end)
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
-- [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
-- [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
@@ -57,7 +55,6 @@
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
-- [Windows Terminal](https://github.com/microsoft/terminal)
 - [IUCN Red List](https://github.com/devilcrucifier/iucn-red-list)
 
 
@@ -87,7 +84,6 @@
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
-- [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
 
 ## Repositories for intermediate/Advanced Coders
 
