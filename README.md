@@ -28,7 +28,6 @@
 - [Challenges backend](https://github.com/WoMakersCode/challenges-back-end)
 - [Challenges frontend](https://github.com/WoMakersCode/challenges-front-end)
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
-- [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
