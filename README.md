@@ -47,6 +47,7 @@
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [MindsDB](https://github.com/mindsdb/mindsdb)
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
+- [Nerdify Chat App](https://github.com/nerdify/internal-chat-app)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
