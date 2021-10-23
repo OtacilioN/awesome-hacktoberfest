@@ -21,6 +21,7 @@
 
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
+- [Awesome Resources](https://github.com/shahednasser/awesome-resources)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Banco de dados](https://github.com/WoMakersCode/banco-de-dados)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
@@ -34,6 +35,7 @@
 - [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
+- [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2021](https://github.com/shubham9672/Hacktoberfest2021)
@@ -53,6 +55,7 @@
 - [Quotes](https://github.com/nyancodeid/quotes)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
+- [ShopCube](https://github.com/shopyo/ShopCube)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
