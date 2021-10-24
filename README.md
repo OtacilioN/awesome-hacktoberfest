@@ -56,6 +56,7 @@
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [ShopCube](https://github.com/shopyo/ShopCube)
 - [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
+- [tldr](https://github.com/tldr-pages/tldr)
 - [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
