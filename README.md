@@ -39,6 +39,7 @@
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2021](https://github.com/shubham9672/Hacktoberfest2021)
 - [Hacktoberfest_2021](https://github.com/AkshayNachappa/Hacktoberfest_2021)
+- [Hacktoberfest-CodeForces-Solution](https://github.com/virejdasani/Hacktoberfest-CodeForces-Solution)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
