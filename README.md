@@ -40,7 +40,6 @@
 - [Hacktoberfest2021](https://github.com/shubham9672/Hacktoberfest2021)
 - [Hacktoberfest_2021](https://github.com/AkshayNachappa/Hacktoberfest_2021)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
-
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [layer5io](https://github.com/layer5io/layer5)
@@ -83,6 +82,7 @@
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Javascript](https://github.com/akshitagit/JavaScript)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 - [ML-Usecases](https://github.com/Virtual-Diagnostic-Lab/ML-Usecases)
 - [Nodejs-Beginners](https://www.tutorialspoint.com/nodejs)
 - [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
