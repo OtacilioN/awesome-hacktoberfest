@@ -10,16 +10,12 @@
 
 ## Contents
 
-- [Awesome Hacktoberfest 2021 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hacktoberfest-2021-)
-- [Contents](#contents)
 - [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
-- [Repositories for intermediate/Advanced Coders](#repositories-for-intermediateadvanced-coders)
 - [Guides and Resources](#guides-and-resources)
 - [CLI Tools](#cli-tools)
 - [Cheat sheets](#cheat-sheets)
 - [Meetups and Events](#meetups-and-events)
-- [License](#license)
 
 ## Repositories Supporting First-Timers
 
