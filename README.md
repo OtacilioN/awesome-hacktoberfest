@@ -10,12 +10,16 @@
 
 ## Contents
 
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
+- [Awesome Hacktoberfest 2021 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hacktoberfest-2021-)
+- [Contents](#contents)
+- [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+- [Repositories for intermediate/Advanced Coders](#repositories-for-intermediateadvanced-coders)
 - [Guides and Resources](#guides-and-resources)
-- [Cli Tools](#cli-tools)
+- [CLI Tools](#cli-tools)
 - [Cheat sheets](#cheat-sheets)
 - [Meetups and Events](#meetups-and-events)
+- [License](#license)
 
 ## Repositories Supporting First-Timers
 
@@ -31,7 +35,6 @@
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
-- [DevJoke](https://github.com/shrutikapoor08/devjoke)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
