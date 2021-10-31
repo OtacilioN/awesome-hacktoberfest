@@ -90,6 +90,7 @@
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
+- [Unofficial Discord Client](https://github.com/Coding-Bunker/unofficial-discord-client)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
 
 ## Repositories for intermediate/Advanced Coders
