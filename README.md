@@ -1,6 +1,6 @@
-﻿# Awesome Hacktoberfest 2021 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Hacktoberfest 2022 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> We present a curated list of awesome Hacktoberfest 2021 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
+> We present a curated list of awesome Hacktoberfest 2022 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
 > Will you choose the ✨ Hacktoberfest t-shirt ✨ but don't want to stop contributing to the environment and a sustainable future? [Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) so you can plant a tree! 🌱
 
@@ -37,8 +37,6 @@
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
-- [Hacktoberfest2021](https://github.com/shubham9672/Hacktoberfest2021)
-- [Hacktoberfest_2021](https://github.com/AkshayNachappa/Hacktoberfest_2021)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
