@@ -6,7 +6,7 @@
 
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
 
-![Logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+![Logo](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 
 ## Contents
 
