@@ -60,8 +60,8 @@
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
 - [IUCN Red List](https://github.com/devilcrucifier/iucn-red-list)
-
-
+- [LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+- [Awesome GitHub Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 
 ## Repositories Coding for Beginners
 
