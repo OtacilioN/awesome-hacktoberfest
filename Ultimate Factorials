@@ -1,0 +1,38 @@
+#include <gmpxx.h> 
+#include <iostream> 
+ 
+int main() 
+{ 
+    mpz_class u = 1; 
+    for(unsigned i = 1; i <= 10000; ++i) 
+            u *= i; 
+ 
+    std::cout << "10000! = " << u.get_str(10) << '\n'; 
+}
+
+/*#include <bits/stdc++.h>
+#include <boost/multiprecision/cpp_int.hpp> 
+using namespace boost::multiprecision; 
+using namespace std; 
+
+#define int cpp_int
+
+signed main() {
+  ios::sync_with_stdio(false);
+  cin.tie(0);
+  int tt;
+  cin >> tt;
+  while(tt--) {
+    int n;
+    cin >> n;
+    int ans = 1;
+    for(int i = 1; i <= n; i++) {
+      ans *= i;
+    }
+    cout << ans << '\n';
+  }
+}*/
+
+
+// gmpxx.h header file can calculate factorials upto thousnads of digits. You can run this code on selected platforms, one of them is Online GDB, because this
+// header file is supported by only some platforms.
