@@ -93,6 +93,7 @@
 ## Repositories for intermediate/Advanced Coders
 
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
+- [Vita](https://github.com/Vita-app/Vita)
 - [Home Automation](https://github.com/home-assistant/core)
 - [K8gb: A cloud native Kubernetes Global Balancer](https://github.com/k8gb-io/k8gb)
 - [Project-Books](https://github.com/Project-Books/book-project)
