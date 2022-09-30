@@ -33,6 +33,7 @@
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
+- [first-contribution](https://github.com/firstcontributions/first-contributions)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
