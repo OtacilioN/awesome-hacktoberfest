@@ -89,6 +89,7 @@
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
+- [MunGell](https://github.com/MunGell/awesome-for-beginners)
 
 ## Repositories for intermediate/Advanced Coders
 
