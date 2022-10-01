@@ -123,6 +123,7 @@
 ## Cheat sheets
 
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
 
 ## Meetups and Events
 
