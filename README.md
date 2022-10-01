@@ -113,6 +113,7 @@
 - [Open Source Guide](https://opensource.guide/)
 - [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
+- [FreecodeCamp Youtube](https://www.youtube.com/results?search_query=freecodecamp+git)
 
 ## CLI Tools
 
