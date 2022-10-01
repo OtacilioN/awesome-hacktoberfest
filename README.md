@@ -55,7 +55,6 @@
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [ShopCube](https://github.com/shopyo/ShopCube)
-- [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
