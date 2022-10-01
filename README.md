@@ -47,6 +47,7 @@
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [MindsDB](https://github.com/mindsdb/mindsdb)
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
+- [OMRChecker](https://github.com/Udayraj123/OMRChecker)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Oppia](https://github.com/oppia/oppia)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
