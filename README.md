@@ -29,6 +29,9 @@
 - [Challenges backend](https://github.com/WoMakersCode/challenges-back-end)
 - [Challenges frontend](https://github.com/WoMakersCode/challenges-front-end)
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
+- [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
+- [CheatSheets](https://github.com/Jahenr/CheatSheets)
+- [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
@@ -36,9 +39,10 @@
 - [first-contribution](https://github.com/firstcontributions/first-contributions)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
+- [Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
-
+- [Hydrate Reminder](https://github.com/jmakhack/hydrate-reminder)
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [layer5io](https://github.com/layer5io/layer5)
@@ -46,10 +50,13 @@
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [MindsDB](https://github.com/mindsdb/mindsdb)
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
+- [OMRChecker](https://github.com/Udayraj123/OMRChecker)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [Oppia](https://github.com/oppia/oppia)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
 - [Public Apis](https://github.com/public-apis/public-apis)
+- [Quelea](https://github.com/quelea-projection/Quelea/)
 - [Quotes](https://github.com/nyancodeid/quotes)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
@@ -82,6 +89,7 @@
 - [Javascript](https://github.com/akshitagit/JavaScript)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [ML-Usecases](https://github.com/Virtual-Diagnostic-Lab/ML-Usecases)
+- [MunGell](https://github.com/MunGell/awesome-for-beginners)
 - [Nodejs-Beginners](https://www.tutorialspoint.com/nodejs)
 - [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
@@ -122,6 +130,7 @@
 ## Cheat sheets
 
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
 
 ## Meetups and Events
 
