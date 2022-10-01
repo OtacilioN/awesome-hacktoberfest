@@ -48,6 +48,7 @@
 - [MindsDB](https://github.com/mindsdb/mindsdb)
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [Oppia](https://github.com/oppia/oppia)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
 - [Public Apis](https://github.com/public-apis/public-apis)
