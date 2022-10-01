@@ -32,6 +32,7 @@
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
+- [ctf-tools](https://github.com/karanS08/ctf-tools)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [first-contribution](https://github.com/firstcontributions/first-contributions)
@@ -39,7 +40,6 @@
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
-
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [layer5io](https://github.com/layer5io/layer5)
