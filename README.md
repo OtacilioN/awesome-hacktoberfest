@@ -87,6 +87,7 @@
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Javascript](https://github.com/akshitagit/JavaScript)
+- [javaScript-projects](https://github.com/Tamanna-S/javaScript-projects)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [ML-Usecases](https://github.com/Virtual-Diagnostic-Lab/ML-Usecases)
 - [MunGell](https://github.com/MunGell/awesome-for-beginners)
