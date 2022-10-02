@@ -84,7 +84,6 @@
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Free programing eBook](https://github.com/bayuputra18/perpus-gratis)
 - [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
-- [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Javascript](https://github.com/akshitagit/JavaScript)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
