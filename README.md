@@ -36,6 +36,7 @@
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
+- [DSC Bamenda](https://github.com/Developer-Student-Clubs-UBa)
 - [EazyChart](https://github.com/Hexastack/eazychart)
 - [first-contribution](https://github.com/firstcontributions/first-contributions)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
@@ -69,6 +70,7 @@
 - [IUCN Red List](https://github.com/devilcrucifier/iucn-red-list)
 - [HealhUb](https://github.com/skpandey885/HealhUb)
 - [UI-Component-Library](https://github.com/Web3-Bharat-ITER/UI-Component-Library)
+-
 
 ## Repositories Coding for Beginners
 
@@ -115,7 +117,7 @@
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Github Pages](https://pages.github.com/)
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
-- [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
+- [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com   /KeyboardNinjas/hacktoberfest-mobileapp)
 - [Hacktoberfest Profile](https://hacktoberfest.com/profile/)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
