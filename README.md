@@ -44,6 +44,8 @@
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 - [Hydrate Reminder](https://github.com/jmakhack/hydrate-reminder)
+- [introduction-to-docker-ebook](https://github.com/bobbyiliev/introduction-to-docker-ebook)
+- [introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [layer5io](https://github.com/layer5io/layer5)
