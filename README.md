@@ -57,6 +57,7 @@
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
 - [Public Apis](https://github.com/public-apis/public-apis)
+- [PublicLabs](https://github.com/publiclab/plots2)
 - [Quelea](https://github.com/quelea-projection/Quelea/)
 - [Quotes](https://github.com/nyancodeid/quotes)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
