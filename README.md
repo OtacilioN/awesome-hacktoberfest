@@ -40,7 +40,6 @@
 - [first-contribution](https://github.com/firstcontributions/first-contributions)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
-- [Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 - [Hydrate Reminder](https://github.com/jmakhack/hydrate-reminder)
