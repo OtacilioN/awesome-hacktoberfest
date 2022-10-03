@@ -103,22 +103,20 @@
 ## Repositories for intermediate/Advanced Coders
 
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
+- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [Github Docs](https://github.com/github/docs)
 - [Home Automation](https://github.com/home-assistant/core)
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 - [K8gb: A cloud native Kubernetes Global Balancer](https://github.com/k8gb-io/k8gb)
+- [Material-UI](https://github.com/mui/material-ui)
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [react-figma](https://github.com/react-figma/react-figma)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Python Algorithms](https://github.com/TheAlgorithms/Python)
 - [Vita](https://github.com/Vita-app/Vita)
-- [react-figma](https://github.com/react-figma/react-figma)
-- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
-- [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
-- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Material-UI](https://github.com/mui/material-ui)
-- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-- [Github Docs](https://github.com/github/docs)
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
 ## Guides and Resources
 
