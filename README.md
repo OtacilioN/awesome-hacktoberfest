@@ -30,7 +30,6 @@
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
 - [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
 - [CheatSheets](https://github.com/Jahenr/CheatSheets)
-- [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [ctf-tools](https://github.com/karanS08/ctf-tools)
