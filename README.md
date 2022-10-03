@@ -19,7 +19,7 @@
 
 ## Repositories Supporting First-Timers
 
-- [Amplication] (https://github.com/amplication/amplication)
+- [Amplication](https://github.com/amplication/amplication)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome GitHub Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
