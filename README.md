@@ -19,8 +19,8 @@
 
 ## Repositories Supporting First-Timers
 
+- [Amplication](https://github.com/amplication/amplication)
 - [Appwrite](https://github.com/appwrite/appwrite)
-- [Awesome GitHub Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
 - [Awesome Resources](https://github.com/shahednasser/awesome-resources)
 - [Banco de dados](https://github.com/WoMakersCode/banco-de-dados)
@@ -31,9 +31,9 @@
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
 - [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
 - [CheatSheets](https://github.com/Jahenr/CheatSheets)
-- [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
+- [ctf-tools](https://github.com/karanS08/ctf-tools)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [DSC Bamenda](https://github.com/Developer-Student-Clubs-UBa)
@@ -41,7 +41,6 @@
 - [first-contribution](https://github.com/firstcontributions/first-contributions)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
-- [Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 - [Hydrate Reminder](https://github.com/jmakhack/hydrate-reminder)
@@ -97,6 +96,7 @@
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
 
@@ -111,6 +111,12 @@
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [react-figma](https://github.com/react-figma/react-figma)
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+- [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Material-UI](https://github.com/mui/material-ui)
+- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [Github Docs](https://github.com/github/docs)
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
 ## Guides and Resources
 
