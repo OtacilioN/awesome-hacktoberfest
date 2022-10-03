@@ -34,6 +34,7 @@
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
+- [ctf-tools](https://github.com/karanS08/ctf-tools)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [EazyChart](https://github.com/Hexastack/eazychart)
@@ -95,6 +96,8 @@
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
+- [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
 
 ## Repositories for intermediate/Advanced Coders
@@ -108,6 +111,12 @@
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [react-figma](https://github.com/react-figma/react-figma)
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+- [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Material-UI](https://github.com/mui/material-ui)
+- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [Github Docs](https://github.com/github/docs)
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
 ## Guides and Resources
 
