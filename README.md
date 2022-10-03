@@ -123,6 +123,8 @@
 ## Cheat sheets
 
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [javascript-cheat-sheet](https://htmlcheatsheet.com/js/)
+- [ Web Programming-cheat-sheet](https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf)
 
 ## Meetups and Events
 
