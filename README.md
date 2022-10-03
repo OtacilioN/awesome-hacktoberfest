@@ -29,6 +29,7 @@
 - [Challenges backend](https://github.com/WoMakersCode/challenges-back-end)
 - [Challenges frontend](https://github.com/WoMakersCode/challenges-front-end)
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
+- [Codedamn - Projects](https://github.com/codedamn/projects)
 - [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
 - [CheatSheets](https://github.com/Jahenr/CheatSheets)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
