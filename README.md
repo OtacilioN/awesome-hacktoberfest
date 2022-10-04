@@ -29,12 +29,12 @@
 - [Challenges backend](https://github.com/WoMakersCode/challenges-back-end)
 - [Challenges frontend](https://github.com/WoMakersCode/challenges-front-end)
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
-- [Codedamn - Projects](https://github.com/codedamn/projects)
+
 - [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
 - [CheatSheets](https://github.com/Jahenr/CheatSheets)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
-- [css-puns](https://github.com/cmcodes1/css-puns)
+
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [EazyChart](https://github.com/Hexastack/eazychart)
