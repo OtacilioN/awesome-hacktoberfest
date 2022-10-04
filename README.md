@@ -49,7 +49,6 @@
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree/)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [MindsDB](https://github.com/mindsdb/mindsdb)
-- [Multi-Programming](https://github.com/malivinayak/Multi-Programming)
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
 - [OMRChecker](https://github.com/Udayraj123/OMRChecker)
 - [Open source drinks](https://github.com/alfg/opendrinks)
