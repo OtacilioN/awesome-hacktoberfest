@@ -22,6 +22,7 @@
 - [Amplication](https://github.com/amplication/amplication)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
+- [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Awesome Resources](https://github.com/shahednasser/awesome-resources)
 - [Banco de dados](https://github.com/WoMakersCode/banco-de-dados)
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
@@ -29,8 +30,9 @@
 - [Challenges backend](https://github.com/WoMakersCode/challenges-back-end)
 - [Challenges frontend](https://github.com/WoMakersCode/challenges-front-end)
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
-- [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
 - [CheatSheets](https://github.com/Jahenr/CheatSheets)
+- [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
+- [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [ctf-tools](https://github.com/karanS08/ctf-tools)
@@ -39,11 +41,14 @@
 - [EazyChart](https://github.com/Hexastack/eazychart)
 - [first-contribution](https://github.com/firstcontributions/first-contributions)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
+- [Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
+- [HealhUb](https://github.com/skpandey885/HealhUb)
 - [Hydrate Reminder](https://github.com/jmakhack/hydrate-reminder)
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
+- [IUCN Red List](https://github.com/devilcrucifier/iucn-red-list)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [layer5io](https://github.com/layer5io/layer5)
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree/)
@@ -62,12 +67,9 @@
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [ShopCube](https://github.com/shopyo/ShopCube)
 - [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
-- [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
-- [Awesomo](https://github.com/lk-geimfari/awesomo)
-- [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
-- [IUCN Red List](https://github.com/devilcrucifier/iucn-red-list)
-- [HealhUb](https://github.com/skpandey885/HealhUb)
 - [UI-Component-Library](https://github.com/Web3-Bharat-ITER/UI-Component-Library)
+- [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
+- [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 
 ## Repositories Coding for Beginners
 
@@ -80,8 +82,8 @@
 - [DS Algo (C/C++/Python/Java)](https://github.com/dheeraj-2000/dsalgo)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-- [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Free programing eBook](https://github.com/bayuputra18/perpus-gratis)
+- [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
@@ -101,36 +103,36 @@
 ## Repositories for intermediate/Advanced Coders
 
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
-- [Vita](https://github.com/Vita-app/Vita)
-- [Home Automation](https://github.com/home-assistant/core)
-- [K8gb: A cloud native Kubernetes Global Balancer](https://github.com/k8gb-io/k8gb)
-- [Project-Books](https://github.com/Project-Books/book-project)
-- [Python Algorithms](https://github.com/TheAlgorithms/Python)
-- [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
-- [react-figma](https://github.com/react-figma/react-figma)
-- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
-- [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Material-UI](https://github.com/mui/material-ui)
+- [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Github Docs](https://github.com/github/docs)
+- [Home Automation](https://github.com/home-assistant/core)
+- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+- [K8gb: A cloud native Kubernetes Global Balancer](https://github.com/k8gb-io/k8gb)
+- [Material-UI](https://github.com/mui/material-ui)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+- [react-figma](https://github.com/react-figma/react-figma)
+- [Project-Books](https://github.com/Project-Books/book-project)
+- [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
+- [Python Algorithms](https://github.com/TheAlgorithms/Python)
+- [Vita](https://github.com/Vita-app/Vita)
 
 ## Guides and Resources
 
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
+- [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
 - [Github Pages](https://pages.github.com/)
+- [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [Hacktoberfest Profile](https://hacktoberfest.com/profile/)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
-- [Open Source Guide](https://opensource.guide/)
-- [he Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 - [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
-- [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
+- [Open Source Guide](https://opensource.guide/)
+- [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 - [Web Dev Book](https://codingspecies.github.io/webdevbook/)
-- [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
 
 ## CLI Tools
 
@@ -138,8 +140,8 @@
 
 ## Cheat sheets
 
-- [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
+- [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Meetups and Events
 
