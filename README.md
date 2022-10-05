@@ -115,6 +115,7 @@
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Github Docs](https://github.com/github/docs)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+- [Golang programming basics from Indonesian](https://github.com/novalagung/dasarpemrogramangolang)
 
 ## Guides and Resources
 
