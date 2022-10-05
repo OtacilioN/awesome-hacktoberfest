@@ -90,6 +90,7 @@
 - [Javascript](https://github.com/akshitagit/JavaScript)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [ML-Usecases](https://github.com/Virtual-Diagnostic-Lab/ML-Usecases)
+- [Multi-Programming](https://github.com/malivinayak/Multi-Programming)
 - [MunGell](https://github.com/MunGell/awesome-for-beginners)
 - [Nodejs-Beginners](https://www.tutorialspoint.com/nodejs)
 - [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
