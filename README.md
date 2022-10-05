@@ -79,6 +79,7 @@
 - [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
 - [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 - [CPP Codes for beginners](https://github.com/codergeekzz/cppcodes)
+- [Daily Python Scripts](https://github.com/metafy-social/daily-python-scripts)
 - [DS Algo (C/C++/Python/Java)](https://github.com/dheeraj-2000/dsalgo)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
@@ -118,6 +119,7 @@
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Python Algorithms](https://github.com/TheAlgorithms/Python)
+- [Pusher](https://github.com/pusher/hacktoberfest)
 - [Vita](https://github.com/Vita-app/Vita)
 
 ## Guides and Resources
