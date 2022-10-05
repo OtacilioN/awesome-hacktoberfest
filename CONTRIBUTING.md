@@ -8,6 +8,18 @@ This repository was created to help developers get started with Open Source duri
 Add them to this list so others can find it too and start contributing, however, make sure that these repositories are beginner-friendly!
 > NOTE: Check out `issues` labelled as `Hacktoberfest` and start contributing!
 
+## How to create a pull request
+1. Go to the repositry.
+2. Click on new pull request.
+3. Describe the pull request.
+4. Click on create pull request.
+
+## How to create an issue
+1. Go to the issues tab.
+2. Click on new issue.
+3. Describe the issue
+4. Click on submit new issue.
+
 ## Submitting a pull request
 
 1. [Fork](https://github.com/OtacilioN/awesome-hacktoberfest-2018/fork) and clone the repository.
