@@ -37,6 +37,8 @@
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [EazyChart](https://github.com/Hexastack/eazychart)
+- [Encryptor](https://github.com/rafaeelaudibert/Encryptor)
+- [first-contribution](https://github.com/firstcontributions/first-contributions)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
