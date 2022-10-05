@@ -97,6 +97,7 @@
 - [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
+- [The Algorithms - C](https://github.com/TheAlgorithms/C)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
