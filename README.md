@@ -110,6 +110,7 @@
 ## Repositories for intermediate/Advanced Coders
 
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
+- [Anuraghazra: Github Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
