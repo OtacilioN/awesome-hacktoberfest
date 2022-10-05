@@ -47,6 +47,8 @@
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 - [HealhUb](https://github.com/skpandey885/HealhUb)
 - [Hydrate Reminder](https://github.com/jmakhack/hydrate-reminder)
+- [introduction-to-docker-ebook](https://github.com/bobbyiliev/introduction-to-docker-ebook)
+- [introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [IUCN Red List](https://github.com/devilcrucifier/iucn-red-list)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
