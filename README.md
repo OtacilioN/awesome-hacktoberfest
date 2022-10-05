@@ -57,6 +57,7 @@
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
 - [OMRChecker](https://github.com/Udayraj123/OMRChecker)
 - [Oppia](https://github.com/oppia/oppia)
+- [Outerbridge](https://github.com/Outerbridgeio/Outerbridge)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
 - [Public Apis](https://github.com/public-apis/public-apis)
