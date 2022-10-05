@@ -19,6 +19,7 @@
 
 ## Repositories Supporting First-Timers
 
+- [AliceWonderland](https://github.com/AliceWonderland/hacktoberfest)
 - [Amplication](https://github.com/amplication/amplication)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
@@ -76,6 +77,7 @@
 
 ## Repositories Coding for Beginners
 
+- [Algorithms-js](https://github.com/manrajgrover/algorithms-js)
 - [AlgoBook - Various Python and ML Algorithms under one roof](https://github.com/geekquad/AlgoBook)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Anime line-art auto colorization](https://github.com/sanjay235/Sketch2Color-anime-translation)
