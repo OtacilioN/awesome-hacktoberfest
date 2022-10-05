@@ -43,6 +43,7 @@
 - [Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
+- [hacktoberfest-java](https://github.com/BimalRajGyawali/hacktoberfest-java)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 - [HealhUb](https://github.com/skpandey885/HealhUb)
 - [Hydrate Reminder](https://github.com/jmakhack/hydrate-reminder)
