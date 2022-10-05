@@ -29,6 +29,7 @@
 - [Caucus](https://github.com/Rishabh-malhotraa/caucus)
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
 - [CheatSheets](https://github.com/Jahenr/CheatSheets)
+- [CloudHaiku](https://github.com/do-community/cloud_haiku)
 - [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
 - [CompetitiveCode](https://github.com/Vishruth-S/CompetitiveCode)
 - [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
