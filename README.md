@@ -64,6 +64,7 @@
 - [PublicLabs](https://github.com/publiclab/plots2)
 - [Quelea](https://github.com/quelea-projection/Quelea/)
 - [Quotes](https://github.com/nyancodeid/quotes)
+- [Quotes Generator](https://github.com/seths10/Quotes-Generator)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [ShopCube](https://github.com/shopyo/ShopCube)
