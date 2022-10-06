@@ -139,6 +139,7 @@
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [Hacktoberfest Profile](https://hacktoberfest.com/profile/)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
+- [Learn about Rust in Italian](https://www.rust-lang.org/it/learn)
 - [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
 - [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
 - [Open Source Guide](https://opensource.guide/)
