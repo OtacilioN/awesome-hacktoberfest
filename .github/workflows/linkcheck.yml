@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: '0 0 * * 1'  # every monday
   push:
+  pull_request:
 
 jobs:
   build:
