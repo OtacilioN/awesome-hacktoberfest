@@ -31,7 +31,6 @@
 - [CheatSheets](https://github.com/Jahenr/CheatSheets)
 - [CloudHaiku](https://github.com/do-community/cloud_haiku)
 - [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
-- [competicoes-de-programacao](https://github.com/ifpeopensource/competicoes-de-programacao/)
 - [Conception](https://github.com/roopeshsn/conception)
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [ctf-tools](https://github.com/karanS08/ctf-tools)
