@@ -19,7 +19,6 @@
 
 ## Repositories Supporting First-Timers
 
-- [AliceWonderland](https://github.com/AliceWonderland/hacktoberfest)
 - [Amplication](https://github.com/amplication/amplication)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesome Hacktoberfest Plant a Tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
@@ -55,6 +54,7 @@
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [layer5io](https://github.com/layer5io/layer5)
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree/)
+- [Many-Passwords](https://github.com/Samar1110/many-passwords)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [MindsDB](https://github.com/mindsdb/mindsdb)
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
