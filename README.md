@@ -57,6 +57,7 @@
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree/)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [MindsDB](https://github.com/mindsdb/mindsdb)
+- [Maheshjainckd](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone)
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
 - [OMRChecker](https://github.com/Udayraj123/OMRChecker)
 - [Oppia](https://github.com/oppia/oppia)
