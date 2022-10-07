@@ -40,6 +40,7 @@
 - [Encryptor](https://github.com/rafaeelaudibert/Encryptor)
 - [first-contribution](https://github.com/firstcontributions/first-contributions)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
+- [Flyte](https://github.com/flyteorg/flyte)
 - [Freshbey](https://github.com/roopeshsn/freshbey)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
@@ -71,6 +72,7 @@
 - [ShopCube](https://github.com/shopyo/ShopCube)
 - [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
 - [UI-Component-Library](https://github.com/Web3-Bharat-ITER/UI-Component-Library)
+- [UnionML](https://github.com/unionai-oss/unionml)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 
