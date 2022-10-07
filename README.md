@@ -128,6 +128,7 @@
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Python Algorithms](https://github.com/TheAlgorithms/Python)
 - [Pusher](https://github.com/pusher/hacktoberfest)
+- [Titanium SDK](https://github.com/tidev/titanium_mobile)
 - [Vita](https://github.com/Vita-app/Vita)
 
 ## Guides and Resources
