@@ -42,7 +42,6 @@
 - [first-contribution](https://github.com/firstcontributions/first-contributions)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flyte](https://github.com/flyteorg/flyte)
-- [Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
 - [Freshbey](https://github.com/roopeshsn/freshbey)
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
