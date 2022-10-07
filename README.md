@@ -153,10 +153,10 @@
 ## Cheat sheets
 
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
-- [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
-- [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
+- [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
+- [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 
 ## Meetups and Events
 
