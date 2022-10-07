@@ -33,7 +33,6 @@
 - [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
 - [Conception](https://github.com/roopeshsn/conception)
 - [css-puns](https://github.com/cmcodes1/css-puns)
-- [ctf-tools](https://github.com/karanS08/ctf-tools)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
 - [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [Defaang](https://github.com/ykdojo/defaang)
