@@ -25,3 +25,4 @@ Add them to this list so others can find them too and start contributing. Howeve
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
 - [Your first time with git and github](https://kbroman.org/github_tutorial/pages/first_time.html)
+- [Git Forks and Upstream-A beginners Guide](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
