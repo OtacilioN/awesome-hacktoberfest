@@ -160,6 +160,7 @@
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
+- [MYSQL Cheat Sheets](https://www.rahmatsubandi.dev/blog/mysql-cheetsheet)
 
 ## Meetups and Events
 
