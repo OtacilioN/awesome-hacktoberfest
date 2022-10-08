@@ -38,7 +38,6 @@
 - [Defaang](https://github.com/ykdojo/defaang)
 - [EazyChart](https://github.com/Hexastack/eazychart)
 - [Encryptor](https://github.com/rafaeelaudibert/Encryptor)
-- [first-contribution](https://github.com/firstcontributions/first-contributions)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flyte](https://github.com/flyteorg/flyte)
 - [Freshbey](https://github.com/roopeshsn/freshbey)
