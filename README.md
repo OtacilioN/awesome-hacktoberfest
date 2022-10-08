@@ -87,6 +87,7 @@
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
+- [The Algorithms - C](https://github.com/TheAlgorithms/C)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
 
