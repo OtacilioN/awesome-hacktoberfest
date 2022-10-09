@@ -152,6 +152,7 @@
 ## CLI Tools
 
 - [gomerge](https://github.com/Cian911/gomerge)
+- [Step CI](https://github.com/stepci/stepci)
 
 ## Cheat sheets
 
