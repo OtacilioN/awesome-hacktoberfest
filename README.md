@@ -98,6 +98,7 @@
 - [ML-Usecases](https://github.com/Virtual-Diagnostic-Lab/ML-Usecases)
 - [Multi-Programming](https://github.com/malivinayak/Multi-Programming)
 - [MunGell](https://github.com/MunGell/awesome-for-beginners)
+- [myanimelist-cli](https://github.com/jmakhack/myanimelist-cli)
 - [Nodejs-Beginners](https://www.tutorialspoint.com/nodejs)
 - [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
