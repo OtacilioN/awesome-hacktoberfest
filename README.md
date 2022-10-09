@@ -41,7 +41,6 @@
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flyte](https://github.com/flyteorg/flyte)
 - [Freshbey](https://github.com/roopeshsn/freshbey)
-- [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [hacktoberfest-java](https://github.com/BimalRajGyawali/hacktoberfest-java)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
