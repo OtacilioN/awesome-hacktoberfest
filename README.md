@@ -72,7 +72,7 @@
 - [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
 - [UI-Component-Library](https://github.com/Web3-Bharat-ITER/UI-Component-Library)
 - [UnionML](https://github.com/unionai-oss/unionml)
-- [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
+- [useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 
 ## Repositories Coding for Beginners
