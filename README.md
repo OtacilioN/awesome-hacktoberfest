@@ -135,6 +135,7 @@
 
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+- [Complete Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE)
 - [Github Pages](https://pages.github.com/)
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
