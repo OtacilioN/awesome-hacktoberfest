@@ -94,7 +94,6 @@
 - [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
-- [Javascript](https://github.com/akshitagit/JavaScript)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [ML-Usecases](https://github.com/Virtual-Diagnostic-Lab/ML-Usecases)
 - [Multi-Programming](https://github.com/malivinayak/Multi-Programming)
