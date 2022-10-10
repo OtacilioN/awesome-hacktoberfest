@@ -16,6 +16,7 @@
 - [Cli Tools](#cli-tools)
 - [Cheat sheets](#cheat-sheets)
 - [Meetups and Events](#meetups-and-events)
+- [Bug Bounty Tools](#BB-Tools)
 
 ## Repositories Supporting First-Timers
 
@@ -131,6 +132,10 @@
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Web Dev Book](https://codingspecies.github.io/webdevbook/)
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+- [SOC Analyst Interview Questions 2022](https://www.siemxpert.com/blog/soc-analyst-interview-question/)
+- [Bug Bounty Beginner's Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap)
+- [BugBountyScanner](https://github.com/chvancooten/BugBountyScanner)
+
 
 ## CLI Tools
 
@@ -140,6 +145,9 @@
 
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
+- [OFFENSIVE SECURITY CHEATSHEET](https://cheatsheet.haax.fr/)
+- [Web Attack Cheat Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
+- [OWASP-Web-App-Pentesting-checklists](https://github.com/chennylmf/OWASP-Web-App-Pentesting-checklists)
 
 ## Meetups and Events
 
