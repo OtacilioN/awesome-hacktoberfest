@@ -16,6 +16,7 @@
 - [Cli Tools](#cli-tools)
 - [Cheat sheets](#cheat-sheets)
 - [Meetups and Events](#meetups-and-events)
+- [Bug Bounty Tools](#BB-Tools)
 
 ## Repositories Supporting First-Timers
 
@@ -156,6 +157,10 @@
 - [Open Source Guide](https://opensource.guide/)
 - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 - [Web Dev Book](https://codingspecies.github.io/webdevbook/)
+- [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+- [SOC Analyst Interview Questions 2022](https://www.siemxpert.com/blog/soc-analyst-interview-question/)
+- [Bug Bounty Beginner's Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap)
+- [BugBountyScanner](https://github.com/chvancooten/BugBountyScanner)
 
 ## CLI Tools
 
@@ -165,6 +170,9 @@
 ## Cheat sheets
 
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
+- [OFFENSIVE SECURITY CHEATSHEET](https://cheatsheet.haax.fr/)
+- [Web Attack Cheat Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
+- [OWASP-Web-App-Pentesting-checklists](https://github.com/chennylmf/OWASP-Web-App-Pentesting-checklists)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
