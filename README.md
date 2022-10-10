@@ -38,6 +38,7 @@
 - [Defaang](https://github.com/ykdojo/defaang)
 - [EazyChart](https://github.com/Hexastack/eazychart)
 - [Encryptor](https://github.com/rafaeelaudibert/Encryptor)
+- [EnhanceYourProfile](https://github.com/CodingSpecies/EnhanceYourProfile)
 - [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flyte](https://github.com/flyteorg/flyte)
 - [ForkMe](https://github.com/atapas/fork-me)
@@ -100,6 +101,7 @@
 - [High On DSA](https://github.com/Jiganesh/High-On-DSA)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
+- [List-of-Learning-Resources](https://github.com/jobream/List-of-Learning-Resources)
 - [ML-Usecases](https://github.com/Virtual-Diagnostic-Lab/ML-Usecases)
 - [Multi-Programming](https://github.com/malivinayak/Multi-Programming)
 - [MunGell](https://github.com/MunGell/awesome-for-beginners)
@@ -121,6 +123,7 @@
 
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [Anuraghazra: Github Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
@@ -144,6 +147,8 @@
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
 - [Complete Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE)
+- [complete-web-developer-manual](https://github.com/zero-to-mastery/complete-web-developer-manual)
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Github Pages](https://pages.github.com/)
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
@@ -157,6 +162,7 @@
 - [Open Source Guide](https://opensource.guide/)
 - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 - [Web Dev Book](https://codingspecies.github.io/webdevbook/)
+- [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 
 ## CLI Tools
 
