@@ -132,6 +132,7 @@
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Web Dev Book](https://codingspecies.github.io/webdevbook/)
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+- [RULES TO VALIDATE CONTRIBUTOR PULL/MERGE REQUESTS (“PR/MRS”) FOR HACKTOBERFEST](https://hacktoberfest.com/participation/#pr-mr-details)
 
 ## CLI Tools
 
