@@ -60,6 +60,8 @@
 - [MindsDB](https://github.com/mindsdb/mindsdb)
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
 - [OMRChecker](https://github.com/Udayraj123/OMRChecker)
+- [OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+- [Open source drinks](https://github.com/alfg/opendrinks)
 - [Open Source for Everyone](https://github.com/PulkitSinghDev/OpenSource-for-Everyone)
 - [Oppia](https://github.com/oppia/oppia)
 - [Outerbridge](https://github.com/Outerbridgeio/Outerbridge)
