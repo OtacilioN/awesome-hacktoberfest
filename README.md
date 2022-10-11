@@ -95,6 +95,7 @@
 - [Free programing eBook](https://github.com/bayuputra18/perpus-gratis)
 - [Url Shortener](https://github.com/origranot/url-shortener)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
+- [Groovy](https://github.com/Aman-Mandal/groovy)
 - [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
 - [Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
