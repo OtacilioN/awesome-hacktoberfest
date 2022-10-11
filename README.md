@@ -118,6 +118,8 @@
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [Ultimate-Web-Development resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
+- [CodeAck](https://github.com/Rahilsiddique/codeAck)
+
 
 ## Repositories for intermediate/Advanced Coders
 
