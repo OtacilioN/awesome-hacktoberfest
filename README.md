@@ -34,7 +34,6 @@
 - [Conception](https://github.com/roopeshsn/conception)
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
-- [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [Defaang](https://github.com/ykdojo/defaang)
 - [EazyChart](https://github.com/Hexastack/eazychart)
 - [Encryptor](https://github.com/rafaeelaudibert/Encryptor)
