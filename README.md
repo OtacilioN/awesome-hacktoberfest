@@ -29,7 +29,7 @@
 - [Caucus](https://github.com/Rishabh-malhotraa/caucus)
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
 - [CheatSheets](https://github.com/Jahenr/CheatSheets)
-
+- [CloudHaiku](https://github.com/do-community/cloud_haiku)
 - [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
 - [Conception](https://github.com/roopeshsn/conception)
 - [css-puns](https://github.com/cmcodes1/css-puns)
