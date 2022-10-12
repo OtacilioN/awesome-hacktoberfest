@@ -39,7 +39,6 @@
 - [EazyChart](https://github.com/Hexastack/eazychart)
 - [Encryptor](https://github.com/rafaeelaudibert/Encryptor)
 - [EnhanceYourProfile](https://github.com/CodingSpecies/EnhanceYourProfile)
-- [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flyte](https://github.com/flyteorg/flyte)
 - [ForkMe](https://github.com/atapas/fork-me)
 - [Freshbey](https://github.com/roopeshsn/freshbey)
