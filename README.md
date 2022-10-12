@@ -41,6 +41,7 @@
 - [EnhanceYourProfile](https://github.com/CodingSpecies/EnhanceYourProfile)
 - [Flyte](https://github.com/flyteorg/flyte)
 - [ForkMe](https://github.com/atapas/fork-me)
+- [Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
 - [Freshbey](https://github.com/roopeshsn/freshbey)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [hacktoberfest-java](https://github.com/BimalRajGyawali/hacktoberfest-java)
