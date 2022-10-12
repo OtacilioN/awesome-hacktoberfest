@@ -20,6 +20,7 @@
 ## Repositories Supporting First-Timers
 
 - [Amplication](https://github.com/amplication/amplication)
+- [Animepedia](https://github.com/DecodersCommunity/animepedia)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Awesome Resources](https://github.com/shahednasser/awesome-resources)
@@ -39,7 +40,6 @@
 - [EazyChart](https://github.com/Hexastack/eazychart)
 - [Encryptor](https://github.com/rafaeelaudibert/Encryptor)
 - [EnhanceYourProfile](https://github.com/CodingSpecies/EnhanceYourProfile)
-- [Filosofunk](https://github.com/IgorRozani/filosofunk)
 - [Flyte](https://github.com/flyteorg/flyte)
 - [ForkMe](https://github.com/atapas/fork-me)
 - [Freshbey](https://github.com/roopeshsn/freshbey)
