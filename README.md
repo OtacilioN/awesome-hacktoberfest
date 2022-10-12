@@ -139,6 +139,7 @@
 - [Material-UI](https://github.com/mui/material-ui)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [react-figma](https://github.com/react-figma/react-figma)
+- [Rick And Morty App](https://github.com/PGautam27/Morty_app)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Python Algorithms](https://github.com/TheAlgorithms/Python)
