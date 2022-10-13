@@ -8,6 +8,10 @@
 
 ![Logo](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 
+
+#Please Add Excluded ones Here:
+- [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
+
 ## Contents
 
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
@@ -97,7 +101,7 @@
 - [Url Shortener](https://github.com/origranot/url-shortener)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Groovy](https://github.com/Aman-Mandal/groovy)
-- [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
+- 
 - [Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
 - [High On DSA](https://github.com/Jiganesh/High-On-DSA)
