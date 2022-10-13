@@ -90,7 +90,6 @@
 - [CPP Codes for beginners](https://github.com/codergeekzz/cppcodes)
 - [Daily Python Scripts](https://github.com/metafy-social/daily-python-scripts)
 - [DevTrackWebsite](https://github.com/DevTrackClub/DevTrackWebsite)
-- [DS Algo (C/C++/Python/Java)](https://github.com/dheeraj-2000/dsalgo)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Free programing eBook](https://github.com/bayuputra18/perpus-gratis)
