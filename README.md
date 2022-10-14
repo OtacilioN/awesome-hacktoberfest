@@ -137,6 +137,7 @@
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 - [K8gb: A cloud native Kubernetes Global Balancer](https://github.com/k8gb-io/k8gb)
 - [Material-UI](https://github.com/mui/material-ui)
+- [Material-Tailwind](https://github.com/creativetimofficial/material-tailwind)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [react-figma](https://github.com/react-figma/react-figma)
 - [Project-Books](https://github.com/Project-Books/book-project)
@@ -145,6 +146,7 @@
 - [Pusher](https://github.com/pusher/hacktoberfest)
 - [Titanium SDK](https://github.com/tidev/titanium_mobile)
 - [Vita](https://github.com/Vita-app/Vita)
+
 
 ## Guides and Resources
 
