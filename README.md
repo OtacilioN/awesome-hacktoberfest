@@ -10,12 +10,16 @@
 
 ## Contents
 
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
-- [Repositories Coding for Beginners](#repositories-coding-for-beginners)
-- [Guides and Resources](#guides-and-resources)
-- [Cli Tools](#cli-tools)
-- [Cheat sheets](#cheat-sheets)
-- [Meetups and Events](#meetups-and-events)
+- [Awesome Hacktoberfest 2022 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hacktoberfest-2022-)
+  - [Contents](#contents)
+  - [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
+  - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+  - [Repositories for intermediate/Advanced Coders](#repositories-for-intermediateadvanced-coders)
+  - [Guides and Resources](#guides-and-resources)
+  - [CLI Tools](#cli-tools)
+  - [Cheat sheets](#cheat-sheets)
+  - [Meetups and Events](#meetups-and-events)
+  - [License](#license)
 
 ## Repositories Supporting First-Timers
 
@@ -79,6 +83,8 @@
 - [UnionML](https://github.com/unionai-oss/unionml)
 - [useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
+- [FreeFolio](https://github.com/OSSPhilippines/freefolio)
+
 
 ## Repositories Coding for Beginners
 
