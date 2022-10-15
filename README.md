@@ -94,6 +94,7 @@
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Free programing eBook](https://github.com/bayuputra18/perpus-gratis)
+- [Favorite-OTT-characters](https://github.com/ankitpareek0141/Favorite-OTT-characters)
 - [Url Shortener](https://github.com/origranot/url-shortener)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Groovy](https://github.com/Aman-Mandal/groovy)
