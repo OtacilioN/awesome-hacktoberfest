@@ -20,6 +20,7 @@
 ## Repositories Supporting First-Timers
 
 - [Amplication](https://github.com/amplication/amplication)
+- [Animepedia](https://github.com/DecodersCommunity/animepedia)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Awesome Resources](https://github.com/shahednasser/awesome-resources)
