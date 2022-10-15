@@ -109,6 +109,7 @@
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
+- [Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
 
 ## Repositories for intermediate/Advanced Coders
 
