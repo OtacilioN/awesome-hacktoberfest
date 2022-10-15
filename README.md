@@ -11,12 +11,16 @@
 
 ## Contents
 
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
-- [Repositories Coding for Beginners](#repositories-coding-for-beginners)
-- [Guides and Resources](#guides-and-resources)
-- [Cli Tools](#cli-tools)
-- [Cheat sheets](#cheat-sheets)
-- [Meetups and Events](#meetups-and-events)
+- [Awesome Hacktoberfest 2022 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hacktoberfest-2022-)
+  - [Contents](#contents)
+  - [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
+  - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+  - [Repositories for intermediate/Advanced Coders](#repositories-for-intermediateadvanced-coders)
+  - [Guides and Resources](#guides-and-resources)
+  - [CLI Tools](#cli-tools)
+  - [Cheat sheets](#cheat-sheets)
+  - [Meetups and Events](#meetups-and-events)
+  - [License](#license)
 
 ## Repositories Supporting First-Timers
 
@@ -88,14 +92,15 @@
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Anime line-art auto colorization](https://github.com/sanjay235/Sketch2Color-anime-translation)
 - [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
+- [CodeAck](https://github.com/Rahilsiddique/codeAck)
 - [CPP Codes for beginners](https://github.com/codergeekzz/cppcodes)
 - [Daily Python Scripts](https://github.com/metafy-social/daily-python-scripts)
 - [DevTrackWebsite](https://github.com/DevTrackClub/DevTrackWebsite)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [FreeFolio](https://github.com/OSSPhilippines/freefolio)
 - [Free programing eBook](https://github.com/bayuputra18/perpus-gratis)
 - [Favorite-OTT-characters](https://github.com/ankitpareek0141/Favorite-OTT-characters)
-- [Url Shortener](https://github.com/origranot/url-shortener)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Groovy](https://github.com/Aman-Mandal/groovy)
 - [Hacktoberfest2020_beginner](https://github.com/Aman22sharma/Hacktoberfest2020_beginner)
@@ -113,6 +118,7 @@
 - [Nodejs-Beginners](https://www.tutorialspoint.com/nodejs)
 - [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
+- [Portfolio-Collection](https://github.com/avinash201199/Portfolio-Collection)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
 - [The Algorithms - C](https://github.com/TheAlgorithms/C)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
@@ -121,9 +127,9 @@
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [Ultimate-Web-Development resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources)
+- [Url Shortener](https://github.com/origranot/url-shortener)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
-- [CodeAck](https://github.com/Rahilsiddique/codeAck)
-- [Portfolio-Collection](https://github.com/avinash201199/Portfolio-Collection)
+
 
 
 ## Repositories for intermediate/Advanced Coders
@@ -159,14 +165,14 @@
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Github Pages](https://pages.github.com/)
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
+- [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
+- [Git Tutorial in Bahasa Indonesia 2](https://github.com/petanikode/belajar-git)
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [Hacktoberfest Profile](https://hacktoberfest.com/profile/)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
 - [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
-- [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
-- [Git Tutorial in Bahasa Indonesia 2](https://github.com/petanikode/belajar-git)
 - [MIT - The Missing Semester](https://missing.csail.mit.edu/)
 - [Open Source Guide](https://opensource.guide/)
 - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
