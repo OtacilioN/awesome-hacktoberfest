@@ -4,7 +4,8 @@
 
 > Will you choose the ✨ Hacktoberfest t-shirt ✨ but don't want to stop contributing to the environment and a sustainable future? [Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) so you can plant a tree! 🌱
 
-> Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
+> :warning: Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
+
 
 ![Logo](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 
