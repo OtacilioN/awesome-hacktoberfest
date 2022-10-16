@@ -114,6 +114,7 @@
 - [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
+- [Sneha-cafe-FRONT-END](https://github.com/kavyanshpandey/Sneha-cafe-FRONT-END)
 - [The Algorithms - C](https://github.com/TheAlgorithms/C)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [The Algorithms - Go](https://github.com/TheAlgorithms/Go)
