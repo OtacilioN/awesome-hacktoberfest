@@ -189,6 +189,7 @@
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+- [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 
 ## Meetups and Events
 
