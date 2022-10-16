@@ -138,6 +138,7 @@
 - [Url Shortener](https://github.com/origranot/url-shortener)
 - [Home Automation](https://github.com/home-assistant/core)
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+- [jitsi-meet-torture](https://github.com/jitsi/jitsi-meet-torture)
 - [K8gb: A cloud native Kubernetes Global Balancer](https://github.com/k8gb-io/k8gb)
 - [Material-UI](https://github.com/mui/material-ui)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
