@@ -30,6 +30,8 @@
 - [BSI Developers - Comunidade](https://github.com/bsi-developers/comunidade)
 - [Caucus](https://github.com/Rishabh-malhotraa/caucus)
 - [Challenges Algorithm](https://github.com/WoMakersCode/challenges-algorithms)
+- [Codedamn Projects](https://github.com/codedamn/projects)
+- [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
 - [CheatSheets](https://github.com/Jahenr/CheatSheets)
 - [CloudHaiku](https://github.com/do-community/cloud_haiku)
 - [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
