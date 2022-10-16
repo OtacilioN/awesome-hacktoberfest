@@ -88,6 +88,7 @@
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Anime line-art auto colorization](https://github.com/sanjay235/Sketch2Color-anime-translation)
 - [Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
+- [Coding-Basics-HacktoberFest2022](https://github.com/crazycodigo/Coding-Basics-HacktoberFest2022)
 - [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
 - [CPP Codes for beginners](https://github.com/codergeekzz/cppcodes)
 - [Daily Python Scripts](https://github.com/metafy-social/daily-python-scripts)
