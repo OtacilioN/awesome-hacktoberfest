@@ -4,7 +4,8 @@
 
 > Will you choose the ✨ Hacktoberfest t-shirt ✨ but don't want to stop contributing to the environment and a sustainable future? [Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) so you can plant a tree! 🌱
 
-> Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
+> :warning: Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
+
 
 ![Logo](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 
@@ -20,6 +21,7 @@
 ## Repositories Supporting First-Timers
 
 - [Amplication](https://github.com/amplication/amplication)
+- [Animepedia](https://github.com/DecodersCommunity/animepedia)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Awesome Resources](https://github.com/shahednasser/awesome-resources)
@@ -34,13 +36,13 @@
 - [Conception](https://github.com/roopeshsn/conception)
 - [css-puns](https://github.com/cmcodes1/css-puns)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
-- [Data Structure and Algo](https://github.com/dheeraj-2000/dsalgo)
 - [Defaang](https://github.com/ykdojo/defaang)
 - [EazyChart](https://github.com/Hexastack/eazychart)
 - [Encryptor](https://github.com/rafaeelaudibert/Encryptor)
 - [EnhanceYourProfile](https://github.com/CodingSpecies/EnhanceYourProfile)
 - [Flyte](https://github.com/flyteorg/flyte)
 - [ForkMe](https://github.com/atapas/fork-me)
+- [Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
 - [Freshbey](https://github.com/roopeshsn/freshbey)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [hacktoberfest-java](https://github.com/BimalRajGyawali/hacktoberfest-java)
@@ -50,7 +52,7 @@
 - [Hydrate Reminder](https://github.com/jmakhack/hydrate-reminder)
 - [introduction-to-docker-ebook](https://github.com/bobbyiliev/introduction-to-docker-ebook)
 - [introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
-- [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
+
 - [IUCN Red List](https://github.com/devilcrucifier/iucn-red-list)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [layer5io](https://github.com/layer5io/layer5)
@@ -86,14 +88,13 @@
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
 - [Anime line-art auto colorization](https://github.com/sanjay235/Sketch2Color-anime-translation)
 - [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
-- [Coder's Way of Wishing HAPPY BIRTHDAY](https://github.com/vinitshahdeo/HBD/issues/1)
 - [CPP Codes for beginners](https://github.com/codergeekzz/cppcodes)
 - [Daily Python Scripts](https://github.com/metafy-social/daily-python-scripts)
 - [DevTrackWebsite](https://github.com/DevTrackClub/DevTrackWebsite)
-- [DS Algo (C/C++/Python/Java)](https://github.com/dheeraj-2000/dsalgo)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Free programing eBook](https://github.com/bayuputra18/perpus-gratis)
+- [Favorite-OTT-characters](https://github.com/ankitpareek0141/Favorite-OTT-characters)
 - [Url Shortener](https://github.com/origranot/url-shortener)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Groovy](https://github.com/Aman-Mandal/groovy)
@@ -103,6 +104,7 @@
 - [High On DSA](https://github.com/Jiganesh/High-On-DSA)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
+- [Linkin](https://github.com/RizkyRajitha/linkin)
 - [List-of-Learning-Resources](https://github.com/jobream/List-of-Learning-Resources)
 - [ML-Usecases](https://github.com/Virtual-Diagnostic-Lab/ML-Usecases)
 - [Multi-Programming](https://github.com/malivinayak/Multi-Programming)
@@ -121,6 +123,7 @@
 - [Ultimate-Web-Development resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
 - [CodeAck](https://github.com/Rahilsiddique/codeAck)
+- [Portfolio-Collection](https://github.com/avinash201199/Portfolio-Collection)
 
 
 ## Repositories for intermediate/Advanced Coders
@@ -139,6 +142,7 @@
 - [Material-UI](https://github.com/mui/material-ui)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [react-figma](https://github.com/react-figma/react-figma)
+- [Rick And Morty App](https://github.com/PGautam27/Morty_app)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Python Algorithms](https://github.com/TheAlgorithms/Python)
@@ -163,10 +167,12 @@
 - [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Git Tutorial in Bahasa Indonesia 2](https://github.com/petanikode/belajar-git)
+- [MIT - The Missing Semester](https://missing.csail.mit.edu/)
 - [Open Source Guide](https://opensource.guide/)
 - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 - [Web Dev Book](https://codingspecies.github.io/webdevbook/)
 - [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+- [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions)
 
 ## CLI Tools
 
@@ -181,6 +187,7 @@
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
+- [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 
 ## Meetups and Events
 
