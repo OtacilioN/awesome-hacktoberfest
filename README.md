@@ -125,6 +125,7 @@
 - [Ultimate-Web-Development resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
 - [Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
+- [Coding-Basics-HacktoberFest2022](https://github.com/crazycodigo/Coding-Basics-HacktoberFest2022)
 
 
 ## Repositories for intermediate/Advanced Coders
