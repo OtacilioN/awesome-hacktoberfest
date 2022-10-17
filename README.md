@@ -142,6 +142,7 @@
 - [Chart.js](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Docusaurus by Meta](https://github.com/facebook/docusaurus)
+- [Dotnet by ASP.NET CORE](https://github.com/dotnet/aspnetcore)
 - [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Ghost](https://github.com/TryGhost/Ghost)
