@@ -117,7 +117,6 @@
 - [Poke-Dex](https://github.com/AM1CODES/Poke-Dex.git)
 - [Programming-notes](https://github.com/Abhinandan323/Programming-notes)
 - [Pybites- solve problems](https://github.com/pybites/challenges)
-- [Python](https://github.com/Anjan50/Python)
 - [Sneha-cafe-FRONT-END](https://github.com/kavyanshpandey/Sneha-cafe-FRONT-END)
 - [The Algorithms - C](https://github.com/TheAlgorithms/C)
 - [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
