@@ -197,6 +197,7 @@
 
 ## Cheat sheets
 
+- [Bug Bounty Cheat Sheet](https://kathan19.gitbook.io/howtohunt/)
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
