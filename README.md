@@ -6,7 +6,6 @@
 
 > :warning: Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
 
-
 ![Logo](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 
 ## Contents
@@ -113,17 +112,19 @@
 - [Ultimate-Web-Development resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources)
 - [Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
 
-
 ## Repositories for intermediate/Advanced Coders
 
 - [Apollo 11 Guidance Computer - Source Code](https://github.com/chrislgarry/Apollo-11)
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [Anuraghazra: Github Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Ansible](https://github.com/ansible/ansible)
+- [Awesome-go](https://github.com/avelino/awesome-go)
 - [Axios](https://github.com/axios/axios)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Chart.js](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Curriculum](https://github.com/TheOdinProject/curriculum)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Devdocs - FreeCodeCamp](https://github.com/freeCodeCamp/devdocs)
 - [Docusaurus by Meta](https://github.com/facebook/docusaurus)
 - [Dotnet by ASP.NET CORE](https://github.com/dotnet/aspnetcore)
 - [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
@@ -132,20 +133,26 @@
 - [Git Source Code Mirror](https://github.com/scrapy/scrapy)
 - [Github Docs](https://github.com/github/docs)
 - [Godot](https://github.com/godotengine/godot)
+- [Grafana](https://github.com/grafana/grafana)
 - [Url Shortener](https://github.com/origranot/url-shortener)
 - [Home Automation](https://github.com/home-assistant/core)
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 - [jitsi-meet-torture](https://github.com/jitsi/jitsi-meet-torture)
 - [Julia by JuliaLang](https://github.com/JuliaLang/julia)
 - [K8gb: A cloud native Kubernetes Global Balancer](https://github.com/k8gb-io/k8gb)
+- [Leaflet](https://github.com/Leaflet/Leaflet)
 - [Material-UI](https://github.com/mui/material-ui)
 - [Nest by NestJS](https://github.com/nestjs/nest)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [react-figma](https://github.com/react-figma/react-figma)
 - [Rick And Morty App](https://github.com/PGautam27/Morty_app)
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 - [Rust](https://github.com/rust-lang/rust)
 - [Scrapy](https://github.com/scrapy/scrapy)
+- [Storybook](https://github.com/storybookjs/storybook)
+- [Symfony](https://github.com/symfony/symfony)
 - [Tauri by Tauri Apps](https://github.com/tauri-apps/tauri)
+- [Transformers](https://github.com/huggingface/transformers)
 - [Payloads-All-The-Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Project-Books](https://github.com/Project-Books/book-project)
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
