@@ -207,7 +207,7 @@
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 
-## Meetups and Events
+## Meetups and Events all over the world 🌍
 
 See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
