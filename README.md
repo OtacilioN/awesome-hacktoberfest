@@ -95,6 +95,7 @@
 - [High On DSA](https://github.com/Jiganesh/High-On-DSA)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
+- [Multiple-Writing-Script-Calculator](https://github.com/Prasanta-Hembram/Multiscript-UI-Calculator)
 - [Multi-Programming](https://github.com/malivinayak/Multi-Programming)
 - [myanimelist-cli](https://github.com/jmakhack/myanimelist-cli)
 - [Open-Pixel-Art](https://github.com/twilio-labs/open-pixel-art)
