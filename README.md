@@ -87,8 +87,8 @@
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Free programing eBook](https://github.com/bayuputra18/perpus-gratis)
 - [Favorite-OTT-characters](https://github.com/ankitpareek0141/Favorite-OTT-characters)
-- [Url Shortener](https://github.com/origranot/url-shortener)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
+- [Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
 - [Groovy](https://github.com/Aman-Mandal/groovy)
 - [Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Header and Footer designs](https://github.com/Geeky-star/Footer-and-Header-design-Challenge)
@@ -110,7 +110,7 @@
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [Ultimate-Web-Development resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources)
-- [Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
+- [Url Shortener](https://github.com/origranot/url-shortener)
 
 ## Repositories for intermediate/Advanced Coders
 
@@ -149,6 +149,7 @@
 - [Rick And Morty App](https://github.com/PGautam27/Morty_app)
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 - [Rust](https://github.com/rust-lang/rust)
+- [Sequelize](https://github.com/sequelize/sequelize)
 - [Scrapy](https://github.com/scrapy/scrapy)
 - [Storybook](https://github.com/storybookjs/storybook)
 - [Symfony](https://github.com/symfony/symfony)
