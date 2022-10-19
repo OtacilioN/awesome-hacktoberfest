@@ -211,6 +211,11 @@
 
 See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
+## Excluded Repositories From Hacktoberfest 2022
+
+- [codinasion/program](https://github.com/codinasion/program)
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
