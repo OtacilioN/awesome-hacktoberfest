@@ -162,6 +162,7 @@
 - [Vita](https://github.com/Vita-app/Vita)
 - [VsCode by Microsoft](https://github.com/microsoft/vscode)
 - [Web-Dev-For-Beginners by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Zeebe](https://github.com/camunda/zeebe)
 
 ## Guides and Resources
 
