@@ -30,6 +30,7 @@
 - [Compare Explainable AI Alg.](https://github.com/Karim-53/Compare-xAI)
 - [Conception](https://github.com/roopeshsn/conception)
 - [Developer Experience Knowledge Base](https://github.com/DXHeroes/knowledge-base-content)
+- [Developer Quiz site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
 - [Defaang](https://github.com/ykdojo/defaang)
 - [EazyChart](https://github.com/Hexastack/eazychart)
 - [Encryptor](https://github.com/rafaeelaudibert/Encryptor)
