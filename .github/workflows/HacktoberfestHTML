@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Best Places in Seattle</title>
+
+
+
+<style>
+    h1 {
+        text-align: center;
+        font-family: cursive;
+    }
+    
+    tr {
+    	width: 500px;
+    }
+    
+    table, th, td {
+    	border: 1px solid;
+    }
+    table {
+    	width: 100%;
+    }
+    img {
+    	
+    }
+    th, td {
+    	font-family: Arial;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+
+
+<h1>Best Places to go to in Seattle</h1>
+<table>
+  <tr>
+    <th>Place</th>
+    <th>Description</th>
+    <th>Image</th>
+  </tr>
+  <tr>
+    <td>Space Needle</td>
+    <td>The Space Needle was built for the World Fair on April 17th, 1961. It is 605 feet tall with a 360 view. It takes 43 seconds to go from ground level to the top floor from the elevator.</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Space_Needle_2011-07-04.jpg" width="25%"></td>
+  </tr>
+  
+  <tr>
+    <td>Pike Place Market</td>
+    <td>Pike Place Market is one of the most popular farmers market in Seattle that is well-known for the throwing of fish. It was first creaed in 1907. Whether you're there for food or products, Pike Place has everything.</td>
+    <td><img src="https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/seattlesouthside/Pike_Place_Market0-f58b040db89934b_f58b0ced-b1ca-91aa-c34e643859c15cd1.jpg" width="75%"></td>
+  </tr>
+  
+  <tr>
+    <td>Ferris Wheel</td>
+    <td>The Seattle Great Wheel, also known as the Ferris Wheel is an big wheel that can give tourists a great view of downtown Seattle. There are passenger cars that can take people up to the top and let them enjoy the view of the water or the city. Construction started in 2012 and it is 174 feet tall.</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Seattle_Great_Wheel_ferris_wheel_seen_from_Argosy_cruise.jpg" width="75%"></td>
+  </tr>
+  
+  
+</table>
+</body>
+</html>
