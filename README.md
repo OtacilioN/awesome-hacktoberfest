@@ -198,6 +198,7 @@
 
 ## Cheat sheets
 
+- [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
 - [Bug Bounty Cheat Sheet](https://kathan19.gitbook.io/howtohunt/)
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
@@ -216,7 +217,6 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 - [codinasion/program](https://github.com/codinasion/program)
 - [Hacktoberfest-beginner-coding-2022](https://github.com/abhijitmondal121/Hacktoberfest-beginner-coding-2022)
-
 
 ## License
 
