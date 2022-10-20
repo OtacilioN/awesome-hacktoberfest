@@ -216,6 +216,7 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 ## Excluded Repositories From Hacktoberfest 2022
 
 - [codinasion/program](https://github.com/codinasion/program)
+- [Hacktoberfest-beginner-coding-2022](https://github.com/abhijitmondal121/Hacktoberfest-beginner-coding-2022)
 
 ## License
 
