@@ -218,6 +218,7 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 - [codinasion/program](https://github.com/codinasion/program)
 - [Hacktoberfest-beginner-coding-2022](https://github.com/abhijitmondal121/Hacktoberfest-beginner-coding-2022)
+- [Hacktoberfest2022](https://github.com/fineanmol/Hacktoberfest2022))
 
 ## License
 
