@@ -118,6 +118,7 @@
 ## Repositories for intermediate/Advanced Coders
 
 - [Apollo 11 Guidance Computer - Source Code](https://github.com/chrislgarry/Apollo-11)
+- [Arduino-Library](https://github.com/ERC-IIITH/Arduino-Library)
 - [AuthPass - Password Manager based on Flutter for all platforms](https://github.com/authpass/authpass)
 - [Anuraghazra: Github Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Ansible](https://github.com/ansible/ansible)
@@ -147,6 +148,7 @@
 - [K8gb: A cloud native Kubernetes Global Balancer](https://github.com/k8gb-io/k8gb)
 - [Leaflet](https://github.com/Leaflet/Leaflet)
 - [Material-UI](https://github.com/mui/material-ui)
+- [Matlab-Library](https://github.com/ERC-IIITH/MATLAB-Library)
 - [Nest by NestJS](https://github.com/nestjs/nest)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [react-figma](https://github.com/react-figma/react-figma)
@@ -155,6 +157,7 @@
 - [Rust](https://github.com/rust-lang/rust)
 - [Sequelize](https://github.com/sequelize/sequelize)
 - [Scrapy](https://github.com/scrapy/scrapy)
+- [Spice-Library](https://github.com/ERC-IIITH/SPICE-Library)
 - [Storybook](https://github.com/storybookjs/storybook)
 - [Symfony](https://github.com/symfony/symfony)
 - [Tauri by Tauri Apps](https://github.com/tauri-apps/tauri)
@@ -164,6 +167,7 @@
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Python Algorithms](https://github.com/TheAlgorithms/Python)
 - [Titanium SDK](https://github.com/tidev/titanium_mobile)
+- [Verilog-Library](https://github.com/ERC-IIITH/Verilog-Library)
 - [Vita](https://github.com/Vita-app/Vita)
 - [VsCode by Microsoft](https://github.com/microsoft/vscode)
 - [Web-Dev-For-Beginners by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
