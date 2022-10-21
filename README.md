@@ -183,6 +183,7 @@
 - [Hacktoberfest Profile](https://hacktoberfest.com/profile/)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
+- [Hacktoberfest Swag – New List of Companies Giving Out Swag For Hacktoberfest](https://hacktoberfest-swag.com/))
 - [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Git Tutorial in Bahasa Indonesia 2](https://github.com/petanikode/belajar-git)
