@@ -204,6 +204,7 @@
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
