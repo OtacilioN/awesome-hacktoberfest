@@ -199,6 +199,7 @@
 - [Web Dev Book](https://codingspecies.github.io/webdevbook/)
 - [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 - [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [Great introduction to Cookies/session/JWT tokens](https://www.youtube.com/watch?v=uXDnS5PcjCA)
 
 ## CLI Tools
 
@@ -218,6 +219,8 @@
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+- [Kotlin Cheatsheet](https://www.cheat-sheets.org/sites/#Kotlin)
+- [C++ Cheatsheet](https://www.cheat-sheets.org/sites/#CPP)
 
 ## Meetups and Events
 
