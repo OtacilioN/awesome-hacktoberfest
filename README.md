@@ -218,6 +218,9 @@
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+- [HTML Cheat Sheet](https://htmlcheatsheet.com/)
+- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [npm Cheat Sheet](https://media.jfrog.com/wp-content/uploads/2021/08/23165237/JFrog_NPM_CheatSheet_V4.pdf)
 
 ## Meetups and Events
 
