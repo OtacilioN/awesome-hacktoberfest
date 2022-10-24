@@ -218,6 +218,7 @@
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+- [Kotlin Cheat Sheet](https://kt.academy/Kotlin_Cheat_Sheet.pdf)
 
 ## Meetups and Events
 
