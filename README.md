@@ -135,8 +135,11 @@
 - [Devdocs - FreeCodeCamp](https://github.com/freeCodeCamp/devdocs)
 - [Docusaurus by Meta](https://github.com/facebook/docusaurus)
 - [Dotnet by ASP.NET CORE](https://github.com/dotnet/aspnetcore)
+- [Earthly](https://github.com/earthly/earthly)
 - [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
+- [Encore](https://github.com/encoredev/encore)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [Forem](https://github.com/forem/forem)
 - [Ghost](https://github.com/TryGhost/Ghost)
 - [Git Source Code Mirror](https://github.com/scrapy/scrapy)
 - [Github Docs](https://github.com/github/docs)
@@ -162,6 +165,7 @@
 - [Scrapy](https://github.com/scrapy/scrapy)
 - [Spice-Library](https://github.com/ERC-IIITH/SPICE-Library)
 - [Storybook](https://github.com/storybookjs/storybook)
+- [Swagger](https://github.com/nestjs/swagger)
 - [Symfony](https://github.com/symfony/symfony)
 - [Tauri by Tauri Apps](https://github.com/tauri-apps/tauri)
 - [Transformers](https://github.com/huggingface/transformers)
@@ -174,6 +178,7 @@
 - [Vita](https://github.com/Vita-app/Vita)
 - [VsCode by Microsoft](https://github.com/microsoft/vscode)
 - [Web-Dev-For-Beginners by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Wire-web-packages](https://github.com/wireapp/wire-web-packages)
 - [Zeebe](https://github.com/camunda/zeebe)
 
 ## Guides and Resources
