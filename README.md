@@ -22,6 +22,7 @@
 - [Amplication](https://github.com/amplication/amplication)
 - [Animepedia](https://github.com/DecodersCommunity/animepedia)
 - [Anki IPA](https://github.com/m-rtin/anki-ipa)
+- [Annoying Submit Button](https://github.com/fineanmol/Annoying-submit-button)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Awesome Resources](https://github.com/shahednasser/awesome-resources)
