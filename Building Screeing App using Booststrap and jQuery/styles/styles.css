@@ -1,0 +1,189 @@
+.img-logo {
+  width: 65px;
+}
+.img-person {
+  margin-top: 100%;
+}
+.header h3 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 17px;
+}
+.header p {
+  font-size: 15px;
+}
+
+.header .col-4 {
+  padding: 0px;
+}
+.header .col-8 {
+  padding-left: 0px;
+}
+.icon-round {
+  width: 60px;
+  height: 60px;
+  border-radius: 100px;
+  display: block;
+}
+.round1 {
+  background: green;
+}
+.round2 {
+  background: yellow;
+}
+.round3 {
+  background: blue;
+}
+.list {
+  cursor: pointer;
+}
+.list-header h4 {
+  font-weight: bold;
+}
+.list h5 {
+  font-size: 19px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+.list p {
+  font-size: 14px;
+}
+.img-arrow {
+  margin-top: 11px;
+}
+.row.list {
+  border-bottom: 1px solid #f0f0f0;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.container {
+  padding: 0px;
+  width: 80%;
+  margin: 0 auto;
+  max-width: 420px;
+}
+.item-list li {
+  font-size: 14px;
+  margin-bottom: 22px;
+  line-height: 18px;
+}
+.bottom {
+  position: absolute;
+  bottom: 20px;
+  display: block;
+  padding: 0px;
+  width: 80%;
+  margin: 0 auto;
+  max-width: 420px;
+}
+.question-image {
+  position: absolute;
+  width: 66%;
+  margin: -39% auto;
+  top: 50%;
+  left: 50%;
+  margin-left: -33%;
+}
+.question h3 {
+  font-weight: bold;
+  margin-top: 23px;
+}
+.qs {
+  display: none;
+}
+.qs.active {
+  display: block;
+}
+ol li {
+  margin-bottom: 2px;
+}
+ol {
+  padding-left: 20px;
+  font-size: 18px;
+  margin-top: 22px;
+}
+/* Additional code for direction */
+.modal.left .modal-dialog {
+  position: fixed;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  -webkit-transform: translate3d(0%, 0, 0);
+  -ms-transform: translate3d(0%, 0, 0);
+  -o-transform: translate3d(0%, 0, 0);
+  transform: translate3d(0%, 0, 0);
+}
+
+.modal.left .modal-content,
+.modal.right .modal-content {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.modal.left .modal-body,
+.modal.right .modal-body {
+  padding: 15px 15px 80px;
+}
+
+/*Left*/
+.modal.left.fade .modal-dialog {
+  left: 0px;
+  -webkit-transition: opacity 1s linear, left 1s ease-out;
+  -moz-transition: opacity 1s linear, left 1s ease-out;
+  -o-transition: opacity 1s linear, left 1s ease-out;
+  transition: opacity 1s linear, left 1s ease-out;
+}
+
+.modal.left.fade.in .modal-dialog {
+  left: 0;
+}
+
+/* ----- MODAL STYLE ----- */
+.modal-content {
+  border-radius: 0;
+  border: none;
+}
+
+.modal-header .img-logo {
+  position: relative;
+  top: 8px;
+}
+.modal-header {
+  border-bottom-color: #e9ecef;
+  background-color: #e9ecef;
+  height: 65px;
+}
+
+.modal-body h3 {
+  font-weight: bold;
+  font-size: 26px;
+  margin-top: 25px;
+}
+.modal-body a {
+  color: #333;
+}
+
+.modal-dialog {
+  position: fixed;
+  width: auto;
+  margin: 0px;
+  pointer-events: none;
+  height: 100%;
+  background: white;
+}
+.question .btn {
+  width: 100%;
+  display: block;
+}
+.bottom-question {
+  position: fixed;
+  bottom: 31px;
+  width: 371px;
+  max-width: 80%;
+}
+.question .row {
+  display: none;
+}
+.question .active {
+  display: block;
+}
