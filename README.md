@@ -99,6 +99,7 @@
 - [High On DSA](https://github.com/Jiganesh/High-On-DSA)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
+- [LeetCode The Hard Way](https://github.com/wingkwong/leetcode-the-hard-way)
 - [Multiple-Writing-Script-Calculator](https://github.com/Prasanta-Hembram/Multiscript-UI-Calculator)
 - [Multi-Programming](https://github.com/malivinayak/Multi-Programming)
 - [myanimelist-cli](https://github.com/jmakhack/myanimelist-cli)
