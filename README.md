@@ -22,6 +22,7 @@
 - [Amplication](https://github.com/amplication/amplication)
 - [Animepedia](https://github.com/DecodersCommunity/animepedia)
 - [Anki IPA](https://github.com/m-rtin/anki-ipa)
+- [Annoying Submit Button](https://github.com/fineanmol/Annoying-submit-button)
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Awesome Resources](https://github.com/shahednasser/awesome-resources)
@@ -83,9 +84,7 @@
 - [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
 - [Awesome Android Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
 - [Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
-- [Coding-Basics-HacktoberFest2022](https://github.com/crazycodigo/Coding-Basics-HacktoberFest2022)
 - [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
-- [Daily Python Scripts](https://github.com/metafy-social/daily-python-scripts)
 - [DevTrackWebsite](https://github.com/DevTrackClub/DevTrackWebsite)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
@@ -99,6 +98,7 @@
 - [High On DSA](https://github.com/Jiganesh/High-On-DSA)
 - [HoneyBot py](https://github.com/pyhoneybot/honeybot)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
+- [LeetCode The Hard Way](https://github.com/wingkwong/leetcode-the-hard-way)
 - [Multiple-Writing-Script-Calculator](https://github.com/Prasanta-Hembram/Multiscript-UI-Calculator)
 - [Multi-Programming](https://github.com/malivinayak/Multi-Programming)
 - [myanimelist-cli](https://github.com/jmakhack/myanimelist-cli)
@@ -142,6 +142,7 @@
 - [Github Docs](https://github.com/github/docs)
 - [Godot](https://github.com/godotengine/godot)
 - [Grafana](https://github.com/grafana/grafana)
+- [Movie recomender](https://github.com/Gokulmishra/Movie-Recommendation)
 - [Url Shortener](https://github.com/origranot/url-shortener)
 - [Home Automation](https://github.com/home-assistant/core)
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
@@ -190,6 +191,7 @@
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
 - [Hacktoberfest Swag – New List of Companies Giving Out Swag For Hacktoberfest](https://hacktoberfest-swag.com/)
+- [How to Contribute to Hacktoberfest 2022](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest)
 - [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Git Tutorial in Bahasa Indonesia 2](https://github.com/petanikode/belajar-git)
@@ -199,6 +201,7 @@
 - [Web Dev Book](https://codingspecies.github.io/webdevbook/)
 - [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 - [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [Complete Node.js Handbook](https://drive.google.com/file/d/1qJNsYowJ70N47lNH3nCujO3xUH-vsQ69/view?usp=sharing)
 
 ## CLI Tools
 
@@ -218,6 +221,9 @@
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+- [HTML Cheat Sheet](https://htmlcheatsheet.com/)
+- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [npm Cheat Sheet](https://media.jfrog.com/wp-content/uploads/2021/08/23165237/JFrog_NPM_CheatSheet_V4.pdf)
 
 ## Meetups and Events
 
