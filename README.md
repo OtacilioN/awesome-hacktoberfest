@@ -200,6 +200,7 @@
 - [Web Dev Book](https://codingspecies.github.io/webdevbook/)
 - [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 - [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [Complete Node.js Handbook](https://drive.google.com/file/d/1qJNsYowJ70N47lNH3nCujO3xUH-vsQ69/view?usp=sharing)
 
 ## CLI Tools
 
