@@ -85,7 +85,6 @@
 - [Awesome Android Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
 - [Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
 - [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
-- [Daily Python Scripts](https://github.com/metafy-social/daily-python-scripts)
 - [DevTrackWebsite](https://github.com/DevTrackClub/DevTrackWebsite)
 - [Design patterns written in different programming languages](https://github.com/ZoranPandovski/design-patterns)
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
