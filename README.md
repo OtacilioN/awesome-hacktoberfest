@@ -83,7 +83,6 @@
 - [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
 - [Awesome Android Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
 - [Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
-- [Coding-Basics-HacktoberFest2022](https://github.com/crazycodigo/Coding-Basics-HacktoberFest2022)
 - [CIPHER_DIARIES](https://github.com/happycoder0011/CIPHER_DIARIES)
 - [Daily Python Scripts](https://github.com/metafy-social/daily-python-scripts)
 - [DevTrackWebsite](https://github.com/DevTrackClub/DevTrackWebsite)
