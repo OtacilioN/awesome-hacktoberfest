@@ -53,6 +53,7 @@
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree/)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [MindsDB](https://github.com/mindsdb/mindsdb)
+- [MovieHub] (https://github.com/Anikkkkettt/MovieHub)
 - [Naruto-shipuden](https://github.com/vikhyatsingh123/Naruto-Shippuden)
 - [OMRChecker](https://github.com/Udayraj123/OMRChecker)
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata)
@@ -240,7 +241,9 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 ## Excluded Repositories From Hacktoberfest 2022
 
 - [codinasion/program](https://github.com/codinasion/program)
+- [fineanmol/hacktoberfest] (https://github.com/fineanmol/hacktoberfest)
 - [Hacktoberfest-beginner-coding-2022](https://github.com/abhijitmondal121/Hacktoberfest-beginner-coding-2022)
+
 
 ## License
 
