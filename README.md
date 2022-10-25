@@ -186,6 +186,7 @@
 
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
 - [Complete Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE)
 - [complete-web-developer-manual](https://github.com/zero-to-mastery/complete-web-developer-manual)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
