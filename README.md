@@ -37,6 +37,7 @@
 - [EazyChart](https://github.com/Hexastack/eazychart)
 - [Encryptor](https://github.com/rafaeelaudibert/Encryptor)
 - [Flyte](https://github.com/flyteorg/flyte)
+- [First-Last Collaborative Story](https://github.com/ragozzine/last-first-letter-collab)
 - [ForkMe](https://github.com/atapas/fork-me)
 - [Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
 - [Free-Coding-Books](https://github.com/EbookFoundation/free-programming-books)
