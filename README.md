@@ -68,6 +68,7 @@
 - [Predator](https://github.com/Zooz/predator)
 - [promiviz](https://github.com/atapas/promiviz)
 - [PublicLabs](https://github.com/publiclab/plots2)
+- [Python Project Scripts](https://github.com/larymak/Python-project-Scripts)
 - [Quelea](https://github.com/quelea-projection/Quelea/)
 - [Quotes](https://github.com/nyancodeid/quotes)
 - [Quotes-gasy](https://github.com/rasolofonirina/quotes-gasy)
