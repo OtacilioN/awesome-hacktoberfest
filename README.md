@@ -245,6 +245,10 @@
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
 - [npm Cheat Sheet](https://media.jfrog.com/wp-content/uploads/2021/08/23165237/JFrog_NPM_CheatSheet_V4.pdf)
 - [Kotlin Cheat Sheet](https://kt.academy/Kotlin_Cheat_Sheet.pdf)
+- [C++ Cheat Sheet ](https://drive.google.com/file/d/1Q_I6H8qBTTIFMHEPbbpKVrg_E5N6cFtg/view)
+- [J Query Cheat Sheet ](https://cheatography.com/i3quest/cheat-sheets/jquery/)
+- [Kotlin Cheat Sheet ](https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet)
+
 
 ## Meetups and Events
 
