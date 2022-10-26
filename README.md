@@ -74,6 +74,7 @@
 - [Quotes-gasy](https://github.com/rasolofonirina/quotes-gasy)
 - [Quotes Generator](https://github.com/seths10/Quotes-Generator)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
+- [Resource Finder](https://github.com/Bauddhik-Geeks/Resource-Finder)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [ShopCube](https://github.com/shopyo/ShopCube)
 - [StudentHelp](https://github.com/souvikrajsingh/StudentHelp)
@@ -85,6 +86,7 @@
 - [Url Shortener](https://github.com/origranot/url-shortener)
 - [useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
+
 
 ## Repositories Coding for Beginners
 
