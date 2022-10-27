@@ -81,12 +81,9 @@
 - [StudentHelp](https://github.com/souvikrajsingh/StudentHelp)
 - [Student-Portfolio-Hactoberfest-2022](https://github.com/Google-Developer-Students-Club-DMCE/Student-Portfolio-Hactoberfest-2022)
 - [tldr-pages](https://github.com/tldr-pages/tldr)
-- [UFRPE Devs - Comunidade](https://github.com/ufrpe-devs/comunidade)
 - [UI-Component-Library](https://github.com/Web3-Bharat-ITER/UI-Component-Library)
 - [UnionML](https://github.com/unionai-oss/unionml)
 - [Url Shortener](https://github.com/origranot/url-shortener)
-- [useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools)
-- [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 
 
 ## Repositories Coding for Beginners
