@@ -129,6 +129,9 @@
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)
 - [Ultimate-Web-Development resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources)
 - [Url Shortener](https://github.com/origranot/url-shortener)
+- [Reactplay](https://github.com/reactplay/react-play)
+- [Reactplay hactoberfest](https://github.com/reactplay/hacktoberfest)
+- [Tryshape](https://github.com/TryShape/tryshape/issues)
 
 ## Repositories for intermediate/Advanced Coders
 
