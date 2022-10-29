@@ -262,6 +262,7 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 - [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
 - [Hacktoberfest-beginner-coding-2022](https://github.com/abhijitmondal121/Hacktoberfest-beginner-coding-2022)
 - [hacktoberfest2022](https://github.com/king04aman/hacktoberfest2022)
+- [Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022)
 
 
 ## License
