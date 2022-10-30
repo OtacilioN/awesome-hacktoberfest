@@ -10,16 +10,22 @@
 
 ## Contents
 
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
-- [Repositories Coding for Beginners](#repositories-coding-for-beginners)
-- [Guides and Resources](#guides-and-resources)
-- [Cli Tools](#cli-tools)
-- [Cheat sheets](#cheat-sheets)
-- [Meetups and Events](#meetups-and-events)
+- [Awesome Hacktoberfest 2022 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hacktoberfest-2022-)
+  - [Contents](#contents)
+  - [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
+  - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+  - [Repositories for intermediate/Advanced Coders](#repositories-for-intermediateadvanced-coders)
+  - [Guides and Resources](#guides-and-resources)
+  - [CLI Tools](#cli-tools)
+  - [Cheat sheets](#cheat-sheets)
+  - [Meetups and Events](#meetups-and-events)
+  - [Excluded Repositories From Hacktoberfest 2022](#excluded-repositories-from-hacktoberfest-2022)
+  - [License](#license)
 
 ## Repositories Supporting First-Timers
 
 - [Amplication](https://github.com/amplication/amplication)
+- [AddYourContribution](https://github.com/Diptomoy/AddYourContribution.git)
 - [Animepedia](https://github.com/DecodersCommunity/animepedia)
 - [Anki IPA](https://github.com/m-rtin/anki-ipa)
 - [Annoying Submit Button](https://github.com/fineanmol/Annoying-submit-button)
