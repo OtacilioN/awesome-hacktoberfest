@@ -24,8 +24,8 @@
 
 ## Repositories Supporting First-Timers
 
-- [Amplication](https://github.com/amplication/amplication)
 - [AddYourContribution](https://github.com/Diptomoy/AddYourContribution.git)
+- [Amplication](https://github.com/amplication/amplication)
 - [Animepedia](https://github.com/DecodersCommunity/animepedia)
 - [Anki IPA](https://github.com/m-rtin/anki-ipa)
 - [Annoying Submit Button](https://github.com/fineanmol/Annoying-submit-button)
