@@ -166,6 +166,7 @@
 - [Material-UI](https://github.com/mui/material-ui)
 - [Matlab-Library](https://github.com/ERC-IIITH/MATLAB-Library)
 - [Nest by NestJS](https://github.com/nestjs/nest)
+- [nodejs.dev by Node.js](https://github.com/nodejs/nodejs.dev)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [react-figma](https://github.com/react-figma/react-figma)
 - [Rick And Morty App](https://github.com/PGautam27/Morty_app)
