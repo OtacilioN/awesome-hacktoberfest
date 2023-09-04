@@ -6,7 +6,7 @@
 
 > :warning: Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
 
-![Logo](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
+![Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
 
 ## Contents
 
