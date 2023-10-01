@@ -19,6 +19,8 @@
 
 ## Repositories Supporting First-Timers
 
+- [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
+
 ## Repositories Coding for Beginners
 
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
