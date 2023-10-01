@@ -22,6 +22,7 @@
 ## Repositories Coding for Beginners
 
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
+- [Scrimba](https://scrimba.com)
 
 
 ## Repositories for intermediate/Advanced Coders
@@ -60,6 +61,7 @@
 
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
 - [Bug Bounty Cheat Sheet](https://kathan19.gitbook.io/howtohunt/)
+- [Cheatography - Find any CheatSheet](https://cheatography.com/)
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -78,7 +80,6 @@
 - [Kotlin Cheat Sheet ](https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet)
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
 - [Machine Learinig Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
-
 
 
 ## Meetups and Events
