@@ -82,7 +82,7 @@
 - [J Query Cheat Sheet ](https://cheatography.com/i3quest/cheat-sheets/jquery/)
 - [Kotlin Cheat Sheet ](https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet)
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
-- [Machine Learinig Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
+- [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
 
 
 ## Meetups and Events
