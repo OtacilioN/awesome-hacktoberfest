@@ -27,6 +27,8 @@
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Scrimba](https://scrimba.com)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23.git)
+- [C++](https://github.com/Ananyasingh2002/Hacktoberfest2023.git)
+
 
 
 ## Repositories for intermediate/Advanced Coders
