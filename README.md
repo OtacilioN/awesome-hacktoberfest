@@ -62,6 +62,7 @@
 - [Complete DBMS Guide, From Zero to Hero](https://github.com/donnemartin/system-design-primer)
 
 ## CLI Tools
+- [jq](https://jqlang.github.io/jq/)
 
 ## Cheat sheets
 
