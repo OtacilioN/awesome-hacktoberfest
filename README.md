@@ -96,6 +96,7 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 - [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
+- [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
 
 
 ## License
