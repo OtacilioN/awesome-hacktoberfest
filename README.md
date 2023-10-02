@@ -92,6 +92,7 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 ## Excluded Repositories From Hacktoberfest 2023
 
 - [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+- [app-ideas](https://github.com/florinpop17/app-ideas)
 
 
 ## License
