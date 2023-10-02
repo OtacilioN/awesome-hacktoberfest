@@ -20,6 +20,7 @@
 ## Repositories Supporting First-Timers
 
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
+- [Library](https://github.com/EbookFoundation/free-programming-books.git)
 
 ## Repositories Coding for Beginners
 
