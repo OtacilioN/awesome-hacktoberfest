@@ -32,6 +32,7 @@
 
 
 ## Repositories for intermediate/Advanced Coders
+- [ALDA](https://github.com/alda-lang/alda)
 
 ## Guides and Resources
 
