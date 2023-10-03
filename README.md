@@ -32,6 +32,7 @@
 
 
 ## Repositories for intermediate/Advanced Coders
+- [Ansible](https://github.com/ansible/ansible)
 
 ## Guides and Resources
 
