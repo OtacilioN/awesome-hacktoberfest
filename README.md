@@ -32,6 +32,7 @@
 
 
 ## Repositories for intermediate/Advanced Coders
+- [Aliucord](https://github.com/Aliucord/Aliucord)
 
 ## Guides and Resources
 
