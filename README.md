@@ -32,6 +32,7 @@
 
 
 ## Repositories for intermediate/Advanced Coders
+- [AdonisJS](https://github.com/adonisjs/core)
 
 ## Guides and Resources
 
