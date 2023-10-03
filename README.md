@@ -1,10 +1,10 @@
 # Awesome Hacktoberfest 2023 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> We present a curated list of awesome Hacktoberfest 2023 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
+> We present a curated list of awesome Hacktoberfest 2023 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
 
 > Will you choose the ✨ Hacktoberfest t-shirt ✨ but don't want to stop contributing to the environment and a sustainable future? [Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) so you can plant a tree! 🌱
 
-> :warning: Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
+> ⚠️ Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
 
 ![Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
 
