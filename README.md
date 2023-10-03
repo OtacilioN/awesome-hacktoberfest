@@ -60,6 +60,7 @@
 - [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - [Complete Node.js Handbook](https://drive.google.com/file/d/1qJNsYowJ70N47lNH3nCujO3xUH-vsQ69/view?usp=sharing)
 - [Complete DBMS Guide, From Zero to Hero](https://github.com/donnemartin/system-design-primer)
+- [Hacktoberfest 2023 ZTM projects](https://github.com/zero-to-mastery/Hacktoberfest-2023)
 
 ## CLI Tools
 
