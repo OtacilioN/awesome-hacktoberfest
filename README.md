@@ -33,6 +33,8 @@
 
 ## Repositories for intermediate/Advanced Coders
 
+- [Catima](https://github.com/CatimaLoyalty/Android)
+
 ## Guides and Resources
 
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
