@@ -1,10 +1,10 @@
 # Awesome Hacktoberfest 2023 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> We present a curated list of awesome Hacktoberfest 2023 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
+> We present a curated list of awesome Hacktoberfest 2023 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
 
 > Will you choose the ✨ Hacktoberfest t-shirt ✨ but don't want to stop contributing to the environment and a sustainable future? [Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) so you can plant a tree! 🌱
 
-> :warning: Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
+> ⚠️ Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
 
 ![Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
 
@@ -20,19 +20,21 @@
 ## Repositories Supporting First-Timers
 
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
-- [Library](https://github.com/EbookFoundation/free-programming-books.git)
+- [Library](https://github.com/EbookFoundation/free-programming-books)
 
 ## Repositories Coding for Beginners
 
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Scrimba](https://scrimba.com)
-- [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23.git)
-- [C++](https://github.com/Ananyasingh2002/Hacktoberfest2023.git)
+- [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
+- [C++](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 
 
 
 ## Repositories for intermediate/Advanced Coders
+- [AdonisJS](https://github.com/adonisjs/core)
 - [ALVR](https://github.com/alvr-org/ALVR)
+- [Catima](https://github.com/CatimaLoyalty/Android)
 
 ## Guides and Resources
 
