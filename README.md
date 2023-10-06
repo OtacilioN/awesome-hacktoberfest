@@ -33,6 +33,8 @@
 
 ## Repositories for intermediate/Advanced Coders
 - [AdonisJS](https://github.com/adonisjs/core)
+- [ALDA](https://github.com/alda-lang/alda)
+- [ALVR](https://github.com/alvr-org/ALVR)
 - [Aliucord](https://github.com/Aliucord/Aliucord)
 - [Catima](https://github.com/CatimaLoyalty/Android)
 
@@ -80,6 +82,7 @@
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+- [GoLang Cheat Sheet](https://devhints.io/go)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
@@ -102,6 +105,7 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 - [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
 - [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
+- [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
 
 
 ## License
