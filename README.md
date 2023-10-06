@@ -34,6 +34,7 @@
 ## Repositories for intermediate/Advanced Coders
 - [AdonisJS](https://github.com/adonisjs/core)
 - [ALDA](https://github.com/alda-lang/alda)
+- [ALVR](https://github.com/alvr-org/ALVR)
 - [Catima](https://github.com/CatimaLoyalty/Android)
 
 ## Guides and Resources
