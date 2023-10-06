@@ -1,0 +1,55 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+class Graph {
+public:
+    Graph(int vertices);
+    void addEdge(int v, int w);
+    void printGraph();
+
+private:
+    int numVertices;
+    vector<vector<int>> adjacencyList;
+};
+
+Graph::Graph(int vertices) {
+    numVertices = vertices;
+    adjacencyList.resize(vertices);
+}
+
+void Graph::addEdge(int v, int w) {
+    // Add edge between vertices v and w
+    adjacencyList[v].push_back(w);
+    adjacencyList[w].push_back(v); // For undirected graph
+}
+
+void Graph::printGraph() {
+    for (int v = 0; v < numVertices; ++v) {
+        cout << "Adjacency list of vertex " << v << ": ";
+        for (const auto &neighbor : adjacencyList[v]) {
+            cout << neighbor << " ";
+        }
+        cout << endl;
+    }
+}
+
+int main() {
+    // Create a graph with 5 vertices
+    Graph graph(5);
+
+    // Add edges to the graph
+    graph.addEdge(0, 1);
+    graph.addEdge(0, 4);
+    graph.addEdge(1, 2);
+    graph.addEdge(1, 3);
+    graph.addEdge(1, 4);
+    graph.addEdge(2, 3);
+    graph.addEdge(3, 4);
+
+    // Print the adjacency list of the graph
+    graph.printGraph();
+
+    return 0;
+}
