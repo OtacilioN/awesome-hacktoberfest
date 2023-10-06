@@ -21,7 +21,8 @@
 
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
 - [Library](https://github.com/EbookFoundation/free-programming-books)
-
+- [Begin Hactoberfest](https://github.com/ossamamehmood/Hacktoberfest2023)
+  
 ## Repositories Coding for Beginners
 
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
