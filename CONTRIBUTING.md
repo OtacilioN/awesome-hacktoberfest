@@ -9,16 +9,33 @@ Add them to this list so others can find them too and start contributing. Howeve
 > NOTE: Check out `issues` labelled as `Hacktoberfest` and start contributing!
 > NOTE: Check if the repository is participating in hacktoberfest by being labeled with `hacktoberfest` label
 
-## Submitting a pull request
+## INSTRUCTIONS-
 
-1. [Fork](https://github.com/OtacilioN/awesome-hacktoberfest-2018/fork) and clone the repository.
-2. Create a new branch: `git checkout -b my-branch-name`.
-3. Find a repository that contains the `hacktoberfest` label or a guide/resource related to hacktoberfest
-4. Add your item in alphabetical order in a section or create a new section, if you are not sure about the appropriate section you can open an `issue` to discuss with the community.
-5. Push to your fork and [submit a pull request](https://github.com/OtacilioN/awesome-hacktoberfest-2018/compare).
+- [Fork](https://github.com/OtacilioN/awesome-hacktoberfest-2018/fork) this Repository using the button at the top on right corner.
+- Clone your forked repository to your pc ( git clone "url from clone option.)
+- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` or simply do `git checkout -b new-user`)
+- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
+- Create a pull request
+- Star this repository
+
 > Tips: Make sure that you are submitting and committing things that are of quality substance, otherwise maintainers can invalidate your pull request
 > There are a lot of good websites that you can research before opening a request instead of just writing "cool" or "Hello World"
-6. Pat yourself on the back and wait for your `pull request` to be reviewed and merged.
+
+##  Wait for Pull Request to merge
+
+##  Celebrate - you've done your first pull request!!
+
+```py
+'''
+Always make more then 4 pull requests.
+Lets say you have made only 4 pull request to different projects,
+but one project is excluded from hackoctoberfest event then your pull request will not be counted and 
+then you have remaining 3 valid pull requests if these projects is not excluded.
+If you fail to make 4 pull requests then you can't get digital-swags.
+I will recommend you to make pull request to your own repo which is very very safest side for you..
+keep in mind that repo has hacktoberfest topic..
+'''
+```
 
 ## Do not send spam
 
