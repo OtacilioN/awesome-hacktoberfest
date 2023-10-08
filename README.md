@@ -40,6 +40,7 @@
 - [Catima](https://github.com/CatimaLoyalty/Android)
 - [Figma Plugin Resources](https://github.com/figma/plugin-resources)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
+- [Wasp](https://github.com/wasp-lang/wasp)
 
 ## Guides and Resources
 
