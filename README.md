@@ -106,11 +106,13 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 - [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 - [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
+- [HacktoberFest2023(Harshjot)](https://github.com/Harsh-jot/HacktoberFest-2023)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
 - [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
 - [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
 - [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
+- [
 
 ## License
 
