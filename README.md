@@ -35,6 +35,7 @@
 - [AdonisJS](https://github.com/adonisjs/core)
 - [ALDA](https://github.com/alda-lang/alda)
 - [ALVR](https://github.com/alvr-org/ALVR)
+- [Aliucord](https://github.com/Aliucord/Aliucord)
 - [Catima](https://github.com/CatimaLoyalty/Android)
 
 ## Guides and Resources
