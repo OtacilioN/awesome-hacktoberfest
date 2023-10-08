@@ -37,6 +37,7 @@
 - [ALVR](https://github.com/alvr-org/ALVR)
 - [Aliucord](https://github.com/Aliucord/Aliucord)
 - [Catima](https://github.com/CatimaLoyalty/Android)
+- [Tooljet](https://github.com/ToolJet/ToolJet)
 
 ## Guides and Resources
 
@@ -106,7 +107,8 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
 - [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
 - [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
-
+- [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
+- [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
 
 ## License
 
