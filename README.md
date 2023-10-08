@@ -28,7 +28,7 @@
 - [Scrimba](https://scrimba.com)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 - [C++](https://github.com/Ananyasingh2002/Hacktoberfest2023)
-
+- [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 
 
 ## Repositories for intermediate/Advanced Coders
