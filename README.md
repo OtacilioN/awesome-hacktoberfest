@@ -28,14 +28,17 @@
 - [Scrimba](https://scrimba.com)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 - [C++](https://github.com/Ananyasingh2002/Hacktoberfest2023)
-
+- [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
+- [The Algorithms](https://the-algorithms.com/)
 
 
 ## Repositories for intermediate/Advanced Coders
 - [AdonisJS](https://github.com/adonisjs/core)
 - [ALDA](https://github.com/alda-lang/alda)
 - [ALVR](https://github.com/alvr-org/ALVR)
+- [Aliucord](https://github.com/Aliucord/Aliucord)
 - [Catima](https://github.com/CatimaLoyalty/Android)
+- [Figma Plugin Resources](https://github.com/figma/plugin-resources)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Hanko](https://github.com/teamhanko/hanko)
 - [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev)
