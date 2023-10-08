@@ -36,6 +36,7 @@
 - [ALDA](https://github.com/alda-lang/alda)
 - [ALVR](https://github.com/alvr-org/ALVR)
 - [Catima](https://github.com/CatimaLoyalty/Android)
+- [Figma Plugin Resources](https://github.com/figma/plugin-resources)
 
 ## Guides and Resources
 
