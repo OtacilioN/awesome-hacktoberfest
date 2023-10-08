@@ -30,6 +30,7 @@
 - [C++](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [The Algorithms](https://the-algorithms.com/)
+- [JavaScript30](https://github.com/wesbos/JavaScript30)
 
 
 ## Repositories for intermediate/Advanced Coders
