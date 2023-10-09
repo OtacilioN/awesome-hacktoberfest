@@ -26,12 +26,12 @@
 ## Repositories Coding for Beginners
 
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
-- [Scrimba](https://scrimba.com)
-- [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
-- [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
-- [The Algorithms](https://the-algorithms.com/)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
+- [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
+- [Scrimba](https://scrimba.com)
+- [The Algorithms](https://the-algorithms.com/)
+- [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 
 
 ## Repositories for intermediate/Advanced Coders
@@ -51,19 +51,20 @@
 
 ## Excluded Repositories From Hacktoberfest 2023
 
+- [app-ideas](https://github.com/florinpop17/app-ideas)
+- [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
 - [First contributions](https://github.com/firstcontributions/first-contributions)
+- [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge)
+- [Hacktoberfest2023(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest2023)
 - [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 - [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [HacktoberFest2023(Harshjot)](https://github.com/Harsh-jot/HacktoberFest-2023)
-- [app-ideas](https://github.com/florinpop17/app-ideas)
 - [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
-- [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
 - [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
 - [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
-- [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge)
-- [Hacktoberfest2023(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest2023)
+
 
 ## Guides and Resources
 
@@ -71,29 +72,28 @@
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
 - [awesome-datascience](https://github.com/academic/awesome-datascience)
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
+- [Complete DBMS Guide, From Zero to Hero](https://github.com/donnemartin/system-design-primer)
 - [Complete Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE)
+- [Complete Node.js Handbook](https://drive.google.com/file/d/1qJNsYowJ70N47lNH3nCujO3xUH-vsQ69/view?usp=sharing)
 - [complete-web-developer-manual](https://github.com/zero-to-mastery/complete-web-developer-manual)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit)
 - [Github Pages](https://pages.github.com/)
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
-- [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
+- [Git Tutorial in Bahasa Indonesia 2](https://github.com/petanikode/belajar-git)
+- [Hacktoberfest 2023 ZTM projects](https://github.com/zero-to-mastery/Hacktoberfest-2023)
 - [Hacktoberfest Profile](https://hacktoberfest.com/profile/)
-- [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
 - [Hacktoberfest Swag – New List of Companies Giving Out Swag For Hacktoberfest](https://hacktoberfest-swag.com/)
+- [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
+- [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [How to Contribute to Hacktoberfest 2022](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest)
 - [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
-- [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
-- [Git Tutorial in Bahasa Indonesia 2](https://github.com/petanikode/belajar-git)
 - [MIT - The Missing Semester](https://missing.csail.mit.edu/)
 - [Open Source Guide](https://opensource.guide/)
+- [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 - [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-- [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions)
-- [Complete Node.js Handbook](https://drive.google.com/file/d/1qJNsYowJ70N47lNH3nCujO3xUH-vsQ69/view?usp=sharing)
-- [Complete DBMS Guide, From Zero to Hero](https://github.com/donnemartin/system-design-primer)
-- [Hacktoberfest 2023 ZTM projects](https://github.com/zero-to-mastery/Hacktoberfest-2023)
-- [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit)
 
 ## CLI Tools
 
