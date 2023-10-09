@@ -12,6 +12,7 @@
 
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+- [Excluded Repositories From Hacktoberfest 2023](#excluded-repositories-from-hacktoberfest-2023)
 - [Guides and Resources](#guides-and-resources)
 - [Cli Tools](#cli-tools)
 - [Cheat sheets](#cheat-sheets)
@@ -48,9 +49,21 @@
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
 
+## Excluded Repositories From Hacktoberfest 2023
 
-
-
+- [First contributions](https://github.com/firstcontributions/first-contributions)
+- [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+- [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
+- [HacktoberFest2023(Harshjot)](https://github.com/Harsh-jot/HacktoberFest-2023)
+- [app-ideas](https://github.com/florinpop17/app-ideas)
+- [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
+- [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
+- [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
+- [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
+- [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
+- [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
+- [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge)
+- [Hacktoberfest2023(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest2023)
 
 ## Guides and Resources
 
@@ -116,22 +129,6 @@
 ## Meetups and Events
 
 See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
-
-## Excluded Repositories From Hacktoberfest 2023
-
-- [First contributions](https://github.com/firstcontributions/first-contributions)
-- [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-- [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
-- [HacktoberFest2023(Harshjot)](https://github.com/Harsh-jot/HacktoberFest-2023)
-- [app-ideas](https://github.com/florinpop17/app-ideas)
-- [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
-- [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
-- [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
-- [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
-- [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
-- [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
-- [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge)
-- [Hacktoberfest2023(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest2023)
 
 ## License
 
