@@ -42,6 +42,7 @@
 - [Figma Plugin Resources](https://github.com/figma/plugin-resources)
 - [Hanko](https://github.com/teamhanko/hanko)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
+- [Wasp](https://github.com/wasp-lang/wasp)
 
 
 
