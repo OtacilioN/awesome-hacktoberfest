@@ -45,7 +45,7 @@
 - [Novu](https://github.com/novuhq/novu)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
-
+-[Configu](https://github.com/configu/configu)
 
 
 
