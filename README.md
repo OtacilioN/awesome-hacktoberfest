@@ -29,6 +29,7 @@
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [The Algorithms](https://the-algorithms.com/)
+- [JavaScript30](https://github.com/wesbos/JavaScript30)
 
 
 ## Repositories for intermediate/Advanced Coders
