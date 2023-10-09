@@ -119,6 +119,7 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ## Excluded Repositories From Hacktoberfest 2023
 
+- [First contributions](https://github.com/firstcontributions/first-contributions)
 - [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 - [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [HacktoberFest2023(Harshjot)](https://github.com/Harsh-jot/HacktoberFest-2023)
