@@ -25,6 +25,7 @@
 
 ## Repositories Coding for Beginners
 
+- [Btecky](https://github.com/laviii123/Btecky)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
