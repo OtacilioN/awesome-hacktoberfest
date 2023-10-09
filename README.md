@@ -40,12 +40,13 @@
 - [Ansible](https://github.com/ansible/ansible)
 - [Catima](https://github.com/CatimaLoyalty/Android)
 - [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev)
+- [Configu](https://github.com/configu/configu)
 - [Figma Plugin Resources](https://github.com/figma/plugin-resources)
 - [Hanko](https://github.com/teamhanko/hanko)
 - [Novu](https://github.com/novuhq/novu)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
--[Configu](https://github.com/configu/configu)
+
 
 
 
