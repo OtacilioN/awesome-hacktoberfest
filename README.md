@@ -48,6 +48,7 @@
 - [Novu](https://github.com/novuhq/novu)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
+- [Formbricks](https://github.com/formbricks/formbricks)
 
 ## Excluded Repositories From Hacktoberfest 2023
 
