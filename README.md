@@ -30,6 +30,7 @@
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [The Algorithms](https://the-algorithms.com/)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
+- [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
 
 
 ## Repositories for intermediate/Advanced Coders
