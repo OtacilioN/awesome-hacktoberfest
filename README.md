@@ -27,9 +27,9 @@
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Scrimba](https://scrimba.com)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
-- [C++](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [The Algorithms](https://the-algorithms.com/)
+- [JavaScript30](https://github.com/wesbos/JavaScript30)
 
 
 ## Repositories for intermediate/Advanced Coders
@@ -37,10 +37,17 @@
 - [ALDA](https://github.com/alda-lang/alda)
 - [ALVR](https://github.com/alvr-org/ALVR)
 - [Aliucord](https://github.com/Aliucord/Aliucord)
+- [Ansible](https://github.com/ansible/ansible)
 - [Catima](https://github.com/CatimaLoyalty/Android)
+- [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev)
 - [Figma Plugin Resources](https://github.com/figma/plugin-resources)
+- [Hanko](https://github.com/teamhanko/hanko)
 - [Novu](https://github.com/novuhq/novu)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
+- [Wasp](https://github.com/wasp-lang/wasp)
+
+
+
 
 
 ## Guides and Resources
@@ -71,6 +78,7 @@
 - [Complete Node.js Handbook](https://drive.google.com/file/d/1qJNsYowJ70N47lNH3nCujO3xUH-vsQ69/view?usp=sharing)
 - [Complete DBMS Guide, From Zero to Hero](https://github.com/donnemartin/system-design-primer)
 - [Hacktoberfest 2023 ZTM projects](https://github.com/zero-to-mastery/Hacktoberfest-2023)
+- [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit)
 
 ## CLI Tools
 
@@ -91,6 +99,7 @@
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/)
 - [npm Cheat Sheet](https://media.jfrog.com/wp-content/uploads/2021/08/23165237/JFrog_NPM_CheatSheet_V4.pdf)
 - [Kotlin Cheat Sheet](https://kt.academy/Kotlin_Cheat_Sheet.pdf)
 - [C++ Cheat Sheet ](https://drive.google.com/file/d/1Q_I6H8qBTTIFMHEPbbpKVrg_E5N6cFtg/view)
@@ -98,6 +107,7 @@
 - [Kotlin Cheat Sheet ](https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet)
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
+- [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
 
 
 ## Meetups and Events
@@ -113,6 +123,7 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 - [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
 - [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
+- [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
 
 ## License
 
