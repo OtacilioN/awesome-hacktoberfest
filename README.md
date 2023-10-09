@@ -86,6 +86,7 @@
 
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
 - [Bug Bounty Cheat Sheet](https://kathan19.gitbook.io/howtohunt/)
+- [C-Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/)
 - [Cheatography - Find any CheatSheet](https://cheatography.com/)
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
