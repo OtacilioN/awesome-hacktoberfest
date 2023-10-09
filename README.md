@@ -32,6 +32,7 @@
 - [Scrimba](https://scrimba.com)
 - [The Algorithms](https://the-algorithms.com/)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
+- [](https://github.com/Gyanthakur/e_learning_website)
 
 
 ## Repositories for intermediate/Advanced Coders
@@ -64,7 +65,7 @@
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
 - [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
-
+- [ProjectsHut](https://github.com/priyankarpal/ProjectsHut)
 
 ## Guides and Resources
 
