@@ -39,7 +39,9 @@
 - [ALDA](https://github.com/alda-lang/alda)
 - [ALVR](https://github.com/alvr-org/ALVR)
 - [Aliucord](https://github.com/Aliucord/Aliucord)
+- [Amplication](https://github.com/amplication/amplication)
 - [Ansible](https://github.com/ansible/ansible)
+- [Appwrite](https://github.com/appwrite/appwrite)
 - [Catima](https://github.com/CatimaLoyalty/Android)
 - [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev)
 - [Configu](https://github.com/configu/configu)
@@ -48,6 +50,7 @@
 - [Novu](https://github.com/novuhq/novu)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
+
 
 ## Excluded Repositories From Hacktoberfest 2023
 
