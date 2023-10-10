@@ -32,6 +32,7 @@
 - [Scrimba](https://scrimba.com)
 - [The Algorithms](https://the-algorithms.com/)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
+- [reduced.to](https://github.com/origranot/reduced.to)
 
 
 ## Repositories for intermediate/Advanced Coders
