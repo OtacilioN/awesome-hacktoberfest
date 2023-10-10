@@ -50,6 +50,7 @@
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
 - [Formbricks](https://github.com/formbricks/formbricks)
+- [VelocityX](https://github.com/iampawan/VelocityX)
 
 ## Excluded Repositories From Hacktoberfest 2023
 
