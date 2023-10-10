@@ -33,19 +33,24 @@
 - [The Algorithms](https://the-algorithms.com/)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 
-
 ## Repositories for intermediate/Advanced Coders
+
 - [AdonisJS](https://github.com/adonisjs/core)
 - [ALDA](https://github.com/alda-lang/alda)
 - [ALVR](https://github.com/alvr-org/ALVR)
 - [Aliucord](https://github.com/Aliucord/Aliucord)
 - [Ansible](https://github.com/ansible/ansible)
+- [Appwrite](https://github.com/appwrite/appwrite)
+- [Awesome React](https://github.com/enaqx/awesome-react)
 - [Catima](https://github.com/CatimaLoyalty/Android)
 - [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev)
 - [Configu](https://github.com/configu/configu)
 - [Figma Plugin Resources](https://github.com/figma/plugin-resources)
 - [Hanko](https://github.com/teamhanko/hanko)
+- [Learn react in 30 days](https://github.com/Asabeneh/30-Days-Of-React)
+- [Linode](https://github.com/linode/)
 - [Novu](https://github.com/novuhq/novu)
+- [React In Patterns](https://github.com/krasimir/react-in-patterns)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
 
@@ -64,7 +69,6 @@
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
 - [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
-
 
 ## Guides and Resources
 
@@ -124,7 +128,6 @@
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
-
 
 ## Meetups and Events
 
