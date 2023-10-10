@@ -32,7 +32,7 @@
 - [Scrimba](https://scrimba.com)
 - [The Algorithms](https://the-algorithms.com/)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
-- [](https://github.com/Gyanthakur/e_learning_website)
+
 
 
 ## Repositories for intermediate/Advanced Coders
