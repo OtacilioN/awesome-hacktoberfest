@@ -58,6 +58,7 @@
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
 - [Complete Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE)
 - [complete-web-developer-manual](https://github.com/zero-to-mastery/complete-web-developer-manual)
+- [CP-Algorithms for Competitive programming](https://cp-algorithms.com/)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Github Pages](https://pages.github.com/)
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
