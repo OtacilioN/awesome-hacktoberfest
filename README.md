@@ -21,6 +21,7 @@
 ## Repositories Supporting First-Timers
 
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
+- [Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [Library](https://github.com/EbookFoundation/free-programming-books)
 
 ## Repositories Coding for Beginners
