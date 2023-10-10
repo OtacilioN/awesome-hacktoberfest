@@ -46,9 +46,9 @@
 - [Figma Plugin Resources](https://github.com/figma/plugin-resources)
 - [Hanko](https://github.com/teamhanko/hanko)
 - [Novu](https://github.com/novuhq/novu)
+- [PetMe](https://github.com/akshitagupta15june/PetMe)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
-- [PetMe](https://github.com/akshitagupta15june/PetMe)
 
 ## Excluded Repositories From Hacktoberfest 2023
 
