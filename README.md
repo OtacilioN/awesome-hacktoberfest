@@ -48,6 +48,7 @@
 - [Novu](https://github.com/novuhq/novu)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
+- [PetMe](https://github.com/akshitagupta15june/PetMe)
 
 ## Excluded Repositories From Hacktoberfest 2023
 
