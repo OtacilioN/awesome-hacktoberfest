@@ -33,6 +33,7 @@
 - [The Algorithms](https://the-algorithms.com/)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 - [reduced.to](https://github.com/origranot/reduced.to)
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 
 
 ## Repositories for intermediate/Advanced Coders
