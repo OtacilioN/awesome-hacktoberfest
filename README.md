@@ -58,6 +58,7 @@
 - [First contributions](https://github.com/firstcontributions/first-contributions)
 - [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge)
 - [Hacktoberfest2023(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest2023)
+- [hacktoberfest(fineanmol)](https://github.com/fineanmol/hacktoberfest)
 - [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 - [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [HacktoberFest2023(Harshjot)](https://github.com/Harsh-jot/HacktoberFest-2023)
