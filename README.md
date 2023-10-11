@@ -22,6 +22,7 @@
 
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
 - [Library](https://github.com/EbookFoundation/free-programming-books)
+- [Open-Source Practice](https://github.com/EddieHubCommunity/open-source-practice)
 
 ## Repositories Coding for Beginners
 
