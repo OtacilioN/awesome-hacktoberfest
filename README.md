@@ -33,6 +33,7 @@
 - [The Algorithms](https://the-algorithms.com/)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 - [reduced.to](https://github.com/origranot/reduced.to)
+- [How Web Works](https://github.com/vasanthk/how-web-works)
 
 
 ## Repositories for intermediate/Advanced Coders
@@ -98,6 +99,7 @@
 - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 - [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 - [JavaScript Challenger Interview Handbook](https://jscodechallenges.vercel.app/)
+- [FrontEnd interview handbook](https://github.com/yangshun/front-end-interview-handbook)
 
 ## CLI Tools
 
