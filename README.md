@@ -108,6 +108,7 @@
 - [C-Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/)
 - [Cheatography - Find any CheatSheet](https://cheatography.com/)
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
+- [Data Science Cheat Sheet](https://ai.plainenglish.io/master-data-science-with-this-comprehensive-cheat-sheet-numpy-pandas-python-r-ml-dl-nlp-188d50a54952)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
@@ -128,7 +129,6 @@
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
--  [DATA SCIENCE Cheat Sheet](https://ai.plainenglish.io/master-data-science-with-this-comprehensive-cheat-sheet-numpy-pandas-python-r-ml-dl-nlp-188d50a54952)
 
 
 ## Meetups and Events
