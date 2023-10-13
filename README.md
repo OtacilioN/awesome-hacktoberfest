@@ -101,6 +101,8 @@
 
 ## CLI Tools
 
+- [Collection of Basic CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
+
 ## Cheat sheets
 
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
