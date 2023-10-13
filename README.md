@@ -128,6 +128,7 @@
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
+-  [DATA SCIENCE Cheat Sheet](https://ai.plainenglish.io/master-data-science-with-this-comprehensive-cheat-sheet-numpy-pandas-python-r-ml-dl-nlp-188d50a54952)
 
 
 ## Meetups and Events
