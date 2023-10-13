@@ -27,12 +27,13 @@
 
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
-- [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
+- [Javascript mini projects](https://github.com/thinkswell/javascript-mini-projects)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
+- [Reduced.to](https://github.com/origranot/reduced.to)
 - [Scrimba](https://scrimba.com)
 - [The Algorithms](https://the-algorithms.com/)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
-- [reduced.to](https://github.com/origranot/reduced.to)
+
 
 
 ## Repositories for intermediate/Advanced Coders
@@ -45,11 +46,12 @@
 - [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev)
 - [Configu](https://github.com/configu/configu)
 - [Figma Plugin Resources](https://github.com/figma/plugin-resources)
+- [Formbricks](https://github.com/formbricks/formbricks)
 - [Hanko](https://github.com/teamhanko/hanko)
 - [Novu](https://github.com/novuhq/novu)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
-- [Formbricks](https://github.com/formbricks/formbricks)
+
 
 ## Excluded Repositories From Hacktoberfest 2023
 
@@ -91,7 +93,7 @@
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [How to Contribute to Hacktoberfest 2022](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest)
-- [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
+- [Indonesian NLP Resources](https://github.com/kirralabs/indonesian-NLP-resources)
 - [MIT - The Missing Semester](https://missing.csail.mit.edu/)
 - [Open Source Guide](https://opensource.guide/)
 - [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions)
@@ -105,29 +107,30 @@
 
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
 - [Bug Bounty Cheat Sheet](https://kathan19.gitbook.io/howtohunt/)
+- [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
+- [C++ Cheat Sheet ](https://drive.google.com/file/d/1Q_I6H8qBTTIFMHEPbbpKVrg_E5N6cFtg/view)
 - [C-Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/)
 - [Cheatography - Find any CheatSheet](https://cheatography.com/)
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
+- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
-- [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [GoLang Cheat Sheet](https://devhints.io/go)
+- [HTML Cheat Sheet](https://htmlcheatsheet.com/)
+- [J Query Cheat Sheet ](https://cheatography.com/i3quest/cheat-sheets/jquery/)
 - [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
+- [Kotlin Cheat Sheet](https://kt.academy/Kotlin_Cheat_Sheet.pdf)
+- [Kotlin Cheat Sheet ](https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet)
+- [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+- [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
+- [NPM Cheat Sheet](https://media.jfrog.com/wp-content/uploads/2021/08/23165237/JFrog_NPM_CheatSheet_V4.pdf)
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
-- [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
-- [GoLang Cheat Sheet](https://devhints.io/go)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
-- [HTML Cheat Sheet](https://htmlcheatsheet.com/)
-- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
-- [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/)
-- [npm Cheat Sheet](https://media.jfrog.com/wp-content/uploads/2021/08/23165237/JFrog_NPM_CheatSheet_V4.pdf)
-- [Kotlin Cheat Sheet](https://kt.academy/Kotlin_Cheat_Sheet.pdf)
-- [C++ Cheat Sheet ](https://drive.google.com/file/d/1Q_I6H8qBTTIFMHEPbbpKVrg_E5N6cFtg/view)
-- [J Query Cheat Sheet ](https://cheatography.com/i3quest/cheat-sheets/jquery/)
-- [Kotlin Cheat Sheet ](https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet)
-- [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
-- [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
+- [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/)
+
 
 
 ## Meetups and Events
