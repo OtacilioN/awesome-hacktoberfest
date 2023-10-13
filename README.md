@@ -26,6 +26,7 @@
 ## Repositories Coding for Beginners
 
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
+- [Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [Javascript mini projects](https://github.com/thinkswell/javascript-mini-projects)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
