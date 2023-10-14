@@ -98,6 +98,7 @@
 - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 - [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 - [JavaScript Challenger Interview Handbook](https://jscodechallenges.vercel.app/)
+- [HandsOn tutorial for PostgreSQL](https://www.youtube.com/watch?v=SpfIwlAYaKk&pp=ygUcZnJlZWNvZGVjYW1wIHdlYiBkZXZlbG9wbWVudA%3D%3D)
 
 ## CLI Tools
 
