@@ -84,6 +84,7 @@
 - [Github Pages](https://pages.github.com/)
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Git Tutorial in Bahasa Indonesia 2](https://github.com/petanikode/belajar-git)
+- [Good First Issues](https://goodfirstissues.com/)
 - [Hacktoberfest 2023 ZTM projects](https://github.com/zero-to-mastery/Hacktoberfest-2023)
 - [Hacktoberfest Profile](https://hacktoberfest.com/profile/)
 - [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
