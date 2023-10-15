@@ -1,0 +1,19 @@
+Project title
+Analog+Digital clock in one frame
+
+Project Description
+
+The idea behind this project
+The idea behind this project is just a by taking inspiration from the home hanging clock and big digital screen clock at the railway station.
+
+How does it work
+Firstly this clock functionality is totally based on javascript functionality so the js code will fetch the machine date and timing then it will parse hr, min, sec from this date and implement some different -different logic for analog and digital clocks.
+
+Stack:
+
+ Html
+ CSS
+ JavaScript
+ 
+ 
+ Screenshots

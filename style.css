@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background: #b6ccfe; */
+    background: #f72585;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    height: 280px;
+    width: 280px;
+    background: #ffcfd2;
+    /* background: #dde1e7; */
+    border-radius: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: -3px -3px 7px #ffffff73,
+        3px 3px 5px rgba(94, 104, 121, 0.288);
+    border-radius: 100%;
+
+}
+
+.container::before {
+    content: "";
+    height: 250px;
+    width: 250px;
+    background: #dde1e7;
+    border-radius: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: inset -3px -3px 7px #ffffff73,
+        inset 3px 3px 5px rgba(94, 104, 121, 0.288);
+    border-radius: 100%;
+}
+
+.centernut{
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid #dde1e7;
+    z-index: 5;
+}
+
+.indicator div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    height: 5px;
+    width: 2px;
+    background: #404040;
+    border-radius: 10px;
+}
+
+.indicator div:nth-child(1) {
+    transform: rotate(30deg) translateY(-113px);
+}
+
+.indicator div:nth-child(2) {
+    transform: rotate(60deg) translateY(-113px)
+}
+
+.indicator div:nth-child(3) {
+    transform: rotate(90deg) translateY(-113px);
+    background: red;
+}
+
+.indicator div:nth-child(4) {
+    transform: rotate(120deg) translateY(-113px);
+}
+
+.indicator div:nth-child(5) {
+    transform: rotate(150deg) translateY(-113px);
+}
+
+.indicator div:nth-child(6) {
+    transform: rotate(180deg) translateY(-113px);
+    background: red;
+}
+
+.indicator div:nth-child(7) {
+    transform: rotate(210deg) translateY(-113px);
+}
+
+.indicator div:nth-child(8) {
+    transform: rotate(240deg) translateY(-113px);
+}
+
+.indicator div:nth-child(9) {
+    transform: rotate(270deg) translateY(-113px);
+    background: red;
+}
+
+.indicator div:nth-child(10) {
+    transform: rotate(300deg) translateY(-113px);
+}
+
+.indicator div:nth-child(11) {
+    transform: rotate(330deg) translateY(-113px);
+}
+
+.indicator div:nth-child(12) {
+    transform: rotate(360deg) translateY(-113px);
+    background: red;
+}
+
+.sec_hand,
+.min_hand,
+.hour_hand {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.sec_hand {
+    z-index: 3;
+}
+
+.min_hand {
+    z-index: 2;
+}
+
+.hour_hand {
+    z-index: 1;
+}
+
+.sec_hand::before,
+.min_hand::before,
+.hour_hand::before {
+    content: "";
+    display: block;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    width: 2px;
+    height: 120px;
+    background: red;
+    transform: translate(-50%, -100%);
+    border-radius: 10px;
+}
+
+.sec_hand::before {
+    width: 2px;
+    height: 120px;
+    background: red;
+}
+
+.sec_hand::after {
+    width: 2px;
+    height: 120px;
+    background: red;
+    transform: translate(-50%, 0);
+}
+
+.min_hand::before {
+    width: 2px;
+    height: 100px;
+    background: black;
+}
+
+.hour_hand::before {
+    width: 4px;
+    height: 70px;
+    background: black;
+}
+
+.time-display {
+    height: 18px;
+    width: 64px;
+    background: #dde1e7;
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    font-size: 10px;
+    white-space: nowrap;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset -3px -3px 7px #ffffff73,
+        inset 3px 3px 5px rgba(94, 104, 121, 0.288);
+}
