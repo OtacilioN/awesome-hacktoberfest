@@ -25,7 +25,7 @@
 - [Library](https://github.com/EbookFoundation/free-programming-books)
 
 ## Repositories Coding for Beginners
-
+- [Basic Python projects](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
