@@ -81,6 +81,7 @@
 - [Complete Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE)
 - [Complete Node.js Handbook](https://drive.google.com/file/d/1qJNsYowJ70N47lNH3nCujO3xUH-vsQ69/view?usp=sharing)
 - [complete-web-developer-manual](https://github.com/zero-to-mastery/complete-web-developer-manual)
+- [CP-Algorithms for Competitive programming](https://cp-algorithms.com/)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit)
 - [Github Pages](https://pages.github.com/)
