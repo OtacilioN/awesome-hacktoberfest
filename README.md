@@ -1,8 +1,9 @@
+<a id="back-to-top"></a>
 # Awesome Hacktoberfest 2023 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > We present a curated list of awesome Hacktoberfest 2023 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
 
-> Will you choose the ✨ Hacktoberfest t-shirt ✨ but don't want to stop contributing to the environment and a sustainable future? [Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) so you can plant a tree! 🌱
+> To help ensure Hacktoberfest can be sustained for another decade, this year they’re moving away from a free t-shirt reward to a digital reward.[Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) and claim awesome badges ⚡. 
 
 > ⚠️ Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
 
@@ -21,14 +22,16 @@
 ## Repositories Supporting First-Timers
 
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
-- [Library](https://github.com/EbookFoundation/free-programming-books)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ## Repositories Coding for Beginners
-
+- [Basic Python projects](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
-- [Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations)
+- [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
-- [Javascript mini projects](https://github.com/thinkswell/javascript-mini-projects)
+ - [Javascript mini projects](https://github.com/thinkswell/javascript-mini-projects)
+- [LinksHub](https://github.com/rupali-codes/LinksHub)
+- [Python questions](https://github.com/Neautrino/python-questions)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [Reduced.to](https://github.com/origranot/reduced.to)
 - [Scrimba](https://scrimba.com)
@@ -36,13 +39,14 @@
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 
 
-
 ## Repositories for intermediate/Advanced Coders
 - [AdonisJS](https://github.com/adonisjs/core)
 - [ALDA](https://github.com/alda-lang/alda)
 - [ALVR](https://github.com/alvr-org/ALVR)
 - [Aliucord](https://github.com/Aliucord/Aliucord)
+- [Amplication](https://github.com/amplication/amplication)
 - [Ansible](https://github.com/ansible/ansible)
+- [Appwrite](https://github.com/appwrite/appwrite)
 - [Catima](https://github.com/CatimaLoyalty/Android)
 - [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev)
 - [Configu](https://github.com/configu/configu)
@@ -52,6 +56,7 @@
 - [Novu](https://github.com/novuhq/novu)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
+
 
 
 ## Excluded Repositories From Hacktoberfest 2023
@@ -82,6 +87,7 @@
 - [Complete Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE)
 - [Complete Node.js Handbook](https://drive.google.com/file/d/1qJNsYowJ70N47lNH3nCujO3xUH-vsQ69/view?usp=sharing)
 - [complete-web-developer-manual](https://github.com/zero-to-mastery/complete-web-developer-manual)
+- [CP-Algorithms for Competitive programming](https://cp-algorithms.com/)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit)
 - [Github Pages](https://pages.github.com/)
@@ -143,3 +149,6 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [Otacilio Maia](https://github.com/OtacilioN) has waived all copyright and related or neighboring rights to this work.
+
+<!-- Add Back to Top Button -->
+[Back to top](#back-to-top)
