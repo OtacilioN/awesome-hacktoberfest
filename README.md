@@ -28,6 +28,7 @@
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
+- [LinksHub](https://github.com/rupali-codes/LinksHub)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [Scrimba](https://scrimba.com)
 - [The Algorithms](https://the-algorithms.com/)
