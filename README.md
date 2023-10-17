@@ -59,7 +59,9 @@
 ## Excluded Repositories From Hacktoberfest 2023
 
 - [app-ideas](https://github.com/florinpop17/app-ideas)
+- [Btecky(laviii123)](https://github.com/laviii123/Btecky)
 - [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
+- [development_Hactoberfest23 (Nikhil-2002)](https://github.com/Nikhil-2002/development_Hactoberfest23)
 - [First contributions](https://github.com/firstcontributions/first-contributions)
 - [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge)
 - [Hacktoberfest2023(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest2023)
@@ -71,8 +73,8 @@
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
 - [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
-- [Btecky(laviii123)](https://github.com/laviii123/Btecky)
-- [development_Hactoberfest23 (Nikhil-2002)](https://github.com/Nikhil-2002/development_Hactoberfest23)
+
+
 
 
 ## Guides and Resources
