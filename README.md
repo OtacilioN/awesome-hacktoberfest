@@ -20,10 +20,9 @@
 - [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First-Timers
-
+- [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
-- [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
 
 ## Repositories Coding for Beginners
 - [Basic Python projects](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions)
