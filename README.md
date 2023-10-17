@@ -27,6 +27,7 @@
 ## Repositories Coding for Beginners
 - [Basic Python projects](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
+- [Hacktoberfest-2023 (zero-to-mastery)](https://github.com/zero-to-mastery/Hacktoberfest-2023)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
 - [LinksHub](https://github.com/rupali-codes/LinksHub)
