@@ -104,6 +104,7 @@
 - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 - [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 - [JavaScript Challenger Interview Handbook](https://jscodechallenges.vercel.app/)
+- [Javascript O'Reilly Book and Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 
 ## CLI Tools
 
