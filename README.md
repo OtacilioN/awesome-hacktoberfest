@@ -94,6 +94,7 @@
 - [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
+- [R Cheat Sheet](https://www.datacamp.com/cheat-sheet/getting-started-r)
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [GoLang Cheat Sheet](https://devhints.io/go)
