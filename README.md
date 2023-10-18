@@ -61,6 +61,7 @@
 
 - [app-ideas](https://github.com/florinpop17/app-ideas)
 - [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
+- [DSA_Hacktoberfest2023](https://github.com/Saikat2407/DSA_Hacktoberfest2023)
 - [First contributions](https://github.com/firstcontributions/first-contributions)
 - [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge)
 - [Hacktoberfest(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest)
@@ -68,6 +69,7 @@
 - [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 - [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [HacktoberFest2023(Harshjot)](https://github.com/Harsh-jot/HacktoberFest-2023)
+- [Hacktoberfest_2023(Im-Soumya)](https://github.com/Im-Soumya/Hacktoberfest_2023/tree/master)
 - [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
 - [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
@@ -76,7 +78,6 @@
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
 - [Btecky(laviii123)](https://github.com/laviii123/Btecky)
 - [The-Hello-World-Project(H4K3R13)](https://github.com/H4K3R13/The-Hello-World-Project)
-
 
 ## Guides and Resources
 
