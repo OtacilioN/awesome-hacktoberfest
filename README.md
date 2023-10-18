@@ -63,6 +63,7 @@
 - [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
 - [First contributions](https://github.com/firstcontributions/first-contributions)
 - [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge)
+- [Hacktoberfest(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest)
 - [Hacktoberfest2023(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest2023)
 - [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 - [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
