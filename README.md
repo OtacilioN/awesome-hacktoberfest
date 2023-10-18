@@ -123,6 +123,7 @@
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [GoLang Cheat Sheet](https://devhints.io/go)
+- [V Programming Language Cheat Sheet](https://github.com/vlang/v/blob/master/doc/docs.md)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
