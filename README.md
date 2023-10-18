@@ -98,6 +98,7 @@
 - [Hacktoberfest Swag – New List of Companies Giving Out Swag For Hacktoberfest](https://hacktoberfest-swag.com/)
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
+- [HandsOn tutorial for PostgreSQL](https://www.youtube.com/watch?v=SpfIwlAYaKk&pp=ygUcZnJlZWNvZGVjYW1wIHdlYiBkZXZlbG9wbWVudA%3D%3D)
 - [How to Contribute to Hacktoberfest 2022](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest)
 - [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
 - [MIT - The Missing Semester](https://missing.csail.mit.edu/)
@@ -106,6 +107,7 @@
 - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 - [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 - [JavaScript Challenger Interview Handbook](https://jscodechallenges.vercel.app/)
+
 
 ## CLI Tools
 
