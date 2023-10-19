@@ -1,9 +1,10 @@
 <a id="back-to-top"></a>
+
 # Awesome Hacktoberfest 2023 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > We present a curated list of awesome Hacktoberfest 2023 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
 
-> To help ensure Hacktoberfest can be sustained for another decade, this year they’re moving away from a free t-shirt reward to a digital reward.[Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) and claim awesome badges ⚡. 
+> To help ensure Hacktoberfest can be sustained for another decade, this year they’re moving away from a free t-shirt reward to a digital reward.[Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) and claim awesome badges ⚡.
 
 > ⚠️ Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
 
@@ -20,16 +21,19 @@
 - [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First-Timers
+
 - [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ## Repositories Coding for Beginners
+
 - [Basic Python projects](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
 - [LinksHub](https://github.com/rupali-codes/LinksHub)
+- [Multi-language algorithms repo](https://github.com/Aditya-devp/Contributershub.git)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [Scrimba](https://scrimba.com)
 - [The Algorithms](https://the-algorithms.com/)
@@ -38,6 +42,7 @@
 - [python-questions](https://github.com/Neautrino/python-questions)
 
 ## Repositories for intermediate/Advanced Coders
+
 - [AdonisJS](https://github.com/adonisjs/core)
 - [ALDA](https://github.com/alda-lang/alda)
 - [ALVR](https://github.com/alvr-org/ALVR)
@@ -56,7 +61,6 @@
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
 - [Formbricks](https://github.com/formbricks/formbricks)
-
 
 ## Excluded Repositories From Hacktoberfest 2023
 
@@ -116,7 +120,6 @@
 - [JavaScript Challenger Interview Handbook](https://jscodechallenges.vercel.app/)
 - [Javascript O'Reilly Book and Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 
-
 ## CLI Tools
 
 - [Collection of Basic CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
@@ -155,7 +158,6 @@
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
 
-
 ## Meetups and Events
 
 See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
@@ -167,4 +169,5 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 To the extent possible under law, [Otacilio Maia](https://github.com/OtacilioN) has waived all copyright and related or neighboring rights to this work.
 
 <!-- Add Back to Top Button -->
+
 [Back to top](#back-to-top)
