@@ -83,6 +83,7 @@
 
 ## Guides and Resources
 
+- [All you need to know about Hacktoberfest 2023](https://stellar-astronaut-ac5.notion.site/Hacktoberfest-Meetup-0010-7bc83284f1d24c37b54efe068382a31b?pvs=25)
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
 - [awesome-datascience](https://github.com/academic/awesome-datascience)
@@ -122,6 +123,7 @@
 
 ## Cheat sheets
 
+- [Git cheat sheet by Hacktoberfest](https://www.scribd.com/document/678572178/Hacktoberfest-Git-Cheat-Sheet)
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
 - [Bug Bounty Cheat Sheet](https://kathan19.gitbook.io/howtohunt/)
 - [C-Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/)
@@ -129,6 +131,7 @@
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
 - [Data Science Cheat Sheet](https://ai.plainenglish.io/master-data-science-with-this-comprehensive-cheat-sheet-numpy-pandas-python-r-ml-dl-nlp-188d50a54952)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+- [Github Cheat Sheet](https://www.slideshare.net/jaehyoksong/github-gitcheatsheet-41782533)
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
