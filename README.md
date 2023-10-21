@@ -82,6 +82,8 @@
 - [HactoberFest2023(AMITKUMAR24-C)](https://github.com/AMITKUMAR24-C/HactoberFest2023)
 - [hacktoberfest-swag(swapnilsparsh)](https://github.com/swapnilsparsh/hacktoberfest-swag)
 - [The-Hello-World-Project(H4K3R13)](https://github.com/H4K3R13/The-Hello-World-Project)
+- [codespell(Tushar040903)](https://github.com/Tushar040903/codespell)
+
 
 ## Guides and Resources
 
