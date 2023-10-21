@@ -67,6 +67,10 @@
 - [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
 - [Btecky(laviii123)](https://github.com/laviii123/Btecky)
+- [HactoberFest2023(AMITKUMAR24-C)](https://github.com/AMITKUMAR24-C/HactoberFest2023)
+- [hacktoberfest-swag(swapnilsparsh)](https://github.com/swapnilsparsh/hacktoberfest-swag)
+
+
 
 
 ## Guides and Resources
