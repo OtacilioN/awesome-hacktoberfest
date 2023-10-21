@@ -80,6 +80,7 @@
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
 - [Btecky(laviii123)](https://github.com/laviii123/Btecky)
 - [The-Hello-World-Project(H4K3R13)](https://github.com/H4K3R13/The-Hello-World-Project)
+- [Sangwan5688](https://github.com/Sangwan5688/Hacktoberfest2021/)
 
 ## Guides and Resources
 
