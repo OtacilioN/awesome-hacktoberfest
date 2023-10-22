@@ -79,6 +79,8 @@
 - [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
 - [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
+- [Hacktoberfest2023(mubashar-nouman)](https://github.com/mubashar-nouman/Hacktoberfest2023)
+- [HacktoberFest2k23(mahesh-barapatre)](https://github.com/mahesh-barapatre/HacktoberFest2k23)
 - [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
 - [Print-Hacktoberfest2023(sritikamanjrekar)](https://github.com/sritikamanjrekar/Print-Hacktoberfest2023)
 - [Swags-for-Developers](https://github.com/MrKrishnaAgarwal/Swags-for-Developers)
