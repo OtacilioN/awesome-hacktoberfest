@@ -32,10 +32,14 @@
 - [LinksHub](https://github.com/rupali-codes/LinksHub)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [Scrimba](https://scrimba.com)
+- [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23.git)
+- [C++](https://github.com/Ananyasingh2002/Hacktoberfest2023.git)
 - [The Algorithms](https://the-algorithms.com/)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 - [reduced.to](https://github.com/origranot/reduced.to)
 - [python-questions](https://github.com/Neautrino/python-questions)
+- [Coding](https://github.com/extinctsion/Hacktoberfest2023)
+- [Coding 2](https://github.com/random957654/Hactober-2023-1)
 
 ## Repositories for intermediate/Advanced Coders
 - [AdonisJS](https://github.com/adonisjs/core)
@@ -56,6 +60,7 @@
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
 - [Formbricks](https://github.com/formbricks/formbricks)
+
 
 
 ## Excluded Repositories From Hacktoberfest 2023
