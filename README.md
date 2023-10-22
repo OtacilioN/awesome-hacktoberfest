@@ -28,7 +28,8 @@
 - [Scrimba](https://scrimba.com)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23.git)
 - [C++](https://github.com/Ananyasingh2002/Hacktoberfest2023.git)
-
+- [Coding](https://github.com/extinctsion/Hacktoberfest2023)
+- [Coding](https://github.com/random957654/Hactober-2023-1)
 
 
 ## Repositories for intermediate/Advanced Coders
