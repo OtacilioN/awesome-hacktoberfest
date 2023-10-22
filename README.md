@@ -123,7 +123,6 @@
 - [Collection of Basic CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 
 ## Cheat sheets
-- [React cheat sheet](https://devhints.io/react)
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
 - [Bug Bounty Cheat Sheet](https://kathan19.gitbook.io/howtohunt/)
 - [C-Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/)
@@ -139,6 +138,7 @@
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 - [R Cheat Sheet](https://www.datacamp.com/cheat-sheet/getting-started-r)
+- [React cheat sheet](https://devhints.io/react)
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [GoLang Cheat Sheet](https://devhints.io/go)
