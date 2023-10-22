@@ -11,13 +11,17 @@
 
 ## Contents
 
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
-- [Repositories Coding for Beginners](#repositories-coding-for-beginners)
-- [Excluded Repositories From Hacktoberfest 2023](#excluded-repositories-from-hacktoberfest-2023)
-- [Guides and Resources](#guides-and-resources)
-- [Cli Tools](#cli-tools)
-- [Cheat sheets](#cheat-sheets)
-- [Meetups and Events](#meetups-and-events)
+- [Awesome Hacktoberfest 2023 ](#awesome-hacktoberfest-2023-)
+  - [Contents](#contents)
+  - [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
+  - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+  - [Repositories for intermediate/Advanced Coders](#repositories-for-intermediateadvanced-coders)
+  - [Excluded Repositories From Hacktoberfest 2023](#excluded-repositories-from-hacktoberfest-2023)
+  - [Guides and Resources](#guides-and-resources)
+  - [CLI Tools](#cli-tools)
+  - [Cheat sheets](#cheat-sheets)
+  - [Meetups and Events](#meetups-and-events)
+  - [License](#license)
 
 ## Repositories Supporting First-Timers
 - [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
@@ -76,6 +80,7 @@
 - [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
 - [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
+- [Print-Hacktoberfest2023(sritikamanjrekar)](https://github.com/sritikamanjrekar/Print-Hacktoberfest2023)
 - [Swags-for-Developers](https://github.com/MrKrishnaAgarwal/Swags-for-Developers)
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
 - [Btecky(laviii123)](https://github.com/laviii123/Btecky)
