@@ -28,7 +28,6 @@
 - [Basic Python projects](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
-- [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
 - [LinksHub](https://github.com/rupali-codes/LinksHub)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [Scrimba](https://scrimba.com)
@@ -80,6 +79,7 @@
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
 - [Btecky(laviii123)](https://github.com/laviii123/Btecky)
 - [The-Hello-World-Project(H4K3R13)](https://github.com/H4K3R13/The-Hello-World-Project)
+- [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
 
 ## Guides and Resources
 
