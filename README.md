@@ -71,15 +71,14 @@
 - [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 - [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [HacktoberFest2023(Harshjot)](https://github.com/Harsh-jot/HacktoberFest-2023)
+- [Hacktoberfest-Introduction-To-Programming](https://github.com/lindelwa122/Hacktoberfest-Introduction-To-Programming)
 - [Hacktoberfest_2023(Im-Soumya)](https://github.com/Im-Soumya/Hacktoberfest_2023/tree/master)
 - [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
 - [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
 - [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
 - [Swags-for-Developers](https://github.com/MrKrishnaAgarwal/Swags-for-Developers)
-- [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/
-- [Hacktoberfest-Introduction-To-Programming](https://github.com/lindelwa122/Hacktoberfest-Introduction-To-Programming)
-Web-Dev-Project-for-Hacktoberfest2023)
+- [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
 - [Btecky(laviii123)](https://github.com/laviii123/Btecky)
 - [The-Hello-World-Project(H4K3R13)](https://github.com/H4K3R13/The-Hello-World-Project)
 
