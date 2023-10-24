@@ -33,7 +33,6 @@
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [Scrimba](https://scrimba.com)
 - [The Algorithms](https://the-algorithms.com/)
-- [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 - [reduced.to](https://github.com/origranot/reduced.to)
 - [python-questions](https://github.com/Neautrino/python-questions)
 
@@ -80,6 +79,7 @@
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
 - [Btecky(laviii123)](https://github.com/laviii123/Btecky)
 - [The-Hello-World-Project(H4K3R13)](https://github.com/H4K3R13/The-Hello-World-Project)
+- [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 
 ## Guides and Resources
 
