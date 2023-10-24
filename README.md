@@ -23,6 +23,7 @@
 - [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+-
 
 ## Repositories Coding for Beginners
 - [Basic Python projects](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions)
@@ -80,6 +81,7 @@
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
 - [Btecky(laviii123)](https://github.com/laviii123/Btecky)
 - [The-Hello-World-Project(H4K3R13)](https://github.com/H4K3R13/The-Hello-World-Project)
+- [List of competitions with details](https://github.com/avinash201199/Competitions-and-Programs-List)
 
 ## Guides and Resources
 
