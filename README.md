@@ -157,6 +157,7 @@
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
+- [Git Cheat Sheets(Eng)](https://training.github.com/downloads/github-git-cheat-sheet/)
 
 
 ## Meetups and Events
