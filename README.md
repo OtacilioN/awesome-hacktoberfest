@@ -11,13 +11,17 @@
 
 ## Contents
 
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
-- [Repositories Coding for Beginners](#repositories-coding-for-beginners)
-- [Excluded Repositories From Hacktoberfest 2023](#excluded-repositories-from-hacktoberfest-2023)
-- [Guides and Resources](#guides-and-resources)
-- [Cli Tools](#cli-tools)
-- [Cheat sheets](#cheat-sheets)
-- [Meetups and Events](#meetups-and-events)
+- [Awesome Hacktoberfest 2023 ](#awesome-hacktoberfest-2023-)
+  - [Contents](#contents)
+  - [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
+  - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+  - [Repositories for intermediate/Advanced Coders](#repositories-for-intermediateadvanced-coders)
+  - [Excluded Repositories From Hacktoberfest 2023](#excluded-repositories-from-hacktoberfest-2023)
+  - [Guides and Resources](#guides-and-resources)
+  - [CLI Tools](#cli-tools)
+  - [Cheat sheets](#cheat-sheets)
+  - [Meetups and Events](#meetups-and-events)
+  - [License](#license)
 
 ## Repositories Supporting First-Timers
 - [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
@@ -62,6 +66,7 @@
 
 - [app-ideas](https://github.com/florinpop17/app-ideas)
 - [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
+- [Dive-to-Dev_Hacktoberfest23](https://github.com/Manishak798/Dive-to-Dev_Hacktoberfest23)
 - [DSA_Hacktoberfest2023](https://github.com/Saikat2407/DSA_Hacktoberfest2023)
 - [First contributions](https://github.com/firstcontributions/first-contributions)
 - [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge)
