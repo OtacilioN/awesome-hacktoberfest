@@ -1,0 +1,51 @@
+Configuration
+
+•	Configure Git with your name: git config --global user.name "Your Name"
+•	Configure Git with your email: git config --global user.email "youremail@example.com"
+Creating and Cloning Repositories
+•	Initialize a new Git repository: git init
+•	Clone a remote repository: git clone remote_repository_url
+
+
+Basic Git Workflow
+
+•	Check the status of your working directory: git status
+•	Stage changes for commit: git add file_name
+•	Unstage changes: git reset file_name
+•	Commit changes with a message: git commit -m "Your commit message"
+•	Push changes to a remote repository: git push
+•	Pull changes from a remote repository: git pull
+
+Branching and Merging
+
+•	Create a new branch: git branch branch_name
+•	Switch to a branch: git checkout branch_name
+•	Create a new branch and switch to it: git checkout -b branch_name
+•	Merge a branch into the current branch: git merge branch_name
+•	Delete a branch: git branch -d branch_name
+
+Viewing History
+
+•	Show commit history: git log
+•	Show a specific commit and its changes: git show commit_hash
+Remote Repositories
+•	Add a remote repository: git remote add remote_name remote_repository_url
+•	Fetch changes from a remote repository: git fetch remote_name
+•	Remove a remote repository: git remote remove remote_name
+
+Undoing Changes
+
+•	Discard changes in the working directory: git checkout -- file_name
+•	Revert a commit and create a new commit: git revert commit_hash
+•	Reset to a previous commit and discard subsequent changes: git reset --hard commit_hash
+Tagging
+•	Create an annotated tag: git tag -a tag_name -m "Tag message"
+•	Push tags to a remote repository: git push origin tag_name
+•	Show a list of tags: git tag
+
+Stashing
+
+•	Temporarily save changes without committing: git stash
+•	Apply stashed changes: git stash apply
+•	List stashed changes: git stash list
+This cheat sheet includes many common Git commands and should be a handy reference for basic Git operations. Remember to replace placeholders like file_name, branch_name, and commit_hash with your specific information when using these commands.
