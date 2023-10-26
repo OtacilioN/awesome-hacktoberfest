@@ -136,6 +136,7 @@
 - [Git cheat sheet by Hacktoberfest](https://www.scribd.com/document/678572178/Hacktoberfest-Git-Cheat-Sheet)
 - [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
+- [Low level Design (LLD) CheatSheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 - [R Cheat Sheet](https://www.datacamp.com/cheat-sheet/getting-started-r)
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
@@ -154,7 +155,6 @@
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
-- [Low level Design (LLD) CheatSheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
 
 ## Meetups and Events
