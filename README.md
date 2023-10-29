@@ -49,6 +49,8 @@
 - [Clickvote](https://github.com/clickvote/clickvote)
 - [Configu](https://github.com/configu/configu)
 - [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev)
+- [Devtron](https://github.com/devtron-labs/devtron)
+- [DocsGPT](https://github.com/arc53/DocsGPT)
 - [Figma Plugin Resources](https://github.com/figma/plugin-resources)
 - [Hanko](https://github.com/teamhanko/hanko)
 - [Hyperswitch](https://github.com/juspay/hyperswitch)
