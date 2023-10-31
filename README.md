@@ -41,6 +41,7 @@
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 - [reduced.to](https://github.com/origranot/reduced.to)
 - [python-questions](https://github.com/Neautrino/python-questions)
+- [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 
 ## Repositories for intermediate/Advanced Coders
 
