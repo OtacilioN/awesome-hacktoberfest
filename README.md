@@ -175,6 +175,8 @@
 - [MongoDB Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
 - [Scala Cheat Sheet](https://github.com/riiswa/Scala-CheatSheet)
+- [My SQL basic Cheat Sheet](https://www.datacamp.com/cheat-sheet/my-sql-basics-cheat-sheet)
+- [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 
 ## Meetups and Events
 
