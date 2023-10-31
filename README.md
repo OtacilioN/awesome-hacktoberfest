@@ -151,6 +151,7 @@
 - [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
 - [Linux Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
+- [Low level Design (LLD) CheatSheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 - [R Cheat Sheet](https://www.datacamp.com/cheat-sheet/getting-started-r)
 - [React cheat sheet](https://devhints.io/react)
