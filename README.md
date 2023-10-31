@@ -145,6 +145,7 @@
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [GoLang Cheat Sheet](https://devhints.io/go)
+- [MongoDB Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 - [V Programming Language Cheat Sheet](https://github.com/vlang/v/blob/master/doc/docs.md)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/)
@@ -157,6 +158,7 @@
 - [Kotlin Cheat Sheet ](https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet)
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
+- [MongoDB Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
 - [Scala Cheat Sheet](https://github.com/riiswa/Scala-CheatSheet)
 
