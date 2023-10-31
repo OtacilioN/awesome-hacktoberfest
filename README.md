@@ -1,9 +1,10 @@
 <a id="back-to-top"></a>
+
 # Awesome Hacktoberfest 2023 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > We present a curated list of awesome Hacktoberfest 2023 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
 
-> To help ensure Hacktoberfest can be sustained for another decade, this year they’re moving away from a free t-shirt reward to a digital reward.[Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) and claim awesome badges ⚡. 
+> To help ensure Hacktoberfest can be sustained for another decade, this year they’re moving away from a free t-shirt reward to a digital reward.[Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) and claim awesome badges ⚡.
 
 > ⚠️ Spams will not be tolerated, do not send random codes here, you can contribute adding contents to the list, Don't forget to [read our contributing guide](CONTRIBUTING.md)
 
@@ -20,24 +21,30 @@
 - [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First-Timers
+
 - [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ## Repositories Coding for Beginners
+
 - [Basic Python projects](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions)
+- [HacktoberFest](https://github.com/reactplay/react-play)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
 - [LinksHub](https://github.com/rupali-codes/LinksHub)
+- [Multi-language algorithms repo](https://github.com/Aditya-devp/Contributershub.git)
 - [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
 - [Scrimba](https://scrimba.com)
 - [The Algorithms](https://the-algorithms.com/)
 - [Web Design](https://github.com/Nikhil-2002/development_Hactoberfest23)
 - [reduced.to](https://github.com/origranot/reduced.to)
 - [python-questions](https://github.com/Neautrino/python-questions)
+- [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 
 ## Repositories for intermediate/Advanced Coders
+
 - [AdonisJS](https://github.com/adonisjs/core)
 - [ALDA](https://github.com/alda-lang/alda)
 - [ALVR](https://github.com/alvr-org/ALVR)
@@ -49,14 +56,18 @@
 - [Clickvote](https://github.com/clickvote/clickvote)
 - [Configu](https://github.com/configu/configu)
 - [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev)
+- [Devtron](https://github.com/devtron-labs/devtron)
+- [DocsGPT](https://github.com/arc53/DocsGPT)
 - [Figma Plugin Resources](https://github.com/figma/plugin-resources)
 - [Hanko](https://github.com/teamhanko/hanko)
 - [Hyperswitch](https://github.com/juspay/hyperswitch)
+- [Illacloud](https://github.com/illacloud/illa-builder)
 - [Novu](https://github.com/novuhq/novu)
+- [React.js - Web_App](https://github.com/UmangDalvadi/Text-Utiles-ReactApp)
+- [React.js - Chrome_Extension](https://github.com/UmangDalvadi/WorkLikeElon-Lolgorithm)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
 - [Wasp](https://github.com/wasp-lang/wasp)
 - [Formbricks](https://github.com/formbricks/formbricks)
-
 
 ## Excluded Repositories From Hacktoberfest 2023
 
@@ -75,11 +86,14 @@
 - [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
 - [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
 - [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
+- [Hacktoberfest-2023(UmangDalvadi)](https://github.com/UmangDalvadi/Hacktoberfest-2023)
 - [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
 - [Swags-for-Developers](https://github.com/MrKrishnaAgarwal/Swags-for-Developers)
 - [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
 - [Btecky(laviii123)](https://github.com/laviii123/Btecky)
 - [The-Hello-World-Project(H4K3R13)](https://github.com/H4K3R13/The-Hello-World-Project)
+- [Cloudhustlers](https://github.com/SourceFusionHub/program)
+
 
 ## Guides and Resources
 
@@ -116,46 +130,52 @@
 - [JavaScript Challenger Interview Handbook](https://jscodechallenges.vercel.app/)
 - [Javascript O'Reilly Book and Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 
-
 ## CLI Tools
 
 - [Collection of Basic CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 
 ## Cheat sheets
-
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
 - [Bug Bounty Cheat Sheet](https://kathan19.gitbook.io/howtohunt/)
 - [C-Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/)
 - [Cheatography - Find any CheatSheet](https://cheatography.com/)
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
+- [Computer-Network-CheatSheet](https://github.com/UmangDalvadi/CheatSheets/blob/main/Computer-Network.txt)
 - [Dart cheat sheet](https://dart.dev/codelabs/dart-cheatsheet)
 - [Data Science Cheat Sheet](https://ai.plainenglish.io/master-data-science-with-this-comprehensive-cheat-sheet-numpy-pandas-python-r-ml-dl-nlp-188d50a54952)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Github Cheat Sheet](https://www.slideshare.net/jaehyoksong/github-gitcheatsheet-41782533)
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git cheat sheet by Hacktoberfest](https://www.scribd.com/document/678572178/Hacktoberfest-Git-Cheat-Sheet)
+- [git-CheatSheet-beginner](https://github.com/UmangDalvadi/CheatSheets/blob/main/git-commands.txt)
 - [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
+- [Linux Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 - [Low level Design (LLD) CheatSheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 - [R Cheat Sheet](https://www.datacamp.com/cheat-sheet/getting-started-r)
+- [React cheat sheet](https://devhints.io/react)
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [GoLang Cheat Sheet](https://devhints.io/go)
+- [MongoDB Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 - [V Programming Language Cheat Sheet](https://github.com/vlang/v/blob/master/doc/docs.md)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [Bootstrap Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/)
 - [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/)
 - [npm Cheat Sheet](https://media.jfrog.com/wp-content/uploads/2021/08/23165237/JFrog_NPM_CheatSheet_V4.pdf)
 - [Kotlin Cheat Sheet](https://kt.academy/Kotlin_Cheat_Sheet.pdf)
 - [C++ Cheat Sheet ](https://drive.google.com/file/d/1Q_I6H8qBTTIFMHEPbbpKVrg_E5N6cFtg/view)
 - [J Query Cheat Sheet ](https://cheatography.com/i3quest/cheat-sheets/jquery/)
 - [Kotlin Cheat Sheet ](https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet)
+- [Linux Commands Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
+- [MongoDB Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
-
+- [Scala Cheat Sheet](https://github.com/riiswa/Scala-CheatSheet)
 
 ## Meetups and Events
 
@@ -168,4 +188,5 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 To the extent possible under law, [Otacilio Maia](https://github.com/OtacilioN) has waived all copyright and related or neighboring rights to this work.
 
 <!-- Add Back to Top Button -->
+
 [Back to top](#back-to-top)
