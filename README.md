@@ -167,6 +167,7 @@
 - [C++ Cheat Sheet ](https://drive.google.com/file/d/1Q_I6H8qBTTIFMHEPbbpKVrg_E5N6cFtg/view)
 - [J Query Cheat Sheet ](https://cheatography.com/i3quest/cheat-sheets/jquery/)
 - [Kotlin Cheat Sheet ](https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet)
+- [Linux Commands Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 - [C# Cheat Sheet](https://hackr.io/blog/c-sharp-cheat-sheet)
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
 - [MongoDB Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
