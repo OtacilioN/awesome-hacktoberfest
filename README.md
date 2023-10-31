@@ -29,6 +29,7 @@
 ## Repositories Coding for Beginners
 
 - [Basic Python projects](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions)
+- [HacktoberFest](https://github.com/reactplay/react-play)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
@@ -128,7 +129,6 @@
 - [Collection of Basic CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 
 ## Cheat sheets
-
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
 - [Bug Bounty Cheat Sheet](https://kathan19.gitbook.io/howtohunt/)
 - [C-Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/)
@@ -145,6 +145,7 @@
 - [Linux Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 - [Programming Cheat Sheets](https://cheatography.com/tag/programming/)
 - [R Cheat Sheet](https://www.datacamp.com/cheat-sheet/getting-started-r)
+- [React cheat sheet](https://devhints.io/react)
 - [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 - [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [GoLang Cheat Sheet](https://devhints.io/go)
