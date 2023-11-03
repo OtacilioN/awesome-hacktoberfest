@@ -174,7 +174,9 @@
 - [Machine Learning Basics CheatSheet](https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet)
 - [MongoDB Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 - [SQL Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
+- [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 - [Scala Cheat Sheet](https://github.com/riiswa/Scala-CheatSheet)
+
 
 ## Meetups and Events
 
