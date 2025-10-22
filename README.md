@@ -131,7 +131,7 @@
 - [Javascript O'Reilly Book and Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 
 ## CLI Tools
-
+- [17 Essential CLI Tools to Boost Developer Productivity](https://dev.to/0xkoji/17-essential-cli-tools-to-boost-developer-productivity-2o9e)
 - [Collection of Basic CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 
 ## Cheat sheets
