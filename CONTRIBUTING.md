@@ -6,6 +6,7 @@ This repository was created to help developers get started with Open Source duri
 ## Have you found some awesome repositories participating in Hacktoberfest?
 
 Add them to this list so others can find them too and start contributing. However, make sure that these repositories are beginner-friendly!
+
 > NOTE: Check out `issues` labelled as `Hacktoberfest` and start contributing!
 > NOTE: Check if the repository is participating in hacktoberfest by being labeled with `hacktoberfest` label
 
@@ -16,13 +17,13 @@ Add them to this list so others can find them too and start contributing. Howeve
 3. Find a repository that contains the `hacktoberfest` label or a guide/resource related to hacktoberfest
 4. Add your item in alphabetical order in a section or create a new section, if you are not sure about the appropriate section you can open an `issue` to discuss with the community.
 5. Push to your fork and [submit a pull request](https://github.com/OtacilioN/awesome-hacktoberfest-2018/compare).
-> Tips: Make sure that you are submitting and committing things that are of quality substance, otherwise maintainers can invalidate your pull request
-> There are a lot of good websites that you can research before opening a request instead of just writing "cool" or "Hello World"
+   > Tips: Make sure that you are submitting and committing things that are of quality substance, otherwise maintainers can invalidate your pull request
+   > There are a lot of good websites that you can research before opening a request instead of just writing "cool" or "Hello World"
 6. Pat yourself on the back and wait for your `pull request` to be reviewed and merged.
 
 ## Do not send spam
 
-Uploading random code such as `my_form.html`, `algoritmX.py` or any piece of code that is not related to this awesome list is considered spam, this repository is not intended to give you a quick, easy and non-sense contribution, you can contribute helping other's to find awesome repositories to contribute in hacktoberfest. 
+Uploading random code such as `my_form.html`, `algoritmX.py` or any piece of code that is not related to this awesome list is considered spam, this repository is not intended to give you a quick, easy and non-sense contribution, you can contribute helping other's to find awesome repositories to contribute in hacktoberfest.
 
 Spams will be marked with spam label, and you can be banned from hacktoberfest by spam
 
@@ -36,3 +37,4 @@ Spams will be marked with spam label, and you can be banned from hacktoberfest b
 - [Git Forks and Upstream-A beginners Guide](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
+- [Rafia Minhaj](https://github.com/rafiaminhaj)
