@@ -146,7 +146,8 @@
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Github Cheat Sheet](https://www.slideshare.net/jaehyoksong/github-gitcheatsheet-41782533)
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-- [Git cheat sheet by Hacktoberfest](https://www.scribd.com/document/678572178/Hacktoberfest-Git-Cheat-Sheet)
+- [Git cheat sheet by Hacktoberfest](https://www.scribd.com/document/678572178/Hacktoberfest-
+- - [JavaScript CheatSheet](https://github.com/willybrauner/javascript-cheatsheet)Git-Cheat-Sheet)
 - [git-CheatSheet-beginner](https://github.com/UmangDalvadi/CheatSheets/blob/main/git-commands.txt)
 - [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
 - [Javascript Cheat Sheet](http://www.cheat-sheets.org/sites/javascript.su/)
