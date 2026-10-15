@@ -63,6 +63,7 @@
 - [Hyperswitch](https://github.com/juspay/hyperswitch)
 - [Illacloud](https://github.com/illacloud/illa-builder)
 - [Novu](https://github.com/novuhq/novu)
+- [Openapi PHP SDK](https://github.com/openapi/openapi-php-sdk)
 - [React.js - Web_App](https://github.com/UmangDalvadi/Text-Utiles-ReactApp)
 - [React.js - Chrome_Extension](https://github.com/UmangDalvadi/WorkLikeElon-Lolgorithm)
 - [Tooljet](https://github.com/ToolJet/ToolJet)
