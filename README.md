@@ -30,6 +30,7 @@
 
 - [Basic Python projects](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions)
 - [HacktoberFest](https://github.com/reactplay/react-play)
+- [Every Language Fiscal Code](https://github.com/openapi/every-language-fiscal-code)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
