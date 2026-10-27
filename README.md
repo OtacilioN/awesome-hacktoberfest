@@ -25,6 +25,8 @@
 - [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
 - [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [hacktoberfest-friendly](https://github.com/aixisstudio/hacktoberfest-friendly) - PRs auto-merged in minutes; beginner-safe first contributions.
+- [add-your-name](https://github.com/aixisstudio/add-your-name) - Add your name, bot merges your PR automatically.
 
 ## Repositories Coding for Beginners
 
